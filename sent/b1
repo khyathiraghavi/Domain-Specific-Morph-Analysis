@@ -1,0 +1,125 @@
+-'kaanch ke glasson' is a songle NP chunk. 'ke' is not given in the output.
+-tel ka meyan is separated to another chunk while it should not be just as the case of namak.
+-mash kiye aaloo is one chunk under the name NP, but mash is separated from kiye aaloo.
+-just like in the case of above, uparokth sabhi masala samagri is one chunk whereas samagri is separated.
+-besan 'ke' ghol is one chunk NP, but besan and ghol are separated.
+-dubaayiyein is a verb and it should be a separate chunk , whereas it iis marked as NN.
+-imli ki meeti chatni should be one NP chunk.
+-ek kadahi tel is one chunk but tel is separated.
+-hari evam meeti chutney should be one chunk but all of them are separated.
+-'musle huye kelon mein' is one chunk but huye and mein are not given in the output and musle and kelon are separated.
+-'paneer slice' is one chunk, but in the output they are separated.
+-thoda sa kela masala is one chunk, but masala is separated as another NP chunk.
+-rakh kar is one chunk but kar is not given in the output.
+-haath se is one chunk but se is not given in the output.
+-'sarvpratham doodh' should not be in the same chunk, but they are parsed into the same chunk. 'sarvpratham' is an adverb and should be in separate chunk.
+-'doodh mein' is one chunk but main is not given in the output.
+-'pot mein' is one chunk but mein is not given in the output.
+-'ice cream pot' is not one chunk in this sentence but they are parsed together as a single NP chunk.
+-'pot mein' is one chunk but mein is not given in the output.
+-'ice cream pot' is not one chunk in this sentence but they are parsed together as a single NP chunk.
+-'pista kataran se' is one chunk but se is not given in the output. pista and kataran are separated.
+-'tayyaar vaasanthi mango ice cream ko' is one chunk while they are hunked separately.
+(*******-'tukde karein' is one chunk.)
+-'ho jaane par' is one chunk. 'jaane par' is not given in the output.
+-'mix fruit sauce' is a single chunk. But 'mix' is separated.
+-'mash aaloo' is one chunk. But they are parsed under two separate chunks.
+-ek choude muh waale bartan is a single chunk. But waale is not given in the output. 'ek chaude muh' and 'bartan' are separated.
+-'aaloo ubaal' is not in the same chunk. But they are parsed in the same one.
+-'chote tukde' is one single chunk. But they are parsed to two separate chunks.
+-'chawal ka doosra bhaag' should have been a single chunk.*************
+-'raayi ka chounk' is a single chunk but 'ka' is not given in the output.
+-'1 chammach ghee' is one chunk.*********
+-'teeno tarah ke chawal' is one chunk.*******
+-'ek ke upar ek' is one chunk. 'ke' is not gven in the output. It is a multi word expression.
+-'ek parat' is not a chunk. 'Parat' is separate.
+-'kisi doosri thaali' is a single chunk.***********
+-'ek badi si plate' is one NP. But plate is separated. And even if it is not, 'ek badi si' is adjectival chunk, not NP.
+-'ek ke upar ek' is a multiword expression. 'ek tah' thus is not a single chunk. 'ek ke upar' is not is not given in the output.
+-'kaali mirch ka powder' is one chunk.(the fragrance of rose is a single chunk). But 'ka' is not given in the output. And powder is separated.
+-'tayyaar tiranga salad' is one chunk NP. In this context 'tiranga' is also JJ and not NN.
+-'har parath ke upar' is one chunk as NP, upar being NST. But 'ke upar' is nt given in the output.
+-'pudeena chutney' is one chunk NP, but they are separated. And in this context, pudeena is JJ which describes chutney. *********
+-'ek ke upar ek' is one chunk. 'ke' is not gven in the output. It is a multi word expression.
+-'ek' is not a separate chunk.
+-'taatpashchaat dahi' is not a single chunk. 'dahi' is a separate NP chunk.
+-'tiranga tandoori paneer' is a single NP chunk. 'tandoori' is not JJ, it is NN.
+-'hari chutney kii samagri' is a single NP chunk. But 'kii' is not given in the output.
+-'lajeej tiranga sandwich' is a single NP chunk.
+-'maheen' is adverb describing pees. 'maheen pees le' is a single chunk.
+-'moon kii daal' is a single chunk but 'kii' is not given in the output. 'moong' and 'daal' are separated.
+-In sentence 276, 'bareek peeskar', both the words are separate chunks but here 'daanedaar pees' is a single chunk.********
+-'fruit salad' is a single NP chunk but they are separated to two different chunks.
+-'nimbu ka ras' is a single chunk but 'ka' is not given in the output and 'nimbu' and 'ras' are separatd to two different chunks.
+-'dokle ke saanche' is a single chunk. But 'ke' is not given in the output.'dokle' and 'saanche' are separated to two different NP chunks.  
+-'misran kii' is a chunk. 'kii' is not given in the output.
+-'ek inch moti parat' is a single NP chunk, but "ek inch' and 'moti parat' are separated as two different NP chunks.*******
+-'matar kii piitii' is a single NP chunk but 'kii' is not given in the output.
+-'meeta neem ka chounk' is a single NP chunk. But 'ka' is not given in the output. 'meeta neem' and 'chounk' are marked as two different NP chunks.
+-'baraabar baant': In some sentences of similar case, they are marked as different chunks whil in some other, they are marked as in the same chunk.
+-'aam ka misran' is a single NP chunk. But 'ka' is not given in the output. 'aam' and 'misran' ae separated as two NP chunks.
+-'malayi ka misran' is a single NP chunk. But 'ka' is not given in the output. 'malayi' and 'misran' ae separated as two NP chunks.
+-'tatpashchaat' is RBP and is a separate chunk. 
+-'malayi ka misran' is a single NP chunk. But 'ka' is not given in the output. 'malayi' and 'misran' ae separated as two NP chunks.
+-'tatpashchaat' is RBP and is a separate chunk. It is not JJ. And sajavat is thus a separate NP chunk.
+-'aadi' is a particle and is separate. But it is chunked under NP.******
+-'kii tarah beech se' is not given in the output. 'cake kii tarah' should b one chunk and 'beech se' is another chunk.
+-'palak paste' is a single NP chunk. But they are separated as two distinct NP chunks.
+-It is a separate chunk.
+-'goonthe aate' is a single NP chunk.
+-'lajeej paalak' is a single chunk.
+-'sondha namak' is a single chunk.
+-'hari mirch ka paste' is a single NP chunk. 'ka' is not given in the output. paste is separated to a different chunk.
+-'garama garam aaloo ke parate' is a single chunk. 'ke' is not given in the output. And paraate is separated to a different NP.
+-'moong daal kii churi ko' is a single chunk. 'kii' is not given in the output. 'ko' is not given in the output.
+-'daal kii choori' is asingle NP chunk. 'kii' is not given in the output. 'daal' and 'choori' are separated.
+-'thoda sa tel ka moyan' is a single NP chunk. 'ka' is not given in the output. 'moyan' is separated to a different NP chunk.
+-'tatpaschaat' is RBP, not JJ. It is a separate RBP chunk and should not be chunked with 'goondhe'.
+-'gondhe aate' is a single NP chunk.
+(*******-'swaadisth moong chilka poori' is a single NP chunk. 'chhilka' in this case is not verb.)
+-'hare dhaniye ke dantal' is a single NP chunk. 'ke' is not given in the output. 'dantal' is written as a separate NP chunk.
+-'naram naram dandi waala dhaniya' is a single chunk. 'waala' is not given in the output. 'dhaniya' is separated as a different chunk.
+-'lahsun'(garlic) is NN, not JJ. It is a separate chunk.
+-'cheel' is another chunk which is a verb.
+-'bheege huye soyabean' is a single NP chunk. 'huye' is not given in the output. 'bheege' and 'soybean' are separated as two different chunks.
+-'tatpashchaat' is RBP and is a separate chunk.
+-'hari dhaniye kii chutney' is a single NP chunk. 'kii' is not given in the output. 'hari dhaniye' and 'chutney' are separated.
+-'garama garam chatpate hariyaale kabaab' is a single NP chunk.
+-'ek chota chamach tel' is a single NP chunk.
+-'cheese chilli dosa' is a single NP chunk.
+-'naariyal kii geeli chutney' is a single NP chunk.
+-'dedh cup paanii' is a single NP chunk.
+-'jeera powder' is a single NP chunk.
+-'daale' is a separate chunk.
+-'matar ke daane' is a single NP chunk. 'ke' is not given in the output.
+-'nariyal ka doodh' is a single NP chunk. 'ka' is not given in the output.
+-'gal jaaye' is a single chunk but 'jaaye' is not given in the output.
+-'gaadi ho jaaye' is a single chunk. 'jaaye' is not given in the output. But 'gravy gaadi' and 'ho' are separately chunked.
+-'do bade chamach tel' is a single NP chunk.
+-'halke se pakne par' is a single chunk. 'se' is not given in the output. 'par' is not given in the output.
+-'aanvale kii gutliyaan' is a single NP chunk.
+-'thoda sa tanda' is a single chunk. And it is JJP.
+-'chammach kii sahaytha' is a single chunk. 'kii' is not given in the output.
+-'lajeej bharvaan achaar' is a single NP chunk.
+-'chote aakaar ke baingan' is a single NP chunk. 'ke' is not given in the output.
+-'lahsun' and 'piis' should be marked as different chunks.
+-'aadha cup paanii' is a single NP chunk.
+-'aadha masala baingan' is a single NP chunk.
+-'aadha' and 'alag' are separate chunks. They are marked as singel chunk.
+-'bacha masala' is a single chunk.
+-'imli ka ras' is a single chunk. 'ka' is not given in the output.
+-'bhare huye baingan' is a single NP chunk. 'huye' is not given in the output.
+-'hyderabadi baingan' is a single NP chunk but 'hyderabadi' is not given in the output.
+-'jvaar baazre kii roti' is a single NP chunk. But 'kii' is not given in the output.
+-'ek-ek' is a separate chunk.
+-'ek glass paanii' is a single NP chunk.
+-'nimbu ke achaar' is a single NP chunk. But 'ke' is not given in the output. And 'achaar' is separated as a different chunk.
+-'lajeej chatpati sivayiyaan' is a single NP chunk. All of them are separate.
+-'sabse' and 'maida' form separate chunks.
+-'do bade chammach ghee' is a single NP chunk.
+-'air tight dibbe' is a single NP chunk. 'air tight' is an expression borrowed from English.
+-'kuch boonde lal rang' is a single NP chunk.
+-'doosre mein piile' is a single NP chunk but 'mein' is not given in the output.
+-'tiisre mein hare rang' is a single NP chunk but 'mein' is not given in the output.
+-'kata paneer' is a single NP chunk. But 'kata' is not given in the output.
+-'chaawal ke upar' should be one chunk.

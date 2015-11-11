@@ -1,0 +1,3443 @@
+201
+ठंडी होने के पश्चात लजीज भांगयुक्त ठंडाई कांच के गिलासों में भरकर पेश करें और रंगबिरंगी होली पर्व का उठाएं|
+<Sentence id="1">
+1      	((      	JJP      	<fs af='ठंडी,adj,f,any,,any,,' head="ठंडी">     
+1.1      	ठंडी      	JJ      	<fs af='ठंडी,adj,f,any,,any,,' name="ठंडी">     
+      	))      	      	     
+2      	((      	VGNN      	<fs af='हो,v,m,pl,any,,ना_का_पश्चात,nA' vpos="tam1_2_3" head="होने">     
+2.1      	होने      	VM      	<fs af='हो,v,m,pl,any,,ना,nA' name="होने">     
+      	))      	      	     
+3      	((      	NP      	<fs af='लजीज,unk,,,,,,' head="लजीज" poslcat="NM">     
+3.1      	लजीज      	NN      	<fs af='लजीज,unk,,,,,,' name="लजीज" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='कांच,unk,,,,,0_का,' vpos="vib3_4" head="कांच" poslcat="NM">     
+4.1      	भांगयुक्त      	JJ      	<fs af='भांगयुक्त,unk,,,,,,' poslcat="NM">     
+4.2      	ठंडाई      	JJ      	<fs af='ठंडाई,unk,,,,,,' poslcat="NM">     
+4.3      	कांच      	NN      	<fs af='कांच,unk,,,,,,' name="कांच" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='गिलास,n,m,pl,3,o,0_में,0' vpos="vib1_2" head="गिलासों">     
+5.1      	गिलासों      	NN      	<fs af='गिलास,n,m,pl,3,o,0,0' name="गिलासों">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='भर,v,any,any,any,,कर,kara' head="भरकर">     
+6.1      	भरकर      	VM      	<fs af='भर,v,any,any,any,,कर,kara' name="भरकर">     
+      	))      	      	     
+7      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+7.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+8.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+      	))      	      	     
+9      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+9.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+10      	((      	NP      	<fs af='होली,n,f,sg,3,d,0,0' head="होली">     
+10.1      	रंगबिरंगी      	XC      	<fs af='रंगबिरंगी,unk,,,,,,' poslcat="NM">     
+10.2      	होली      	NNP      	<fs af='होली,n,f,sg,3,d,0,0' name="होली">     
+      	))      	      	     
+11      	((      	NP      	<fs af='पर्व,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="पर्व">     
+11.1      	पर्व      	NN      	<fs af='पर्व,n,m,sg,3,d,0,0' name="पर्व">     
+      	))      	      	     
+12      	((      	VGF      	<fs af='उठा,v,any,pl,1,,एं,eM' head="उठाएं">     
+12.1      	उठाएं      	VM      	<fs af='उठा,v,any,pl,1,,एं,eM' name="उठाएं">     
+12.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ke paschaath' is not given in the output.
+-'kaanch ke glasson' is a songle NP chunk. 'ke' is not given in the output.
+-'mein' is not given in the output.
+-'ka' is not given in the output.
+
+-------------------------------
+202
+सर्वप्रथम बेसन में आधा चम्मच नमक और एक बड़ा चम्मच तेल का मोयन डालकर गाढ़ा घोल तैयार कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='बेसन,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="बेसन">     
+1.1      	सर्वप्रथम      	JJ      	<fs af='सर्वप्रथम,unk,,,,,,' poslcat="NM">     
+1.2      	बेसन      	NN      	<fs af='बेसन,n,m,sg,3,d,0,0' name="बेसन">     
+      	))      	      	     
+2      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+2.1      	आधा      	QF      	<fs af='आधा,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	चम्मच      	JJ      	<fs af='चम्मच,n,f,sg,3,d,0,0' poslcat="NM">     
+2.3      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='चम्मच,n,f,sg,3,d,0,0' head="चम्मच">     
+4.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+4.2      	बड़ा      	JJ      	<fs af='बड़ा,adj,m,sg,,d,,'>     
+4.3      	चम्मच      	NN      	<fs af='चम्मच,n,f,sg,3,d,0,0' name="चम्मच">     
+      	))      	      	     
+5      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="तेल">     
+5.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+6      	((      	NP      	<fs af='मोयन,n,m,sg,3,d,0,0' head="मोयन">     
+6.1      	मोयन      	NN      	<fs af='मोयन,n,m,sg,3,d,0,0' name="मोयन">     
+      	))      	      	     
+7      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+7.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+8      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0,0' head="घोल">     
+8.1      	गाढ़ा      	JJ      	<fs af='गाढ़ा,adj,m,sg,,d,,'>     
+8.2      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+9      	((      	JJP      	<fs af='तैयार,adj,any,any,,any,,' head="तैयार">     
+9.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,' name="तैयार">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+10.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-mein is missing in the sentence
+-tel ka meyan is separated to another chunk while it should not be just as the case of namak.
+
+
+--------------------------------------------
+203
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+2.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+2.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='धनिया,n,f,sg,3,d,0_को,0' vpos="vib2_3" head="धनिया">     
+4.1      	हरे      	JJ      	<fs af='हरा,adj,m,sg,,o,,'>     
+4.2      	धनिया      	NN      	<fs af='धनिया,n,f,sg,3,d,0,0' name="धनिया">     
+      	))      	      	     
+5      	((      	JJP      	<fs af='बारीक,adj,any,any,,any,,' head="बारीक">     
+5.1      	बारीक      	JJ      	<fs af='बारीक,adj,any,any,,any,,' name="बारीक">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+6.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-ab is not a pronoun. It is RBP.
+-bareek(fine) is an adverb. 
+
+---------------------------------
+204
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मैश,unk,,,,,,' head="मैश" poslcat="NM">     
+1.1      	मैश      	NN      	<fs af='मैश,unk,,,,,,' name="मैश" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="आलू" poslcat="NM">     
+2.1      	किए      	VM      	<fs af='कर,v,m,pl,any,,या,yA'>     
+2.2      	आलू      	VAUX      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मसाला,n,m,sg,3,d,0,0' head="मसाला">     
+3.1      	उपरोक्त      	JJ      	<fs af='उपरोक्त,adj,any,any,,any,,'>     
+3.2      	सभी      	QF      	<fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM">     
+3.3      	मसाला      	NN      	<fs af='मसाला,n,m,sg,3,d,0,0' name="मसाला">     
+      	))      	      	     
+4      	((      	NP      	<fs af='सामग्री,n,f,sg,3,d,0,0' head="सामग्री">     
+4.1      	सामग्री      	NN      	<fs af='सामग्री,n,f,sg,3,d,0,0' name="सामग्री">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='मिला,v,any,any,any,,कर,kara' head="मिलाकर">     
+5.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0,0' head="मिश्रण">     
+6.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण">     
+      	))      	      	     
+7      	((      	JJP      	<fs af='तैयार,adj,any,any,,any,,' head="तैयार">     
+7.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,' name="तैयार">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+8.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-mash kiye aaloo is one chunk under the name NP, but mash is separated from kiye aaloo.
+-just like in the case of above, uparokth sabhi masala samagri is one chunk whereas samagri is separated.
+---------------------------------
+205
+
+इनके छोटे-छोटे गोले बना लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,m,pl,3,d,का,kA' head="इनके">     
+1.1      	इनके      	PRP      	<fs af='यह,pn,m,pl,3,d,का,kA' name="इनके">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='छोटा,adj,m,sg,,o,,' head="छोटे">     
+2.1      	छोटे      	JJ      	<fs af='छोटा,adj,m,sg,,o,,' name="छोटे">     
+2.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.3      	छोटे      	RDP      	<fs af='छोटा,adj,m,sg,,o,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='गोला,n,any,pl,1,d,0_बना_ले+एं,0' vpos="tam1_2_3" head="गोले" poslcat="NM">     
+3.1      	गोले      	VM      	<fs af='गोला,n,m,pl,3,d,0,0' name="गोले" poslcat="NM">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'bana le' is not given in the output.
+
+------------------------------------------
+206
+
+एक कड़ाही में तेल गरम करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='कड़ाही,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="कड़ाही">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	कड़ाही      	NN      	<fs af='कड़ाही,n,f,sg,3,d,0,0' name="कड़ाही">     
+      	))      	      	     
+2      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+2.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+3      	((      	JJP      	<fs af='गरम,adj,any,any,,any,,' head="गरम">     
+3.1      	गरम      	JJ      	<fs af='गरम,adj,any,any,,any,,' name="गरम">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+4.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+
+--------------------------------------------
+207
+
+बेसन के घोल में आलू के गोले डुबाएं और कुरकुरे, सुनहरे होने तक तल लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='बेसन,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="बेसन">     
+1.1      	बेसन      	NN      	<fs af='बेसन,n,m,sg,3,d,0,0' name="बेसन">     
+      	))      	      	     
+2      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="घोल">     
+2.1      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+3      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="आलू">     
+3.1      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+4      	((      	NP      	<fs af='डुबा,v,any,pl,1,,एं,eM' head="डुबाएं" poslcat="NM">     
+4.1      	गोले      	JJ      	<fs af='गोला,n,m,pl,3,d,0,0' poslcat="NM">     
+4.2      	डुबाएं      	NN      	<fs af='डुबा,v,any,pl,1,,एं,eM' name="डुबाएं" poslcat="NM">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+5.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+6      	((      	NP      	<fs af='कुरकुरे,unk,,,,,,' head="कुरकुरे" poslcat="NM">     
+6.1      	कुरकुरे      	NN      	<fs af='कुरकुरे,unk,,,,,,' name="कुरकुरे" poslcat="NM">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	JJP      	<fs af='सुनहरे,unk,,,,,,' head="सुनहरे" poslcat="NM">     
+7.1      	सुनहरे      	JJ      	<fs af='सुनहरे,unk,,,,,,' name="सुनहरे" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGNN      	<fs af='हो,v,m,pl,any,,ना,nA' head="होने">     
+8.1      	होने      	VM      	<fs af='हो,v,m,pl,any,,ना,nA' name="होने">     
+8.2      	तक      	RP      	<fs af='तक,avy,,,,,,'>     
+      	))      	      	     
+9      	((      	NP      	<fs af='तल,v,any,any,any,,0,0' head="तल" poslcat="NM">     
+9.1      	तल      	NN      	<fs af='तल,v,any,any,any,,0,0' name="तल" poslcat="NM">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+10.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-in besan 'ke' ghol, aaloo 'ke' gol, 'ke' is not given in the output.
+-besan 'ke' ghol is one chunk NP, but besan and ghol are separated.
+-'mein' is not given in the output.
+-dubaayiyein is a verb and it should be a separate chunk , whereas it iis marked as NN.
+-------------------------
+208
+
+अब तैयार आलू बड़ों को हरी चटनी, इमली की मीठी चटनी के साथ गरमा गरम पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0,0' head="आलू">     
+2.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,'>     
+2.2      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+3      	((      	NP      	<fs af='बड़ा,n,m,pl,3,o,0_को,0' vpos="vib1_2" head="बड़ों">     
+3.1      	बड़ों      	NN      	<fs af='बड़ा,n,m,pl,3,o,0,0' name="बड़ों">     
+      	))      	      	     
+4      	((      	NP      	<fs af='चटनी,n,f,sg,3,d,0,0' head="चटनी">     
+4.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+4.2      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0' name="चटनी">     
+4.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='इमली,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="इमली">     
+5.1      	इमली      	NN      	<fs af='इमली,n,f,sg,3,d,0,0' name="इमली">     
+      	))      	      	     
+6      	((      	NP      	<fs af='साथ,adv,,,,,0_का_साथ,' vpos="3_vib4_4" head="साथ" poslcat="NM">     
+6.1      	मीठी      	JJ      	<fs af='मीठी,adj,f,any,,any,,'>     
+6.2      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+7      	((      	NP      	<fs af='गरम,adj,any,any,,any,,' head="गरम" poslcat="NM">     
+7.1      	गरमा      	JJ      	<fs af='गरमा,v,any,any,any,,0,0' poslcat="NM">     
+7.2      	गरम      	NN      	<fs af='गरम,adj,any,any,,any,,' name="गरम" poslcat="NM">     
+      	))      	      	     
+8      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+8.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+9      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+9.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-ko is not given in the output.
+-ki is not given in the output.
+-imli ki meeti chatni should be one NP chunk.
+-ke saath is not given in the output.
+
+---------------------------------
+209
+
+सर्वप्रथम आलू को उबाल कर मैश कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='सर्वप्रथम,unk,,,,,,' head="सर्वप्रथम" poslcat="NM">     
+1.1      	सर्वप्रथम      	NN      	<fs af='सर्वप्रथम,unk,,,,,,' name="सर्वप्रथम" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="आलू">     
+2.1      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+3      	((      	NP      	<fs af='उबाल,v,any,any,any,,0,0' head="उबाल" poslcat="NM">     
+3.1      	उबाल      	NN      	<fs af='उबाल,v,any,any,any,,0,0' name="उबाल" poslcat="NM">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='कर,v,m,pl,1,,0_मैश_कर_ले+एं,0' vpos="tam1_2_3_4" head="कर">     
+4.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+(*********-'sarvpratham' is RBP.)
+-'ko' is not given in the output.
+-'mash kar le' is not given in the output.
+
+-----------------------------
+210
+एक दूसरे बर्तन में उपरोक्त सभी सामग्री मिलाकर पेस्ट बना लीजिए|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='बर्तन,n,m,sg,3,d,0_में,0' vpos="vib3_4" head="बर्तन">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	दूसरे      	JJ      	<fs af='दूसरा,n,m,pl,3,d,0,0' poslcat="NM">     
+1.3      	बर्तन      	NN      	<fs af='बर्तन,n,m,sg,3,d,0,0' name="बर्तन">     
+      	))      	      	     
+2      	((      	NP      	<fs af='सामग्री,n,f,sg,3,d,0,0' head="सामग्री">     
+2.1      	उपरोक्त      	JJ      	<fs af='उपरोक्त,adj,any,any,,any,,'>     
+2.2      	सभी      	QF      	<fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM">     
+2.3      	सामग्री      	NN      	<fs af='सामग्री,n,f,sg,3,d,0,0' name="सामग्री">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='मिला,v,any,any,any,,कर,kara' head="मिलाकर">     
+3.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+      	))      	      	     
+4      	((      	NP      	<fs af='पेस्ट,unk,,,,,,' head="पेस्ट" poslcat="NM">     
+4.1      	पेस्ट      	NN      	<fs af='पेस्ट,unk,,,,,,' name="पेस्ट" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='बना,v,any,sg,2h,,0_ले+एं,0' vpos="tam1_2" head="बना">     
+5.1      	बना      	VM      	<fs af='बना,v,any,any,any,,0,0' name="बना">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-mein is not given in the output
+-lijiye is not given in the output
+
+----------------------------------------
+211
+उसमें मसले आलू की मिलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='उसमें,unk,,,,,,' head="उसमें" poslcat="NM">     
+1.1      	उसमें      	PRP      	<fs af='उसमें,unk,,,,,,' name="उसमें" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_का,0' vpos="vib2_3" head="आलू">     
+2.1      	मसले      	JJ      	<fs af='मसला,n,m,pl,3,d,0,0' poslcat="NM">     
+2.2      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मिला,v,any,pl,1,,एं,eM' head="मिलाएं" poslcat="NM">     
+3.1      	मिलाएं      	NN      	<fs af='मिला,v,any,pl,1,,एं,eM' name="मिलाएं" poslcat="NM">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-I think masale is NN
+-'kii' is not given in the output
+
+--------------------------------
+212
+अब एक कड़ाही में तेल गर्म करके करारे पकौड़े तल लीजिए|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='कड़ाही,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="कड़ाही">     
+2.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+2.2      	कड़ाही      	NN      	<fs af='कड़ाही,n,f,sg,3,d,0,0' name="कड़ाही">     
+      	))      	      	     
+3      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+3.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+4      	((      	JJP      	<fs af='गर्म,adj,any,any,,any,,' head="गर्म">     
+4.1      	गर्म      	JJ      	<fs af='गर्म,adj,any,any,,any,,' name="गर्म">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='कर,v,any,sg,any,,कर_करारा,kara' vpos="tam1_2" head="करके">     
+5.1      	करके      	VM      	<fs af='कर,v,any,any,any,,कर,kara' name="करके">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पकौडा,n,m,pl,,d,0,0' head="पकौड़े">     
+6.1      	पकौड़े      	NN      	<fs af='पकौडा,n,m,pl,,d,0,0' name="पकौड़े">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='तल,v,any,sg,2h,,0_ले+एं,0' vpos="tam1_2" head="तल">     
+7.1      	तल      	VM      	<fs af='तल,v,any,any,any,,0,0' name="तल">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-ab is RBP not PRP.
+-changed the word karaake to karke
+-ek kadahi tel is one chunk but tel is separated.
+-lijiye is not given in the output
+
+----------------------------
+213
+इन्हें हरी एवं मीठी चटनी या टोमॅटो सॉस के साथ गरमा-गरम पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,pl,3,o,को,ko' head="इन्हें">     
+1.1      	इन्हें      	PRP      	<fs af='यह,pn,any,pl,3,o,को,ko' name="इन्हें">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='हरी,n,f,sg,3,d,0,0' head="हरी" poslcat="NM">     
+2.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' name="हरी" poslcat="NM">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='एवं,avy,,,,,,' head="एवं">     
+3.1      	एवं      	CC      	<fs af='एवं,avy,,,,,,' name="एवं">     
+      	))      	      	     
+4      	((      	JJP      	<fs af='मीठी,adj,f,any,,any,,' head="मीठी">     
+4.1      	मीठी      	JJ      	<fs af='मीठी,adj,f,any,,any,,' name="मीठी">     
+      	))      	      	     
+5      	((      	NP      	<fs af='चटनी,n,f,sg,3,d,0,0' head="चटनी">     
+5.1      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0' name="चटनी">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='या,avy,,,,,,' head="या">     
+6.1      	या      	CC      	<fs af='या,avy,,,,,,' name="या">     
+      	))      	      	     
+7      	((      	NP      	<fs af='साथ,adv,,,,,0_का_साथ,' vpos="3_vib4_4" head="साथ" poslcat="NM">     
+7.1      	टोमॅटो      	XC      	<fs af='टोमॅटो,unk,,,,,,' poslcat="NM">     
+7.2      	सॉस      	NN      	<fs af='सॉस,unk,,,,,,' poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='गरम,adj,any,any,,any,,' head="गरम">     
+8.1      	गरमा      	XC      	<fs af='गरमा,v,any,any,any,,0,0' poslcat="NM">     
+8.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+8.3      	गरम      	JJ      	<fs af='गरम,adj,any,any,,any,,' name="गरम">     
+      	))      	      	     
+9      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+9.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+10.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-hari evam meeti chutney should be one chunk but all of them are separated.
+-ke saath is not given in the output
+-----------------------------
+214
+सबसे पहले बेसन में स्वादानुसार नमक व कॉर्नफ्लोर मिलाकर अच्छे से फेंट कर घोल बना लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='पहले,adv,,,,,,' head="पहले" poslcat="NM">     
+1.1      	सबसे      	JJ      	<fs af='सबसे,adj,any,any,,any,,'>     
+1.2      	पहले      	NST      	<fs af='पहले,adv,,,,,,' name="पहले" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='बेसन,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="बेसन">     
+2.1      	बेसन      	NN      	<fs af='बेसन,n,m,sg,3,d,0,0' name="बेसन">     
+      	))      	      	     
+3      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+3.1      	स्वादानुसार      	XC      	<fs af='स्वादानुसार,unk,,,,,,' poslcat="NM">     
+3.2      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+4.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+5      	((      	NP      	<fs af='कॉर्नफ्लोर,unk,,,,,,' head="कॉर्नफ्लोर" poslcat="NM">     
+5.1      	कॉर्नफ्लोर      	NN      	<fs af='कॉर्नफ्लोर,unk,,,,,,' name="कॉर्नफ्लोर" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGNN      	<fs af='मिला,v,any,any,any,,कर_अच्छे_से,kara' vpos="tam1_2_3" head="मिलाकर">     
+6.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+      	))      	      	     
+7      	((      	NP      	<fs af='फेंट,v,any,any,any,,0,0' head="फेंट" poslcat="NM">     
+7.1      	फेंट      	NN      	<fs af='फेंट,v,any,any,any,,0,0' name="फेंट" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_घोल_बना_ले+एं,0' vpos="tam1_2_3_4" head="कर">     
+8.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output
+-ambiguity as of whether swadanusaar modifies cornflour or not.
+-achche se is not given in the output
+-ghol bana le is not given in the output
+
+---------------------------
+215
+अब पनीर स्लाइसों में काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='स्लाइसों,unk,,,,,0_में,' vpos="vib2_3" head="स्लाइसों" poslcat="NM">     
+2.1      	पनीर      	XC      	<fs af='पनीर,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	स्लाइसों      	NN      	<fs af='स्लाइसों,unk,,,,,,' name="स्लाइसों" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+3.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'mein' is not given in the output
+-'le' is not given in the output
+
+-------------------------
+216
+कच्चे केले को उबालें, छिले और मसल लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='केला,n,m,pl,3,d,0_को,0' vpos="vib2_3" head="केले">     
+1.1      	कच्चे      	JJ      	<fs af='कच्चा,adj,m,sg,,o,,'>     
+1.2      	केले      	NN      	<fs af='केला,n,m,pl,3,d,0,0' name="केले">     
+      	))      	      	     
+2      	((      	VGNF      	<fs af='उबाल,v,any,pl,1,,एं,eM' head="उबालें">     
+2.1      	उबालें      	VM      	<fs af='उबाल,v,any,pl,1,,एं,eM' name="उबालें">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='छिल,v,any,sg,2,,एं,eM' head="छिले" poslcat="NM">     
+3.1      	छिले      	NN      	<fs af='छिल,v,any,sg,2,,एं,eM' name="छिले" poslcat="NM">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मसल,v,any,any,any,,0,0' head="मसल" poslcat="NM">     
+5.1      	मसल      	NN      	<fs af='मसल,v,any,any,any,,0,0' name="मसल" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+6.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output
+----------------------------------------
+217
+मसले हुए केलों में हरी मिर्च, नमक व सभी मसाले मिला दें|
+
+<Sentence id="1">
+1      	((      	VGNF      	<fs af='मसल,v,any,pl,any,,एं_हो+या,eM' vpos="tam1_2" head="मसले">     
+1.1      	मसले      	VM      	<fs af='मसल,v,any,sg,2,,एं,eM' name="मसले">     
+      	))      	      	     
+2      	((      	NP      	<fs af='केला,n,m,pl,3,o,0_में,0' vpos="vib1_2" head="केलों">     
+2.1      	केलों      	NN      	<fs af='केला,n,m,pl,3,o,0,0' name="केलों">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+3.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+3.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+4.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+5.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+6      	((      	NP      	<fs af='मसाला,n,m,pl,3,d,0,0' head="मसाले">     
+6.1      	सभी      	QF      	<fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM">     
+6.2      	मसाले      	NN      	<fs af='मसाला,n,m,pl,3,d,0,0' name="मसाले">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="मिला">     
+7.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'musle huye kelon mein' is one chunk but huye and mein are not given in the output and musle and kelon are separated.
+-'de' is not given in the output
+
+-------------------------------------------
+218
+अब एक कड़ाही में तेल गर्म करके दो पनीर स्लाइस के बीच में थोड़ा-सा केला मसाला रख कर हाथ से दबाएं और घोल में लपेट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='कड़ाही,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="कड़ाही">     
+2.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+2.2      	कड़ाही      	NN      	<fs af='कड़ाही,n,f,sg,3,d,0,0' name="कड़ाही">     
+      	))      	      	     
+3      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+3.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+4      	((      	JJP      	<fs af='गर्म,adj,any,any,,any,,' head="गर्म">     
+4.1      	गर्म      	JJ      	<fs af='गर्म,adj,any,any,,any,,' name="गर्म">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='कर,v,any,sg,3,,कर_दो,kara' vpos="tam1_2" head="करके">     
+5.1      	करके      	VM      	<fs af='कर,v,any,any,any,,कर,kara' name="करके">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पनीर,n,m,sg,3,d,0,0' head="पनीर">     
+6.1      	पनीर      	NN      	<fs af='पनीर,n,m,sg,3,d,0,0' name="पनीर">     
+      	))      	      	     
+7      	((      	NP      	<fs af='बीच,psp,,,,,0_का_बीच_में,' vpos="2_vib3_3_4" head="बीच" poslcat="NM">     
+7.1      	स्लाइस      	NN      	<fs af='स्लाइस,unk,,,,,,' poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='केला,n,m,sg,3,d,0,0' head="केला">     
+8.1      	थोड़ा      	QF      	<fs af='थोड़ा,adj,m,sg,,d,,'>     
+8.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+8.3      	सा      	RP      	<fs af='सा,psp,,,,,,' poslcat="NM">     
+8.4      	केला      	NN      	<fs af='केला,n,m,sg,3,d,0,0' name="केला">     
+      	))      	      	     
+9      	((      	NP      	<fs af='मसाला,n,m,sg,3,d,0,0' head="मसाला">     
+9.1      	मसाला      	NN      	<fs af='मसाला,n,m,sg,3,d,0,0' name="मसाला">     
+      	))      	      	     
+10      	((      	VGNF      	<fs af='रख,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="रख">     
+10.1      	रख      	VM      	<fs af='रख,v,any,any,any,,0,0' name="रख">     
+      	))      	      	     
+11      	((      	NP      	<fs af='हाथ,n,m,sg,3,d,0_से,0' vpos="vib1_2" head="हाथ">     
+11.1      	हाथ      	NN      	<fs af='हाथ,n,m,sg,3,d,0,0' name="हाथ">     
+      	))      	      	     
+12      	((      	VGF      	<fs af='दबा,v,any,pl,1,,एं,eM' head="दबाएं">     
+12.1      	दबाएं      	VM      	<fs af='दबा,v,any,pl,1,,एं,eM' name="दबाएं">     
+      	))      	      	     
+13      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+13.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+14      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="घोल">     
+14.1      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+15      	((      	VGF      	<fs af='लपेट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="लपेट">     
+15.1      	लपेट      	VM      	<fs af='लपेट,v,any,any,any,,0,0' name="लपेट">     
+15.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output
+-'do', I think, is not considered as the number two. Instead it is considered as a form of give and hence like in the rest of the sentences, this word is not given in the output.
+-'paneer slice' is one chunk, but in the output they are separated.
+-ke beech mein is not given in the output.
+-thoda sa kela masala is one chunk, but masala is separated as another NP chunk.
+-rakh kar is one chunk but kar is not given in the output.
+-haath se is one chunk but se is not given in the output.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+-------------------------------------------
+219
+धीमी आंच पर इसे सुनहरा होने तक तलें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='आंच,unk,,,,,0_पर,' vpos="vib2_3" head="आंच" poslcat="NM">     
+1.1      	धीमी      	JJ      	<fs af='धीमी,unk,,,,,,' poslcat="NM">     
+1.2      	आंच      	NN      	<fs af='आंच,unk,,,,,,' name="आंच" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+2.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+3      	((      	JJP      	<fs af='सुनहरा,unk,,,,,,' head="सुनहरा" poslcat="NM">     
+3.1      	सुनहरा      	JJ      	<fs af='सुनहरा,unk,,,,,,' name="सुनहरा" poslcat="NM">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='हो,v,m,pl,any,,ना,nA' head="होने">     
+4.1      	होने      	VM      	<fs af='हो,v,m,pl,any,,ना,nA' name="होने">     
+4.2      	तक      	RP      	<fs af='तक,avy,,,,,,'>     
+      	))      	      	     
+5      	((      	NP      	<fs af='तल,v,any,pl,1,,एं,eM' head="तलें" poslcat="NM">     
+5.1      	तलें      	NN      	<fs af='तल,v,any,pl,1,,एं,eM' name="तलें" poslcat="NM">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'par' is not given in the output.
+------------------------------
+220
+इसे हरी और मीठी चटनी के साथ पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+1.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='हरी,n,f,sg,3,d,0,0' head="हरी" poslcat="NM">     
+2.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' name="हरी" poslcat="NM">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='साथ,adv,,,,,0_का_साथ,' vpos="3_vib4_4" head="साथ" poslcat="NM">     
+4.1      	मीठी      	JJ      	<fs af='मीठी,adj,f,any,,any,,'>     
+4.2      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+5      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+5.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+6.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ke saath' is not given in the output.
+
+---------------------
+221
+
+सर्वप्रथम दूध में मिल्क पावडर व शक्कर डालकर उबालें और ठंडा कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='दूध,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="दूध">     
+1.1      	सर्वप्रथम      	JJ      	<fs af='सर्वप्रथम,unk,,,,,,' poslcat="NM">     
+1.2      	दूध      	NN      	<fs af='दूध,n,m,sg,3,d,0,0' name="दूध">     
+      	))      	      	     
+2      	((      	NP      	<fs af='पावडर,unk,,,,,,' head="पावडर" poslcat="NM">     
+2.1      	मिल्क      	XC      	<fs af='मिल्क,unk,,,,,,' poslcat="NM">     
+2.2      	पावडर      	NN      	<fs af='पावडर,unk,,,,,,' name="पावडर" poslcat="NM">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+3.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+4      	((      	NP      	<fs af='शक्कर,n,f,sg,3,d,0,0' head="शक्कर">     
+4.1      	शक्कर      	NN      	<fs af='शक्कर,n,f,sg,3,d,0,0' name="शक्कर">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='डाल,v,any,pl,1,,कर_उबाल+एं,kara' vpos="tam1_2" head="डालकर">     
+5.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+6.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+7      	((      	JJP      	<fs af='ठंडा,adj,m,sg,,d,,' head="ठंडा">     
+7.1      	ठंडा      	JJ      	<fs af='ठंडा,adj,m,sg,,d,,' name="ठंडा">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+8.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'sarvpratham doodh' should not be in the same chunk, but they are parsed into the same chunk. 'sarvpratham' is an adverb and should be in separate chunk.
+-'doodh mein' is one chunk but main is not given in the output.
+-'ubaale' is not given in the output.
+-'le' is not given in the output.
+
+------------------------------
+222
+अब इसमें आम रस, जीएमएस पावडर, दूध व मलाई डालकर मिक्सर में थोड़ी देर घुमाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+2.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+3      	((      	NP      	<fs af='रस,n,m,sg,3,d,0,0' head="रस">     
+3.1      	आम      	JJ      	<fs af='आम,n,m,sg,3,d,0,0' poslcat="NM">     
+3.2      	रस      	NN      	<fs af='रस,n,m,sg,3,d,0,0' name="रस">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='पावडर,unk,,,,,,' head="पावडर" poslcat="NM">     
+4.1      	जीएमएस      	XC      	<fs af='जीएमएस,unk,,,,,,' poslcat="NM">     
+4.2      	पावडर      	NNP      	<fs af='पावडर,unk,,,,,,' name="पावडर" poslcat="NM">     
+4.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='दूध,n,m,sg,3,d,0,0' head="दूध">     
+5.1      	दूध      	NN      	<fs af='दूध,n,m,sg,3,d,0,0' name="दूध">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+6.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+7      	((      	NP      	<fs af='मलाई,n,f,sg,3,d,0,0' head="मलाई">     
+7.1      	मलाई      	NN      	<fs af='मलाई,n,f,sg,3,d,0,0' name="मलाई">     
+      	))      	      	     
+8      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+8.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+9      	((      	NP      	<fs af='मिक्सर,unk,,,,,0_में,' vpos="vib1_2" head="मिक्सर" poslcat="NM">     
+9.1      	मिक्सर      	NN      	<fs af='मिक्सर,unk,,,,,,' name="मिक्सर" poslcat="NM">     
+      	))      	      	     
+10      	((      	NP      	<fs af='देर,adv,,,,,,' head="देर" poslcat="NM">     
+10.1      	थोड़ी      	QF      	<fs af='थोड़ी,adv,,,,,,' poslcat="NM">     
+10.2      	देर      	NN      	<fs af='देर,adv,,,,,,' name="देर" poslcat="NM">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='घुमा,v,any,pl,1,,एं,eM' head="घुमाएं">     
+11.1      	घुमाएं      	VM      	<fs af='घुमा,v,any,pl,1,,एं,eM' name="घुमाएं">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+
+------------------------------
+223
+अब आइस्क्रीम पॉट में डालकर एक घंटे फ्रीजर में रखें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='पॉट,unk,,,,,0_में,' vpos="vib2_3" head="पॉट" poslcat="NM">     
+2.1      	आइस्क्रीम      	XC      	<fs af='आइस्क्रीम,unk,,,,,,' poslcat="NM">     
+2.2      	पॉट      	NN      	<fs af='पॉट,unk,,,,,,' name="पॉट" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+3.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+4      	((      	NP      	<fs af='घंटा,n,m,pl,3,d,0,0' head="घंटे">     
+4.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+4.2      	घंटे      	NN      	<fs af='घंटा,n,m,pl,3,d,0,0' name="घंटे">     
+      	))      	      	     
+5      	((      	NP      	<fs af='फ्रीजर,unk,,,,,0_में,' vpos="vib1_2" head="फ्रीजर" poslcat="NM">     
+5.1      	फ्रीजर      	NN      	<fs af='फ्रीजर,unk,,,,,,' name="फ्रीजर" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+6.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'pot mein' is one chunk but mein is not given in the output.
+-'ice cream pot' is not one chunk in this sentence but they are parsed together as a single NP chunk.
+-'mein' is not given in the output.
+
+-----------------------
+224
+फिर बाहर निकाल कर मिक्सर में फिर से घुमाएं|
+
+<Sentence id="1">
+1      	((      	RBP      	<fs af='फिर,v,any,any,any,,0,0' head="फिर_2" poslcat="NM">     
+1.1      	फिर      	RB      	<fs af='फिर,v,any,any,any,,0,0' name="फिर_2" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='बाहर,psp,,,,,,' head="बाहर" poslcat="NM">     
+2.1      	बाहर      	NST      	<fs af='बाहर,psp,,,,,,' name="बाहर" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='निकाल,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="निकाल">     
+3.1      	निकाल      	VM      	<fs af='निकाल,v,any,any,any,,0,0' name="निकाल">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मिक्सर,unk,,,,,0_में,' vpos="vib1_2" head="मिक्सर" poslcat="NM">     
+4.1      	मिक्सर      	NN      	<fs af='मिक्सर,unk,,,,,,' name="मिक्सर" poslcat="NM">     
+      	))      	      	     
+5      	((      	RBP      	<fs af='फिर,v,any,any,any,,0,0' head="फिर" poslcat="NM">     
+5.1      	फिर      	RB      	<fs af='फिर,v,any,any,any,,0,0' name="फिर" poslcat="NM">     
+5.2      	से      	PSP      	<fs af='से,psp,,,,,,'>     
+      	))      	      	     
+6      	((      	VGF      	<fs af='घुमा,v,any,pl,1,,एं,eM' head="घुमाएं">     
+6.1      	घुमाएं      	VM      	<fs af='घुमा,v,any,pl,1,,एं,eM' name="घुमाएं">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'kar' is not given in the output.
+-------------------
+225
+पुनः आइस्क्रीम पॉट में डालकर करीब 3-4 घंटे के लिए फ्रीजर में रखें|
+
+<Sentence id="1">
+1      	((      	RBP      	<fs af='पुनः,adv,,,,,,' head="पुनः">     
+1.1      	पुनः      	RB      	<fs af='पुनः,adv,,,,,,' name="पुनः">     
+      	))      	      	     
+2      	((      	NP      	<fs af='पॉट,unk,,,,,0_में,' vpos="vib2_3" head="पॉट" poslcat="NM">     
+2.1      	आइस्क्रीम      	XC      	<fs af='आइस्क्रीम,unk,,,,,,' poslcat="NM">     
+2.2      	पॉट      	NN      	<fs af='पॉट,unk,,,,,,' name="पॉट" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+3.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+4      	((      	RBP      	<fs af='करीब,adj,any,any,,any,,' head="करीब" poslcat="NM">     
+4.1      	करीब      	RB      	<fs af='करीब,adj,any,any,,any,,' name="करीब" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='घंटा,n,m,pl,3,d,0_का_ले,0' vpos="vib4_5_6" head="घंटे">     
+5.1      	3      	QC      	<fs af='3,num,,,,,,'>     
+5.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+5.3      	4      	QC      	<fs af='4,num,,,,,,'>     
+5.4      	घंटे      	NN      	<fs af='घंटा,n,m,pl,3,d,0,0' name="घंटे">     
+      	))      	      	     
+6      	((      	NP      	<fs af='फ्रीजर,unk,,,,,0_में,' vpos="vib1_2" head="फ्रीजर" poslcat="NM">     
+6.1      	फ्रीजर      	NN      	<fs af='फ्रीजर,unk,,,,,,' name="फ्रीजर" poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+7.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'pot mein' is one chunk but mein is not given in the output.
+-'ice cream pot' is not one chunk in this sentence but they are parsed together as a single NP chunk.
+-'ke liye' is not given in the output.
+-'mein' is not given in the output.
+----------------------------------------
+226
+
+तैयार वासंती मैंगो आइस्क्रीम को पिस्ता कतरन से एवं गुलाब की पत्तियों से सजाएं और पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='वासंती,n,f,sg,3,d,0,0' head="वासंती">     
+1.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,'>     
+1.2      	वासंती      	NN      	<fs af='वासंती,n,f,sg,3,d,0,0' name="वासंती">     
+      	))      	      	     
+2      	((      	NP      	<fs af='मैंगो,unk,,,,,,' head="मैंगो" poslcat="NM">     
+2.1      	मैंगो      	PRP      	<fs af='मैंगो,unk,,,,,,' name="मैंगो" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='आइस्क्रीम,unk,,,,,0_को,' vpos="vib1_2" head="आइस्क्रीम" poslcat="NM">     
+3.1      	आइस्क्रीम      	NN      	<fs af='आइस्क्रीम,unk,,,,,,' name="आइस्क्रीम" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='पिस्ता,n,m,sg,3,d,0,0' head="पिस्ता">     
+4.1      	पिस्ता      	NN      	<fs af='पिस्ता,n,m,sg,3,d,0,0' name="पिस्ता">     
+      	))      	      	     
+5      	((      	NP      	<fs af='कतरन,n,f,sg,3,d,0_से,0' vpos="vib1_2" head="कतरन">     
+5.1      	कतरन      	NN      	<fs af='कतरन,n,f,sg,3,d,0,0' name="कतरन">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='एवं,avy,,,,,,' head="एवं">     
+6.1      	एवं      	CC      	<fs af='एवं,avy,,,,,,' name="एवं">     
+      	))      	      	     
+7      	((      	NP      	<fs af='गुलाब,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="गुलाब">     
+7.1      	गुलाब      	NN      	<fs af='गुलाब,n,m,sg,3,d,0,0' name="गुलाब">     
+      	))      	      	     
+8      	((      	NP      	<fs af='पत्ती,n,f,pl,3,o,0_से,0' vpos="vib1_2" head="पत्तियों">     
+8.1      	पत्तियों      	NN      	<fs af='पत्ती,n,f,pl,3,o,0,0' name="पत्तियों">     
+      	))      	      	     
+9      	((      	NP      	<fs af='सजा,n,f,pl,,d,0,0' head="सजाएं">     
+9.1      	सजाएं      	NN      	<fs af='सजा,n,f,pl,,d,0,0' name="सजाएं">     
+      	))      	      	     
+10      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+10.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+11      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+11.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+12      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+12.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+12.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'pista kataran se' is one chunk but se is not given in the output. pista and kataran are separated.
+-'tayyaar vaasanthi mango ice cream ko' is one chunk while they are hunked separately.
+-'ko' is not given in the output.
+-'gulab pathiyon' is one chnk kwhile they are separated.
+-'se' is not given in the output.
+---------------------------------------
+227
+खजूर और किशमिश को धोकर, सुखाकर थोड़े-से सिरके में इन्हें दलकर एकसार कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='खजूर,n,m,sg,3,d,0,0' head="खजूर">     
+1.1      	खजूर      	NN      	<fs af='खजूर,n,m,sg,3,d,0,0' name="खजूर">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='किशमिश,n,f,sg,3,d,0_को,0' vpos="vib1_2" head="किशमिश">     
+3.1      	किशमिश      	NN      	<fs af='किशमिश,n,f,sg,3,d,0,0' name="किशमिश">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='धो,v,any,any,any,,कर,kara' head="धोकर">     
+4.1      	धोकर      	VM      	<fs af='धो,v,any,any,any,,कर,kara' name="धोकर">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='सुखा,v,any,any,any,,कर,kara' head="सुखाकर">     
+5.1      	सुखाकर      	VM      	<fs af='सुखा,v,any,any,any,,कर,kara' name="सुखाकर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='-,punc,,,,,0_से,' vpos="vib2_3" head="-">     
+6.1      	थोड़े      	QF      	<fs af='थोड़ा,adj,m,sg,,o,,'>     
+6.2      	-      	SYM      	<fs af='-,punc,,,,,,' name="-">     
+      	))      	      	     
+7      	((      	NP      	<fs af='सिरका,n,m,pl,3,d,0_में,0' vpos="vib1_2" head="सिरके">     
+7.1      	सिरके      	NN      	<fs af='सिरका,n,m,pl,3,d,0,0' name="सिरके">     
+      	))      	      	     
+8      	((      	NP      	<fs af='यह,pn,any,pl,3,o,को,ko' head="इन्हें">     
+8.1      	इन्हें      	PRP      	<fs af='यह,pn,any,pl,3,o,को,ko' name="इन्हें">     
+      	))      	      	     
+9      	((      	VGNF      	<fs af='दल,v,any,any,any,,कर,kara' head="दलकर">     
+9.1      	दलकर      	VM      	<fs af='दल,v,any,any,any,,कर,kara' name="दलकर">     
+      	))      	      	     
+10      	((      	NP      	<fs af='एकसार,unk,,,,,,' head="एकसार" poslcat="NM">     
+10.1      	एकसार      	NN      	<fs af='एकसार,unk,,,,,,' name="एकसार" poslcat="NM">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+11.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'mein' is not given in the output.
+-'se' is not given in the output.
+-'le' is not given in the output.
+------------------------------------------
+228
+टमाटरों को छीलकर उनके टुकड़े करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='टमाटर,n,m,pl,3,o,0_को,0' vpos="vib1_2" head="टमाटरों">     
+1.1      	टमाटरों      	NN      	<fs af='टमाटर,n,m,pl,3,o,0,0' name="टमाटरों">     
+      	))      	      	     
+2      	((      	VGNF      	<fs af='छील,v,any,any,any,,कर,kara' head="छीलकर">     
+2.1      	छीलकर      	VM      	<fs af='छील,v,any,any,any,,कर,kara' name="छीलकर">     
+      	))      	      	     
+3      	((      	NP      	<fs af='उनके,unk,,,,,,' head="उनके" poslcat="NM">     
+3.1      	उनके      	PRP      	<fs af='उनके,unk,,,,,,' name="उनके" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='टुकडा,n,m,pl,,d,0,0' head="टुकड़े">     
+4.1      	टुकड़े      	NN      	<fs af='टुकडा,n,m,pl,,d,0,0' name="टुकड़े">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+5.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+--------------------------------------------
+229
+लहसुन, अदरक और लाल मिर्च को थोड़ा-सा सिरका मिलाकर बारीक पीस लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='लहसुन,n,m,sg,3,d,0,0' head="लहसुन">     
+1.1      	लहसुन      	NN      	<fs af='लहसुन,n,m,sg,3,d,0,0' name="लहसुन">     
+1.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='अदरक,n,f,sg,3,d,0,0' head="अदरक" poslcat="NM">     
+2.1      	अदरक      	JJ      	<fs af='अदरक,n,f,sg,3,d,0,0' name="अदरक" poslcat="NM">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0_को,0' vpos="vib2_3" head="मिर्च">     
+4.1      	लाल      	JJ      	<fs af='लाल,adj,any,any,,any,,'>     
+4.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+      	))      	      	     
+5      	((      	NP      	<fs af='सिरका,n,m,sg,3,d,0,0' head="सिरका">     
+5.1      	थोड़ा      	QF      	<fs af='थोड़ा,adj,m,sg,,d,,'>     
+5.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+5.3      	सा      	RP      	<fs af='सा,psp,,,,,,' poslcat="NM">     
+5.4      	सिरका      	NN      	<fs af='सिरका,n,m,sg,3,d,0,0' name="सिरका">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='मिला,v,any,any,any,,कर,kara' head="मिलाकर">     
+6.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+      	))      	      	     
+7      	((      	NP      	<fs af='पीस,v,any,any,any,,0,0' head="पीस" poslcat="NM">     
+7.1      	बारीक      	JJ      	<fs af='बारीक,adj,any,any,,any,,'>     
+7.2      	पीस      	NN      	<fs af='पीस,v,any,any,any,,0,0' name="पीस" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+8.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+------------------------------------
+230
+सेब और अनन्नास के टुकड़े करें और उनके बीज निकाल दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='सेब,n,m,sg,3,d,0,0' head="सेब">     
+1.1      	सेब      	NN      	<fs af='सेब,n,m,sg,3,d,0,0' name="सेब">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और_2">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और_2">     
+      	))      	      	     
+3      	((      	NP      	<fs af='अनन्नास,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="अनन्नास">     
+3.1      	अनन्नास      	NN      	<fs af='अनन्नास,n,m,sg,3,d,0,0' name="अनन्नास">     
+      	))      	      	     
+4      	((      	NP      	<fs af='टुकडा,n,m,pl,,d,0,0' head="टुकड़े">     
+4.1      	टुकड़े      	NN      	<fs af='टुकडा,n,m,pl,,d,0,0' name="टुकड़े">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+5.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+6.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+7      	((      	NP      	<fs af='बीज,n,m,sg,3,d,0,0' head="बीज">     
+7.1      	उनके      	PRP      	<fs af='उनके,unk,,,,,,' poslcat="NM">     
+7.2      	बीज      	NN      	<fs af='बीज,n,m,sg,3,d,0,0' name="बीज">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='निकाल,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="निकाल">     
+8.1      	निकाल      	VM      	<fs af='निकाल,v,any,any,any,,0,0' name="निकाल">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ke' is not given in the output.
+(*******-'tukde karein' is one chunk.)
+-'de' is not given in the output.
+-----------------------------------
+231
+अब इन सभी चीजों में नमक डालकर एकसाथ आंच पर रखें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='चीज,n,f,pl,3,o,0_में,0' vpos="vib3_4" head="चीजों">     
+2.1      	इन      	DEM      	<fs af='यह,pn,any,pl,3,o,0,0'>     
+2.2      	सभी      	QF      	<fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM">     
+2.3      	चीजों      	NN      	<fs af='चीज,n,f,pl,3,o,0,0' name="चीजों">     
+      	))      	      	     
+3      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+3.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+4.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='आंच,unk,,,,,0_पर,' vpos="vib2_3" head="आंच" poslcat="NM">     
+5.1      	एकसाथ      	XC      	<fs af='एकसाथ,adv,,,,,,' poslcat="NM">     
+5.2      	आंच      	NN      	<fs af='आंच,unk,,,,,,' name="आंच" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+6.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'ab' is RBP and not PRP
+-------------------
+232
+थोड़ा गरम हो जाने पर केला छीलकर उसके टुकड़े कर इसमें डालें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='गरम,adj,any,any,,any,,' head="गरम">     
+1.1      	थोड़ा      	QF      	<fs af='थोड़ा,adj,m,sg,,d,,'>     
+1.2      	गरम      	JJ      	<fs af='गरम,adj,any,any,,any,,' name="गरम">     
+      	))      	      	     
+2      	((      	VGNN      	<fs af='हो,v,any,any,any,,0_जान+एं_पर,0' vpos="tam1_2_3" head="हो">     
+2.1      	हो      	VM      	<fs af='हो,v,any,any,any,,0,0' name="हो">     
+      	))      	      	     
+3      	((      	NP      	<fs af='केला,n,m,sg,3,d,0,0' head="केला">     
+3.1      	केला      	NN      	<fs af='केला,n,m,sg,3,d,0,0' name="केला">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='छील,v,any,any,any,,कर,kara' head="छीलकर">     
+4.1      	छीलकर      	VM      	<fs af='छील,v,any,any,any,,कर,kara' name="छीलकर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='उसके,unk,,,,,,' head="उसके" poslcat="NM">     
+5.1      	उसके      	PRP      	<fs af='उसके,unk,,,,,,' name="उसके" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='टुकडा,n,m,sg,3,d,0_कर,0' vpos="tam1_2" head="टुकड़े" poslcat="NM">     
+6.1      	टुकड़े      	VM      	<fs af='टुकडा,n,m,pl,,d,0,0' name="टुकड़े" poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+7.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+8      	((      	NP      	<fs af='डाल,v,any,pl,1,,एं,eM' head="डालें" poslcat="NM">     
+8.1      	डालें      	NN      	<fs af='डाल,v,any,pl,1,,एं,eM' name="डालें" poslcat="NM">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ho jaane par' is one chunk. 'jaane par' is not given in the output.
+-'kar' is not given in the output.
+----------------------------
+33
+सारा सिरका और चीनी भी मिला दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='सिरका,n,m,sg,3,d,0,0' head="सिरका">     
+1.1      	सारा      	QF      	<fs af='सारा,adj,m,sg,,d,,'>     
+1.2      	सिरका      	NN      	<fs af='सिरका,n,m,sg,3,d,0,0' name="सिरका">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='चीनी,adj,f,any,,any,,' head="चीनी" poslcat="NM">     
+3.1      	चीनी      	NN      	<fs af='चीनी,adj,f,any,,any,,' name="चीनी" poslcat="NM">     
+3.2      	भी      	RP      	<fs af='भी,adv,,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="मिला">     
+4.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'de' is not given in th output.
+-------------------------
+234
+अच्छी तरह पकने पर जब इसमें गाढ़ापन आने लगे तो उतार कर ठंडा करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='तरह,adv,,,,,,' head="तरह" poslcat="NM">     
+1.1      	अच्छी      	JJ      	<fs af='अच्छी,adj,f,any,,any,,'>     
+1.2      	तरह      	NN      	<fs af='तरह,adv,,,,,,' name="तरह" poslcat="NM">     
+      	))      	      	     
+2      	((      	VGNN      	<fs af='पक,v,m,pl,any,,ना_पर,nA' vpos="tam1_2" head="पकने">     
+2.1      	पकने      	VM      	<fs af='पक,v,m,pl,any,,ना,nA' name="पकने">     
+      	))      	      	     
+3      	((      	NP      	<fs af='जब,adv,,,,,,' head="जब" poslcat="NM">     
+3.1      	जब      	PRP      	<fs af='जब,adv,,,,,,' name="जब" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+4.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+5      	((      	NP      	<fs af='गाढ़ापन,unk,,,,,,' head="गाढ़ापन" poslcat="NM">     
+5.1      	गाढ़ापन      	NN      	<fs af='गाढ़ापन,unk,,,,,,' name="गाढ़ापन" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='आ,v,m,sg,2,,ना_लग+एं,nA' vpos="tam1_2" head="आने">     
+6.1      	आने      	VM      	<fs af='आ,v,m,pl,any,,ना,nA' name="आने">     
+      	))      	      	     
+7      	((      	CCP      	<fs af='तो,avy,,,,,,' head="तो">     
+7.1      	तो      	CC      	<fs af='तो,avy,,,,,,' name="तो">     
+      	))      	      	     
+8      	((      	NP      	<fs af='उतार,v,any,any,any,,0,0' head="उतार" poslcat="NM">     
+8.1      	उतार      	NN      	<fs af='उतार,v,any,any,any,,0,0' name="उतार" poslcat="NM">     
+      	))      	      	     
+9      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+9.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+10      	((      	JJP      	<fs af='ठंडा,adj,m,sg,,d,,' head="ठंडा">     
+10.1      	ठंडा      	JJ      	<fs af='ठंडा,adj,m,sg,,d,,' name="ठंडा">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+11.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'par' is not given in the output.
+-'jab' is not PRP but rather RBP.
+-'lage' is not given in the output.
+-'aane lage tho'***********
+
+------------------------
+235
+मिक्स फ्रूट सॉस तैयार है|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मिक्स,unk,,,,,,' head="मिक्स" poslcat="NM">     
+1.1      	मिक्स      	NN      	<fs af='मिक्स,unk,,,,,,' name="मिक्स" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='सॉस,unk,,,,,,' head="सॉस" poslcat="NM">     
+2.1      	फ्रूट      	JJ      	<fs af='फ्रूट,unk,,,,,,' poslcat="NM">     
+2.2      	सॉस      	NN      	<fs af='सॉस,unk,,,,,,' name="सॉस" poslcat="NM">     
+      	))      	      	     
+3      	((      	JJP      	<fs af='तैयार,adj,any,any,,any,,' head="तैयार">     
+3.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,' name="तैयार">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='है,v,any,sg,2,,है,hE' head="है">     
+4.1      	है      	VM      	<fs af='है,v,any,sg,2,,है,hE' name="है">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mix fruit sauce' is a single chunk. But 'mix' is separated.
+--------------------------
+236
+आलू को ठंडे होने पर अच्छी तरह मैश कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="आलू">     
+1.1      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='ठंडा,adj,m,sg,,o,,' head="ठंडे">     
+2.1      	ठंडे      	JJ      	<fs af='ठंडा,adj,m,sg,,o,,' name="ठंडे">     
+      	))      	      	     
+3      	((      	VGNN      	<fs af='हो,v,m,pl,any,,ना_पर,nA' vpos="tam1_2" head="होने">     
+3.1      	होने      	VM      	<fs af='हो,v,m,pl,any,,ना,nA' name="होने">     
+      	))      	      	     
+4      	((      	NP      	<fs af='तरह,adv,,,,,,' head="तरह" poslcat="NM">     
+4.1      	अच्छी      	JJ      	<fs af='अच्छी,adj,f,any,,any,,'>     
+4.2      	तरह      	NN      	<fs af='तरह,adv,,,,,,' name="तरह" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मैश,unk,,,,,,' head="मैश" poslcat="NM">     
+5.1      	मैश      	NN      	<fs af='मैश,unk,,,,,,' name="मैश" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+6.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'ko' is not given in the output.
+-'par' is not given in the output.
+-'le' is not given in the output.
+---------------------------------
+237
+अब आटे में मैदा एवं नमक मिलाकर छान लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आटा,n,m,pl,3,d,0_में,0' vpos="vib1_2" head="आटे">     
+2.1      	आटे      	NN      	<fs af='आटा,n,m,pl,3,d,0,0' name="आटे">     
+      	))      	      	     
+3      	((      	JJP      	<fs af='मैदा,n,f,sg,3,d,0,0' head="मैदा" poslcat="NM">     
+3.1      	मैदा      	JJ      	<fs af='मैदा,n,f,sg,3,d,0,0' name="मैदा" poslcat="NM">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='एवं,avy,,,,,,' head="एवं">     
+4.1      	एवं      	CC      	<fs af='एवं,avy,,,,,,' name="एवं">     
+      	))      	      	     
+5      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+5.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='मिला,v,any,pl,1,,कर_छान_ले+एं,kara' vpos="tam1_2_3" head="मिलाकर">     
+6.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is not PRP. It is RBP.
+-'mein' is not given in the output.
+-'chaan le' is not given in the output.
+------------------------
+238
+इसमें अजवाइन, अन्य मसाला एवं मैश आलू मिलाकर गूंथ लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+1.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+2      	((      	NP      	<fs af='अजवाइन,n,f,sg,3,d,0,0' head="अजवाइन">     
+2.1      	अजवाइन      	NN      	<fs af='अजवाइन,n,f,sg,3,d,0,0' name="अजवाइन">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मसाला,n,m,sg,3,d,0,0' head="मसाला">     
+3.1      	अन्य      	JJ      	<fs af='अन्य,adj,any,any,,any,,'>     
+3.2      	मसाला      	NN      	<fs af='मसाला,n,m,sg,3,d,0,0' name="मसाला">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='एवं,avy,,,,,,' head="एवं">     
+4.1      	एवं      	CC      	<fs af='एवं,avy,,,,,,' name="एवं">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मैश,unk,,,,,,' head="मैश" poslcat="NM">     
+5.1      	मैश      	NN      	<fs af='मैश,unk,,,,,,' name="मैश" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0,0' head="आलू" poslcat="NM">     
+6.1      	आलू      	PRP      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू" poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,कर_गूंथ_ले+एं,kara' vpos="tam1_2_3" head="मिलाकर">     
+7.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mash aaloo' is one chunk. But they are parsed under two separate chunks.
+-'goonth le' is not given in the output.
+----------------------------------------
+239
+जरूरत हो तो थोड़ा पानी मिलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='जरूरत,adv,,,,,,' head="जरूरत" poslcat="NM">     
+1.1      	जरूरत      	NN      	<fs af='जरूरत,adv,,,,,,' name="जरूरत" poslcat="NM">     
+      	))      	      	     
+2      	((      	VGF      	<fs af='हो,v,any,any,any,,0,0' head="हो">     
+2.1      	हो      	VM      	<fs af='हो,v,any,any,any,,0,0' name="हो">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='तो,avy,,,,,,' head="तो">     
+3.1      	तो      	CC      	<fs af='तो,avy,,,,,,' name="तो">     
+      	))      	      	     
+4      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0,0' head="पानी">     
+4.1      	थोड़ा      	QF      	<fs af='थोड़ा,adj,m,sg,,d,,'>     
+4.2      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='मिला,v,any,pl,1,,एं,eM' head="मिलाएं">     
+5.1      	मिलाएं      	VM      	<fs af='मिला,v,any,pl,1,,एं,eM' name="मिलाएं">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+------------------------
+240
+अब एक कड़ाही में तेल गर्म करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='कड़ाही,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="कड़ाही">     
+2.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+2.2      	कड़ाही      	NN      	<fs af='कड़ाही,n,f,sg,3,d,0,0' name="कड़ाही">     
+      	))      	      	     
+3      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+3.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+4      	((      	JJP      	<fs af='गर्म,adj,any,any,,any,,' head="गर्म">     
+4.1      	गर्म      	JJ      	<fs af='गर्म,adj,any,any,,any,,' name="गर्म">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+5.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'mein' is not given in the output.
+------------------------
+241
+गूंथे आटे की लोइयां बनाएं और पूरी बेल कर गर्म तेल में सुनहरी तल लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='आटा,n,m,pl,3,d,0_का,0' vpos="vib2_3" head="आटे">     
+1.1      	गूंथे      	JJ      	<fs af='गूंथे,unk,,,,,,' poslcat="NM">     
+1.2      	आटे      	NN      	<fs af='आटा,n,m,pl,3,d,0,0' name="आटे">     
+      	))      	      	     
+2      	((      	NP      	<fs af='लोइयां,unk,,,,,,' head="लोइयां" poslcat="NM">     
+2.1      	लोइयां      	NN      	<fs af='लोइयां,unk,,,,,,' name="लोइयां" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='बना,v,any,pl,1,,एं,eM' head="बनाएं">     
+3.1      	बनाएं      	VM      	<fs af='बना,v,any,pl,1,,एं,eM' name="बनाएं">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+5      	((      	NP      	<fs af='बेल,n,f,sg,3,d,0,0' head="बेल">     
+5.1      	पूरी      	JJ      	<fs af='पूरी,n,f,sg,3,d,0,0' poslcat="NM">     
+5.2      	बेल      	NN      	<fs af='बेल,n,f,sg,3,d,0,0' name="बेल">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+6.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+7      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="तेल">     
+7.1      	गर्म      	JJ      	<fs af='गर्म,adj,any,any,,any,,'>     
+7.2      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+8      	((      	NP      	<fs af='तल,v,any,any,any,,0,0' head="तल" poslcat="NM">     
+8.1      	सुनहरी      	JJ      	<fs af='सुनहरी,unk,,,,,,' poslcat="NM">     
+8.2      	तल      	NN      	<fs af='तल,v,any,any,any,,0,0' name="तल" poslcat="NM">     
+      	))      	      	     
+9      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+9.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'kii' is not given in the output.
+--------------------------------------
+242
+गर्मागर्म आलू-अजवाइन पूरी को मनपसंद सब्जी के साथ खिलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='पूरी,n,f,sg,3,d,0_को,0' vpos="vib5_6" head="पूरी">     
+1.1      	गर्मागर्म      	JJ      	<fs af='गर्मागर्म,unk,,,,,,' poslcat="NM">     
+1.2      	आलू      	XC      	<fs af='आलू,n,m,sg,3,d,0,0' poslcat="NM">     
+1.3      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+1.4      	अजवाइन      	RDP      	<fs af='अजवाइन,n,f,sg,3,d,0,0' poslcat="NM">     
+1.5      	पूरी      	NN      	<fs af='पूरी,n,f,sg,3,d,0,0' name="पूरी">     
+      	))      	      	     
+2      	((      	NP      	<fs af='साथ,adv,,,,,0_का_साथ,' vpos="3_vib4_4" head="साथ" poslcat="NM">     
+2.1      	मनपसंद      	JJ      	<fs af='मनपसंद,unk,,,,,,' poslcat="NM">     
+2.2      	सब्जी      	NN      	<fs af='सब्जी,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+3      	((      	VGF      	<fs af='खिला,v,any,pl,1,,एं,eM' head="खिलाएं">     
+3.1      	खिलाएं      	VM      	<fs af='खिला,v,any,pl,1,,एं,eM' name="खिलाएं">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ko' is not given in the output.
+-'ke saath' is not given in the output.
+--------------------------------
+243
+
+चावल को आधा-एक घंटे के लिए पानी में भिगो कर रख दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="चावल">     
+1.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+2      	((      	NP      	<fs af='घंटा,n,m,pl,3,d,0_का_ले,0' vpos="vib4_5_6" head="घंटे">     
+2.1      	आधा      	XC      	<fs af='आधा,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.3      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+2.4      	घंटे      	NN      	<fs af='घंटा,n,m,pl,3,d,0,0' name="घंटे">     
+      	))      	      	     
+3      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="पानी">     
+3.1      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='भिगो,v,any,pl,1,,0_कर_रख_दे+एं,0' vpos="tam1_2_3_4" head="भिगो">     
+4.1      	भिगो      	VM      	<fs af='भिगो,v,any,any,any,,0,0' name="भिगो">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ko' is not given in the output.
+-'ke liye' is not given in the output.
+-'mein' is not given in the output.
+-'rakh de' is not given in the output.
+---------------------------
+244
+एक चौड़े मुंह वाले बर्तन में पानी उबालें और चावल पका लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मुँह,n,m,sg,,d,0_वाला,0' vpos="vib3_4" head="मुंह">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	चौड़े      	JJ      	<fs af='चौड़ा,adj,m,sg,,o,,'>     
+1.3      	मुंह      	NN      	<fs af='मुँह,n,m,sg,,d,0,0' name="मुंह">     
+      	))      	      	     
+2      	((      	NP      	<fs af='बर्तन,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="बर्तन">     
+2.1      	बर्तन      	NN      	<fs af='बर्तन,n,m,sg,3,d,0,0' name="बर्तन">     
+      	))      	      	     
+3      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0,0' head="पानी">     
+3.1      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='उबाल,v,any,pl,1,,एं,eM' head="उबालें">     
+4.1      	उबालें      	VM      	<fs af='उबाल,v,any,pl,1,,एं,eM' name="उबालें">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+5.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+6      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0,0' head="चावल">     
+6.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='पका,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="पका">     
+7.1      	पका      	VM      	<fs af='पका,v,any,any,any,,0,0' name="पका">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-ek choude muh waale bartan is a single chunk. But waale is not given in the output. 'ek chaude muh' and 'bartan' are separated.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+----------------------
+245
+अब इन्हें तीन भागों में बराबर बांट कर अलग-अलग कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,pl,3,o,को,ko' head="इन्हें">     
+2.1      	इन्हें      	PRP      	<fs af='यह,pn,any,pl,3,o,को,ko' name="इन्हें">     
+      	))      	      	     
+3      	((      	NP      	<fs af='भागों,unk,,,,,0_में,' vpos="vib2_3" head="भागों" poslcat="NM">     
+3.1      	तीन      	QC      	<fs af='तीन,n,m,sg,3,d,0,0' poslcat="NM">     
+3.2      	भागों      	NN      	<fs af='भागों,unk,,,,,,' name="भागों" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='बांट,unk,,,,,,' head="बांट" poslcat="NM">     
+4.1      	बराबर      	JJ      	<fs af='बराबर,adj,any,any,,any,,'>     
+4.2      	बांट      	NN      	<fs af='बांट,unk,,,,,,' name="बांट" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+5.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='अलग,adv,,,,,,' head="अलग" poslcat="NM">     
+6.1      	अलग      	JJ      	<fs af='अलग,adj,any,any,,any,,'>     
+6.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+6.3      	अलग      	RDP      	<fs af='अलग,adv,,,,,,' name="अलग" poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+7.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ab' is RBP and not PRP
+-'mein' is not given in the output.
+-'le' is not given in the output.
+-----------------------------------------
+246
+मटर और आलू उबाल लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मटर,n,f,sg,3,d,0,0' head="मटर">     
+1.1      	मटर      	NN      	<fs af='मटर,n,f,sg,3,d,0,0' name="मटर">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='उबाल,v,any,any,any,,0,0' head="उबाल" poslcat="NM">     
+3.1      	आलू      	JJ      	<fs af='आलू,n,m,sg,3,d,0,0' poslcat="NM">     
+3.2      	उबाल      	NN      	<fs af='उबाल,v,any,any,any,,0,0' name="उबाल" poslcat="NM">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+4.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'aaloo ubaal' is not in the same chunk. But they are parsed in the same one.
+-------------------------
+247
+आलू के छोटे-छोटे टुकड़े कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="आलू">     
+1.1      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+2      	((      	NP      	<fs af='छोटा,adj,m,sg,,o,,' head="छोटे" poslcat="NM">     
+2.1      	छोटे      	JJ      	<fs af='छोटा,adj,m,sg,,o,,'>     
+2.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.3      	छोटे      	RDP      	<fs af='छोटा,adj,m,sg,,o,,' name="छोटे" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='टुकडा,n,m,pl,1,d,0_कर_ले+एं,0' vpos="tam1_2_3" head="टुकड़े" poslcat="NM">     
+3.1      	टुकड़े      	VM      	<fs af='टुकडा,n,m,pl,,d,0,0' name="टुकड़े" poslcat="NM">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ke' is not given in the output.
+-'kar le' is not given in the output.
+--------------------------
+248
+
+किशमिश थोड़ी देर पानी में भिगोकर निकाल लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='किशमिश,n,f,sg,3,d,0,0' head="किशमिश">     
+1.1      	किशमिश      	NN      	<fs af='किशमिश,n,f,sg,3,d,0,0' name="किशमिश">     
+      	))      	      	     
+2      	((      	NP      	<fs af='देर,adv,,,,,,' head="देर" poslcat="NM">     
+2.1      	थोड़ी      	QF      	<fs af='थोड़ी,adv,,,,,,' poslcat="NM">     
+2.2      	देर      	NN      	<fs af='देर,adv,,,,,,' name="देर" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="पानी">     
+3.1      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='भिगो,v,any,pl,1,,कर_निकाल_ले+एं,kara' vpos="tam1_2_3" head="भिगोकर">     
+4.1      	भिगोकर      	VM      	<fs af='भिगो,v,any,any,any,,कर,kara' name="भिगोकर">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'mein' is not given in the output.
+-'nikaal le' is not given in the output.
+---------------------
+249
+एक भाग में हरे धनिए की चटनी, मटर, पाव चम्मच नमक मिलाकर रख लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='भाग,v,any,any,any,,0_में,0' vpos="vib2_3" head="भाग" poslcat="NM">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	भाग      	NN      	<fs af='भाग,v,any,any,any,,0,0' name="भाग" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='धनिए,unk,,,,,0_का,' vpos="vib2_3" head="धनिए" poslcat="NM">     
+2.1      	हरे      	JJ      	<fs af='हरा,adj,m,sg,,o,,'>     
+2.2      	धनिए      	NN      	<fs af='धनिए,unk,,,,,,' name="धनिए" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='चटनी,n,f,sg,3,d,0,0' head="चटनी">     
+3.1      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0' name="चटनी">     
+3.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मटर,n,f,sg,3,d,0,0' head="मटर">     
+4.1      	मटर      	NN      	<fs af='मटर,n,f,sg,3,d,0,0' name="मटर">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='पाव,n,m,sg,3,d,0,0' head="पाव">     
+5.1      	पाव      	NN      	<fs af='पाव,n,m,sg,3,d,0,0' name="पाव">     
+      	))      	      	     
+6      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+6.1      	चम्मच      	JJ      	<fs af='चम्मच,n,f,sg,3,d,0,0' poslcat="NM">     
+6.2      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,कर_रख_ले+एं,kara' vpos="tam1_2_3" head="मिलाकर">     
+7.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+------------------------------
+250
+दूसरी परत के लिए 1 चम्मच घी गर्म कर काजू के छोटे टुकड़े कर भून लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='परत,n,f,sg,3,d,0_का_ले,0' vpos="vib2_3_4" head="परत">     
+1.1      	दूसरी      	QO      	<fs af='दूसरी,unk,,,,,,' poslcat="NM">     
+1.2      	परत      	NN      	<fs af='परत,n,f,sg,3,d,0,0' name="परत">     
+      	))      	      	     
+2      	((      	NP      	<fs af='घी,n,m,sg,3,d,0,0' head="घी">     
+2.1      	1      	QC      	<fs af='1,num,,,,,,'>     
+2.2      	चम्मच      	JJ      	<fs af='चम्मच,n,f,sg,3,d,0,0' poslcat="NM">     
+2.3      	घी      	NN      	<fs af='घी,n,m,sg,3,d,0,0' name="घी">     
+      	))      	      	     
+3      	((      	JJP      	<fs af='गर्म,adj,any,any,,any,,' head="गर्म">     
+3.1      	गर्म      	JJ      	<fs af='गर्म,adj,any,any,,any,,' name="गर्म">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+4.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='काजू,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="काजू">     
+5.1      	काजू      	NN      	<fs af='काजू,n,m,sg,3,d,0,0' name="काजू">     
+      	))      	      	     
+6      	((      	JJP      	<fs af='छोटा,adj,m,sg,,o,,' head="छोटे">     
+6.1      	छोटे      	JJ      	<fs af='छोटा,adj,m,sg,,o,,' name="छोटे">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='टुकडा,n,any,pl,1,d,0_कर_भून_ले+एं,0' vpos="tam1_2_3_4" head="टुकड़े" poslcat="NM">     
+7.1      	टुकड़े      	VM      	<fs af='टुकडा,n,m,pl,,d,0,0' name="टुकड़े" poslcat="NM">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ke liye' is not given in the output.
+-'ke' is not given in the output.
+-'chote tukde' is one single chunk. But they are parsed to two separate chunks.
+-'kar bhoon le' is not given in the output.
+---------------------------
+251
+इसमें किशमिश, टोमेटो सॉस, नमक और चावल का दूसरा भाग मिला लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+1.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+2      	((      	NP      	<fs af='किशमिश,n,f,sg,3,d,0,0' head="किशमिश">     
+2.1      	किशमिश      	NN      	<fs af='किशमिश,n,f,sg,3,d,0,0' name="किशमिश">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सॉस,unk,,,,,,' head="सॉस" poslcat="NM">     
+3.1      	टोमेटो      	XC      	<fs af='टोमेटो,unk,,,,,,' poslcat="NM">     
+3.2      	सॉस      	NN      	<fs af='सॉस,unk,,,,,,' name="सॉस" poslcat="NM">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+4.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+5.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+6      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="चावल">     
+6.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+7      	((      	NP      	<fs af='भाग,v,any,any,any,,0,0' head="भाग" poslcat="NM">     
+7.1      	दूसरा      	QO      	<fs af='दूसरा,n,m,sg,3,d,0,0' poslcat="NM">     
+7.2      	भाग      	NN      	<fs af='भाग,v,any,any,any,,0,0' name="भाग" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="मिला">     
+8.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ka' is not given in the output.
+-'chawal ka doosra bhaag' should have been a single chunk.*************
+-'le' is not given in the output.
+---------------------------------------
+252
+एक चम्मच घी में राई का छौंक देकर हल्दी, आलू डालकर उतार लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='घी,n,m,sg,3,d,0_में,0' vpos="vib3_4" head="घी">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	चम्मच      	JJ      	<fs af='चम्मच,n,f,sg,3,d,0,0' poslcat="NM">     
+1.3      	घी      	NN      	<fs af='घी,n,m,sg,3,d,0,0' name="घी">     
+      	))      	      	     
+2      	((      	NP      	<fs af='राई,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="राई">     
+2.1      	राई      	NN      	<fs af='राई,n,f,sg,3,d,0,0' name="राई">     
+      	))      	      	     
+3      	((      	NP      	<fs af='छौंक,n,m,sg,3,d,0,0' head="छौंक">     
+3.1      	छौंक      	NN      	<fs af='छौंक,n,m,sg,3,d,0,0' name="छौंक">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='दे,v,any,sg,3,,कर_हल्दी,kara' vpos="tam1_2" head="देकर">     
+4.1      	देकर      	VM      	<fs af='दे,v,any,any,any,,कर,kara' name="देकर">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0,0' head="आलू">     
+5.1      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='डाल,v,any,pl,1,,कर_उतार_ले+एं,kara' vpos="tam1_2_3" head="डालकर">     
+6.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'raayi ka chounk' is a single chunk but 'ka' is not given in the output.
+-'haldi' is not given in the output.
+-'uthaar le' is not given in the output.
+-------------------------------
+253
+इसमें चीज, 1/2 चम्मच नमक और बाकी चावल मिला लें|
+
+no output is given, but if 1/2 was made 1 or any other number, then output is given.
+-------------------------------
+254
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='डिश,unk,,,,,0_में,' vpos="vib2_3" head="डिश" poslcat="NM">     
+1.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+1.2      	डिश      	NN      	<fs af='डिश,unk,,,,,,' name="डिश" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='चम्मच,n,f,sg,3,d,0,0' head="चम्मच">     
+2.1      	1      	QC      	<fs af='1,num,,,,,,'>     
+2.2      	बड़ा      	JJ      	<fs af='बड़ा,adj,m,sg,,d,,'>     
+2.3      	चम्मच      	NN      	<fs af='चम्मच,n,f,sg,3,d,0,0' name="चम्मच">     
+      	))      	      	     
+3      	((      	NP      	<fs af='घी,n,m,sg,3,d,0,0' head="घी">     
+3.1      	घी      	NN      	<fs af='घी,n,m,sg,3,d,0,0' name="घी">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='लगा,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="लगा">     
+4.1      	लगा      	VM      	<fs af='लगा,v,any,any,any,,0,0' name="लगा">     
+      	))      	      	     
+5      	((      	NP      	<fs af='तरह,adv,,,,,0_का,' vpos="vib2_3" head="तरह_2" poslcat="NM">     
+5.1      	तीनों      	QC      	<fs af='तीन,n,m,pl,3,o,0,0' poslcat="NM">     
+5.2      	तरह      	NN      	<fs af='तरह,adv,,,,,,' name="तरह_2" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0,0' head="चावल">     
+6.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+7      	((      	NP      	<fs af='ऊपर,adv,,,,,0_का,' vpos="2_vib3" head="ऊपर" poslcat="NM">     
+7.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+7.2      	ऊपर      	NST      	<fs af='ऊपर,adv,,,,,,' name="ऊपर" poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='परत,n,f,sg,3,d,0,0' head="परत">     
+8.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+8.2      	परत      	NN      	<fs af='परत,n,f,sg,3,d,0,0' name="परत">     
+      	))      	      	     
+9      	((      	VGNF      	<fs af='लगा,v,any,any,any,,कर,kara' head="लगाकर">     
+9.1      	लगाकर      	VM      	<fs af='लगा,v,any,any,any,,कर,kara' name="लगाकर">     
+      	))      	      	     
+10      	((      	NP      	<fs af='हाथ,n,m,sg,3,d,0_से,0' vpos="vib1_2" head="हाथ">     
+10.1      	हाथ      	NN      	<fs af='हाथ,n,m,sg,3,d,0,0' name="हाथ">     
+      	))      	      	     
+11      	((      	NP      	<fs af='तरह,adv,,,,,,' head="तरह" poslcat="NM">     
+11.1      	अच्छी      	JJ      	<fs af='अच्छी,adj,f,any,,any,,'>     
+11.2      	तरह      	NN      	<fs af='तरह,adv,,,,,,' name="तरह" poslcat="NM">     
+      	))      	      	     
+12      	((      	VGF      	<fs af='दबा,v,any,pl,1,,कर_रख_ले+एं,kara' vpos="tam1_2_3" head="दबाकर">     
+12.1      	दबाकर      	VM      	<fs af='दबा,v,any,any,any,,कर,kara' name="दबाकर">     
+12.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not give in the output.
+-'1 chammach ghee' is one chunk.*********
+-'kar' is not give in the output.
+-'ka' is not give in the output.
+-'teeno tarah ke chawal' is one chunk.*******
+-'ek ke upar ek' is one chunk. 'ke' is not gven in the output. It is a multi word expression.
+-'ek parat' is not a chunk. 'Parat' is separate.
+-'se' is not give in the output.
+-'rakh le' is not give in the output.
+---------------------------
+255
+
+अब इनको हल्के हाथ से उलट दें और किसी दूसरी थाली में निकाल लें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,pl,3,o,को,ko' head="इनको">     
+2.1      	इनको      	PRP      	<fs af='यह,pn,any,pl,3,o,को,ko' name="इनको">     
+      	))      	      	     
+3      	((      	NP      	<fs af='हाथ,n,m,sg,3,d,0_से,0' vpos="vib2_3" head="हाथ">     
+3.1      	हल्के      	JJ      	<fs af='हल्का,adj,m,sg,,o,,'>     
+3.2      	हाथ      	NN      	<fs af='हाथ,n,m,sg,3,d,0,0' name="हाथ">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='उलट,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="उलट">     
+4.1      	उलट      	VM      	<fs af='उलट,v,any,any,any,,0,0' name="उलट">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+5.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+6      	((      	NP      	<fs af='किसी,unk,,,,,,' head="किसी" poslcat="NM">     
+6.1      	किसी      	PRP      	<fs af='किसी,unk,,,,,,' name="किसी" poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='थाली,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="थाली">     
+7.1      	दूसरी      	JJ      	<fs af='दूसरी,unk,,,,,,' poslcat="NM">     
+7.2      	थाली      	NN      	<fs af='थाली,n,f,sg,3,d,0,0' name="थाली">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='निकाल,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="निकाल">     
+8.1      	निकाल      	VM      	<fs af='निकाल,v,any,any,any,,0,0' name="निकाल">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'se' is not given in the output.
+-'de' is not given in the output.
+-'kisi doosri thaali' is a single chunk.***********
+-'mein' is not given in the output.
+-'le' is not given in the output.
+-----------------------------------
+256
+तैयार स्वादिष्‍ट नमकीन भारतीय पकवान शाही तिरंगे चावल का गणतंत्र दिवस के खास मौके पर जायका लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='नमकीन,n,m,sg,3,d,0,0' head="नमकीन">     
+1.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,'>    
+
+-how many ever times the sentence is run, it is giving only this much of output. When swadisth is removed from the sentence, it is giving the whole output.
+--------------------------------
+257
+ककड़ी को लंबे-लंबे स्लाइस में काटकर रख लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='ककडी,n,f,sg,,d,0_को,0' vpos="vib1_2" head="ककड़ी">     
+1.1      	ककड़ी      	NN      	<fs af='ककडी,n,f,sg,,d,0,0' name="ककड़ी">     
+      	))      	      	     
+2      	((      	NP      	<fs af='स्लाइस,unk,,,,,0_में,' vpos="vib4_5" head="स्लाइस" poslcat="NM">     
+2.1      	लंबे      	XC      	<fs af='लंबा,adj,m,sg,,o,,' poslcat="NM">     
+2.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.3      	लंबे      	JJ      	<fs af='लंबा,adj,m,sg,,o,,'>     
+2.4      	स्लाइस      	NN      	<fs af='स्लाइस,unk,,,,,,' name="स्लाइस" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='काट,v,any,pl,1,,कर_रख_ले+एं,kara' vpos="tam1_2_3" head="काटकर">     
+3.1      	काटकर      	VM      	<fs af='काट,v,any,any,any,,कर,kara' name="काटकर">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ko' is not given in the output.
+-'mein' is not given in the output.
+-'rakh le' is not given in the output.
+--------------------------
+258
+अब गाजर और मूली को छिलकर लंबी स्लाइस में काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='गाजर,n,f,sg,3,d,0,0' head="गाजर">     
+2.1      	गाजर      	NN      	<fs af='गाजर,n,f,sg,3,d,0,0' name="गाजर">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मूली,n,f,sg,3,d,0_को,0' vpos="vib1_2" head="मूली">     
+4.1      	मूली      	NN      	<fs af='मूली,n,f,sg,3,d,0,0' name="मूली">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='छिल,v,any,any,any,,कर,kara' head="छिलकर">     
+5.1      	छिलकर      	VM      	<fs af='छिल,v,any,any,any,,कर,kara' name="छिलकर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='स्लाइस,unk,,,,,0_में,' vpos="vib2_3" head="स्लाइस" poslcat="NM">     
+6.1      	लंबी      	JJ      	<fs af='लंबी,n,f,sg,3,d,0,0' poslcat="NM">     
+6.2      	स्लाइस      	NN      	<fs af='स्लाइस,unk,,,,,,' name="स्लाइस" poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+7.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'ko' is not given in the output.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+--------------------------
+259
+इसके बाद एक बड़ी-सी प्लेट में पहले गाजर, फिर मूली तत्पश्चात ककड़ी को एक के ऊपर एक तह करके जमा कर रख लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='बाद,adv,,,,,0_बाद,' vpos="vib2_2" head="बाद" poslcat="NM">     
+1.1      	इसके      	PRP      	<fs af='यह,pn,m,pl,3,d,का,kA'>     
+      	))      	      	     
+2      	((      	NP      	<fs af='सी,v,any,any,any,,0,0' head="सी" poslcat="NM">     
+2.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+2.2      	बड़ी      	JJ      	<fs af='बड़ी,adj,f,any,,any,,'>     
+2.3      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.4      	सी      	RP      	<fs af='सी,v,any,any,any,,0,0' name="सी" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='पहले,adv,,,,,0_में_पहले,' vpos="2_vib3_3" head="पहले" poslcat="NM">     
+3.1      	प्लेट      	NN      	<fs af='प्लेट,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+4      	((      	NP      	<fs af='गाजर,n,f,sg,3,d,0,0' head="गाजर">     
+4.1      	गाजर      	NN      	<fs af='गाजर,n,f,sg,3,d,0,0' name="गाजर">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	RBP      	<fs af='फिर,v,any,any,any,,0,0' head="फिर" poslcat="NM">     
+5.1      	फिर      	RB      	<fs af='फिर,v,any,any,any,,0,0' name="फिर" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='मूली,n,f,sg,3,d,0_तत्पश्चात,0' vpos="vib1_2" head="मूली">     
+6.1      	मूली      	NN      	<fs af='मूली,n,f,sg,3,d,0,0' name="मूली">     
+      	))      	      	     
+7      	((      	NP      	<fs af='ककडी,n,f,sg,,d,0_को,0' vpos="vib1_2" head="ककड़ी">     
+7.1      	ककड़ी      	NN      	<fs af='ककडी,n,f,sg,,d,0,0' name="ककड़ी">     
+      	))      	      	     
+8      	((      	NP      	<fs af='ऊपर,adv,,,,,0_का,' vpos="2_vib3" head="ऊपर" poslcat="NM">     
+8.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+8.2      	ऊपर      	NST      	<fs af='ऊपर,adv,,,,,,' name="ऊपर" poslcat="NM">     
+      	))      	      	     
+9      	((      	NP      	<fs af='तह,n,f,sg,3,d,0,0' head="तह">     
+9.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+9.2      	तह      	NN      	<fs af='तह,n,f,sg,3,d,0,0' name="तह">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='कर,v,any,pl,1,,कर_जमा_कर_रख_ले+एं,kara' vpos="tam1_2_3_4_5" head="करके">     
+10.1      	करके      	VM      	<fs af='कर,v,any,any,any,,कर,kara' name="करके">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'iske baad' is RBP. 'baad' is not given in the output.
+-'ek badi si plate' is one NP. But plate is separated. And even if it is not, 'ek badi si' is adjectival chunk, not NP.
+-'mein' is not given in the output.
+-'pehle' is NST but is not given in the output.
+-'tatpashchaat' is RBP but is not given in the output.
+-'ek ke upar ek' is a multiword expression. 'ek tah' thus is not a single chunk. 'ek ke upar' is not is not given in the output.
+-'jama kar rakh le' is not given in the output.
+-----------------------------------------------
+260
+
+अब ऊपर से काला नमक, काली मिर्च का पावडर, पिसा जीरा व सादा नमक बुरकाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='ऊपर,adv,,,,,0_से,' vpos="vib1_2" head="ऊपर" poslcat="NM">     
+2.1      	ऊपर      	NST      	<fs af='ऊपर,adv,,,,,,' name="ऊपर" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक_2">     
+3.1      	काला      	JJ      	<fs af='काला,adj,m,sg,,d,,'>     
+3.2      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक_2">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0_का,0' vpos="vib2_3" head="मिर्च">     
+4.1      	काली      	XC      	<fs af='काली,adj,f,any,,any,,' poslcat="NM">     
+4.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+      	))      	      	     
+5      	((      	NP      	<fs af='पावडर,unk,,,,,,' head="पावडर" poslcat="NM">     
+5.1      	पावडर      	NN      	<fs af='पावडर,unk,,,,,,' name="पावडर" poslcat="NM">     
+5.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='जीरा,n,m,sg,3,d,0,0' head="जीरा">     
+6.1      	पिसा      	XC      	<fs af='पिसा,v,any,any,any,,0,0' poslcat="NM">     
+6.2      	जीरा      	NN      	<fs af='जीरा,n,m,sg,3,d,0,0' name="जीरा">     
+      	))      	      	     
+7      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+7.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+8      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+8.1      	सादा      	JJ      	<fs af='सादा,adj,m,sg,,d,,'>     
+8.2      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+9      	((      	NP      	<fs af='बुरकाएं,unk,,,,,,' head="बुरकाएं" poslcat="NM">     
+9.1      	बुरकाएं      	NN      	<fs af='बुरकाएं,unk,,,,,,' name="बुरकाएं" poslcat="NM">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'se' is not given in the output.
+-'kaali mirch ka powder' is one chunk.(the fragrance of rose is a single chunk). But 'ka' is not given in the output. And powder is separated.
+---------------------------
+261
+अब तैयार तिरंगा सलाद पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='तिरंगा,n,m,sg,3,d,0,0' head="तिरंगा">     
+2.1      	तैयार      	JJ      	<fs af='तैयार,adj,any,any,,any,,'>     
+2.2      	तिरंगा      	NN      	<fs af='तिरंगा,n,m,sg,3,d,0,0' name="तिरंगा">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सलाद,n,m,sg,3,d,0,0' head="सलाद">     
+3.1      	सलाद      	NN      	<fs af='सलाद,n,m,sg,3,d,0,0' name="सलाद">     
+      	))      	      	     
+4      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+4.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+5.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'ab' is RBP.
+-'tayyaar tiranga salad' is one chunk NP. In this context 'tiranga' is also JJ and not NN.
+-'pesh' is verb or NN.********
+
+---------------------------------
+262
+ताजे पनीर को तीन भागों में काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='पनीर,n,m,sg,3,d,0_को,0' vpos="vib2_3" head="पनीर">     
+1.1      	ताजे      	JJ      	<fs af='ताजा,adj,m,sg,,o,,'>     
+1.2      	पनीर      	NN      	<fs af='पनीर,n,m,sg,3,d,0,0' name="पनीर">     
+      	))      	      	     
+2      	((      	NP      	<fs af='भागों,unk,,,,,0_में,' vpos="vib2_3" head="भागों" poslcat="NM">     
+2.1      	तीन      	QC      	<fs af='तीन,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	भागों      	NN      	<fs af='भागों,unk,,,,,,' name="भागों" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+3.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ko' is not given in the output.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+
+-------------------------------
+263
+हर परत के ऊपर पुदीना चटनी, अचार मसाला, चिली सॉस व टोमॅटो सॉस लगा लें और उसे एक के ऊपर एक रखें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='ऊपर,adv,,,,,0_का_ऊपर,' vpos="3_vib4_4" head="ऊपर_2" poslcat="NM">     
+1.1      	हर      	QF      	<fs af='हर,adj,any,any,,any,,'>     
+1.2      	परत      	NN      	<fs af='परत,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+2      	((      	NP      	<fs af='पुदीना,n,m,sg,3,d,0,0' head="पुदीना">     
+2.1      	पुदीना      	NN      	<fs af='पुदीना,n,m,sg,3,d,0,0' name="पुदीना">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='चट,v,f,sg,any,,ना,nA' head="चटनी">     
+3.1      	चटनी      	VM      	<fs af='चट,v,f,sg,any,,ना,nA' name="चटनी">     
+3.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मसाला,n,m,sg,3,d,0,0' head="मसाला">     
+4.1      	अचार      	NN      	<fs af='अचार,n,m,sg,3,d,0,0'>     
+4.2      	मसाला      	NN      	<fs af='मसाला,n,m,sg,3,d,0,0' name="मसाला">     
+4.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='सॉस,unk,,,,,,' head="सॉस_2" poslcat="NM">     
+5.1      	चिली      	JJ      	<fs af='चिली,unk,,,,,,' poslcat="NM">     
+5.2      	सॉस      	NN      	<fs af='सॉस,unk,,,,,,' name="सॉस_2" poslcat="NM">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+6.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+7      	((      	NP      	<fs af='सॉस,unk,,,,,,' head="सॉस" poslcat="NM">     
+7.1      	टोमॅटो      	XC      	<fs af='टोमॅटो,unk,,,,,,' poslcat="NM">     
+7.2      	सॉस      	NN      	<fs af='सॉस,unk,,,,,,' name="सॉस" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='लगा,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="लगा">     
+8.1      	लगा      	VM      	<fs af='लगा,v,any,any,any,,0,0' name="लगा">     
+      	))      	      	     
+9      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+9.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+10      	((      	NP      	<fs af='उसे,unk,,,,,,' head="उसे" poslcat="NM">     
+10.1      	उसे      	PRP      	<fs af='उसे,unk,,,,,,' name="उसे" poslcat="NM">     
+      	))      	      	     
+11      	((      	NP      	<fs af='ऊपर,adv,,,,,0_का,' vpos="2_vib3" head="ऊपर" poslcat="NM">     
+11.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+11.2      	ऊपर      	NST      	<fs af='ऊपर,adv,,,,,,' name="ऊपर" poslcat="NM">     
+      	))      	      	     
+12      	((      	NP      	<fs af='एक,adj,any,any,,any,,' head="एक">     
+12.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,' name="एक">     
+      	))      	      	     
+13      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+13.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+13.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'har parath ke upar' is one chunk as NP, upar being NST. But 'ke upar' is nt given in the output.
+-'pudeena chutney' is one chunk NP, but they are separated. And in this context, pudeena is JJ which describes chutney. *********
+-In 'achaar masala', achaar is given as NN and in 'chilli sauce' chilli is given as JJ.**********
+-'tomato' is marked as XC. But it is NN in this context.
+-'le' is not given in the output.
+-'use' is PRP, but it is not given in the output.
+-'ek ke upar ek' is one chunk. 'ke' is not gven in the output. It is a multi word expression.
+-'ek' is not a separate chunk.
+----------------------------------
+264
+तत्पश्चात दही को फेंट कर उसमें बेसन, तेल, नमक, लाल मिर्च व गरम मसाला मिलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='दही,n,f,sg,3,d,0_को,0' vpos="vib2_3" head="दही">     
+1.1      	तत्पश्चात      	JJ      	<fs af='तत्पश्चात,unk,,,,,,' poslcat="NM">     
+1.2      	दही      	NN      	<fs af='दही,n,f,sg,3,d,0,0' name="दही">     
+      	))      	      	     
+2      	((      	NP      	<fs af='फेंट,v,any,any,any,,0,0' head="फेंट" poslcat="NM">     
+2.1      	फेंट      	NN      	<fs af='फेंट,v,any,any,any,,0,0' name="फेंट" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+3.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+4      	((      	NP      	<fs af='उसमें,unk,,,,,,' head="उसमें" poslcat="NM">     
+4.1      	उसमें      	PRP      	<fs af='उसमें,unk,,,,,,' name="उसमें" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='बेसन,n,m,sg,3,d,0,0' head="बेसन">     
+5.1      	बेसन      	NN      	<fs af='बेसन,n,m,sg,3,d,0,0' name="बेसन">     
+5.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+6.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+7.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+7.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+8.1      	लाल      	JJ      	<fs af='लाल,adj,any,any,,any,,'>     
+8.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+      	))      	      	     
+9      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+9.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+10      	((      	NP      	<fs af='मसाला,n,m,sg,3,d,0,0' head="मसाला">     
+10.1      	गरम      	JJ      	<fs af='गरम,adj,any,any,,any,,'>     
+10.2      	मसाला      	NN      	<fs af='मसाला,n,m,sg,3,d,0,0' name="मसाला">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='मिला,v,any,pl,1,,एं,eM' head="मिलाएं">     
+11.1      	मिलाएं      	VM      	<fs af='मिला,v,any,pl,1,,एं,eM' name="मिलाएं">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'taatpashchaat' is RBP,
+-'taatpashchaat dahi' is not a single chunk. 'dahi' is a separate NP chunk.
+-'ko' is not given in the output.
+
+----------------------------------
+265
+
+घोल को 5 मिनट तक हिलाएं और इसमें पनीर को डुबो कर तंदूर में सेंके|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="घोल">     
+1.1      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+2      	((      	NP      	<fs af='मिनट,n,m,sg,3,d,0,0' head="मिनट">     
+2.1      	5      	QC      	<fs af='5,num,,,,,,'>     
+2.2      	मिनट      	NN      	<fs af='मिनट,n,m,sg,3,d,0,0' name="मिनट">     
+2.3      	तक      	RP      	<fs af='तक,avy,,,,,,'>     
+      	))      	      	     
+3      	((      	NP      	<fs af='हिला,v,any,pl,1,,एं,eM' head="हिलाएं" poslcat="NM">     
+3.1      	हिलाएं      	NN      	<fs af='हिला,v,any,pl,1,,एं,eM' name="हिलाएं" poslcat="NM">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+5      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+5.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पनीर,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="पनीर">     
+6.1      	पनीर      	NN      	<fs af='पनीर,n,m,sg,3,d,0,0' name="पनीर">     
+      	))      	      	     
+7      	((      	VGNF      	<fs af='डुबो,unk,,sg,3,,0_कर,' vpos="tam1_2" head="डुबो" poslcat="NM">     
+7.1      	डुबो      	VM      	<fs af='डुबो,unk,,,,,,' name="डुबो" poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='तंदूर,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="तंदूर">     
+8.1      	तंदूर      	NN      	<fs af='तंदूर,n,m,sg,3,d,0,0' name="तंदूर">     
+      	))      	      	     
+9      	((      	NP      	<fs af='सेंक,v,any,sg,2,,एं,eM' head="सेंके" poslcat="NM">     
+9.1      	सेंके      	NN      	<fs af='सेंक,v,any,sg,2,,एं,eM' name="सेंके" poslcat="NM">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'hilayiye' is not NP. It is VM.
+-'mein' is not given in the output.
+-'kar' is not given in the output.
+-'mein' is not given in the output.
+---------------------------------
+266
+अब हरे धनिया से सजा कर तिरंगा तंदूरी पनीर पेश करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='धनिया,n,f,sg,3,d,0_से,0' vpos="vib2_3" head="धनिया">     
+2.1      	हरे      	JJ      	<fs af='हरा,adj,m,sg,,o,,'>     
+2.2      	धनिया      	NN      	<fs af='धनिया,n,f,sg,3,d,0,0' name="धनिया">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सजा,n,f,sg,3,d,0,0' head="सजा">     
+3.1      	सजा      	NN      	<fs af='सजा,n,f,sg,3,d,0,0' name="सजा">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+4.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='तिरंगा,n,m,sg,3,d,0,0' head="तिरंगा">     
+5.1      	तिरंगा      	NN      	<fs af='तिरंगा,n,m,sg,3,d,0,0' name="तिरंगा">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पनीर,n,m,sg,3,d,0,0' head="पनीर">     
+6.1      	तंदूरी      	JJ      	<fs af='तंदूरी,adj,f,any,,any,,'>     
+6.2      	पनीर      	NN      	<fs af='पनीर,n,m,sg,3,d,0,0' name="पनीर">     
+      	))      	      	     
+7      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+7.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+8      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+8.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+8.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'ab' is RBP.
+-'se' is not given in the output.
+-'tiranga tandoori paneer' is a single NP chunk. 'tandoori' is not JJ, it is NN.
+-'pesh' is verb, not JJ. *********
+--------------------------------
+267
+सबसे पहले बेसन में हरा धनिया, मिर्च, सौंफ, हल्दी, अजवाइन, नमक डालकर घोल बनाकर रख लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='पहले,adv,,,,,,' head="पहले" poslcat="NM">     
+1.1      	सबसे      	JJ      	<fs af='सबसे,adj,any,any,,any,,'>     
+1.2      	पहले      	NST      	<fs af='पहले,adv,,,,,,' name="पहले" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='बेसन,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="बेसन">     
+2.1      	बेसन      	NN      	<fs af='बेसन,n,m,sg,3,d,0,0' name="बेसन">     
+      	))      	      	     
+3      	((      	NP      	<fs af='धनिया,n,f,sg,3,d,0,0' head="धनिया">     
+3.1      	हरा      	XC      	<fs af='हरा,v,any,any,any,,0,0' poslcat="NM">     
+3.2      	धनिया      	NNP      	<fs af='धनिया,n,f,sg,3,d,0,0' name="धनिया">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+4.1      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='सौंफ,n,f,sg,3,d,0,0' head="सौंफ">     
+5.1      	सौंफ      	NN      	<fs af='सौंफ,n,f,sg,3,d,0,0' name="सौंफ">     
+5.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='हल्दी,n,f,sg,3,d,0,0' head="हल्दी">     
+6.1      	हल्दी      	NNP      	<fs af='हल्दी,n,f,sg,3,d,0,0' name="हल्दी">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='अजवाइन,n,f,sg,3,d,0,0' head="अजवाइन">     
+7.1      	अजवाइन      	NNP      	<fs af='अजवाइन,n,f,sg,3,d,0,0' name="अजवाइन">     
+7.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+8      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+8.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+9      	((      	VGNF      	<fs af='डाल,v,any,any,any,,कर,kara' head="डालकर">     
+9.1      	डालकर      	VM      	<fs af='डाल,v,any,any,any,,कर,kara' name="डालकर">     
+      	))      	      	     
+10      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0,0' head="घोल">     
+10.1      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='बनाकर,n,any,pl,1,d,0_रख_ले+एं,0' vpos="tam1_2_3" head="बनाकर" poslcat="NM">     
+11.1      	बनाकर      	VM      	<fs af='बनाकर,n,m,sg,3,d,0,0' name="बनाकर" poslcat="NM">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'rakh le' is not given in the output.
+
+-------------------------------
+268
+
+अब उबले आलू में बारीक प्याज, नमक, हरी मिर्च, जीरा, मिलाकर गूंथ लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आलू,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="आलू">     
+2.1      	उबले      	JJ      	<fs af='उबल,v,any,sg,2,,एं,eM' poslcat="NM">     
+2.2      	आलू      	NN      	<fs af='आलू,n,m,sg,3,d,0,0' name="आलू">     
+      	))      	      	     
+3      	((      	NP      	<fs af='प्याज,n,m,sg,3,d,0,0' head="प्याज">     
+3.1      	बारीक      	JJ      	<fs af='बारीक,adj,any,any,,any,,'>     
+3.2      	प्याज      	NN      	<fs af='प्याज,n,m,sg,3,d,0,0' name="प्याज">     
+3.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+4.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+5.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+5.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+5.3      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='जीरा,n,m,sg,3,d,0,0' head="जीरा">     
+6.1      	जीरा      	NN      	<fs af='जीरा,n,m,sg,3,d,0,0' name="जीरा">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,कर_गूंथ_ले+एं,kara' vpos="tam1_2_3" head="मिलाकर">     
+7.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'ab' is RBP.
+-'mein' is not given in the output.
+-'goonth le' is not given in the output.
+-------------------
+269
+
+अब हरी चटनी की सामग्री मिलाकर मिक्सी में पीस लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='चटनी,n,f,sg,3,d,0_का,0' vpos="vib2_3" head="चटनी">     
+2.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+2.2      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0' name="चटनी">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सामग्री,n,f,sg,3,d,0,0' head="सामग्री">     
+3.1      	सामग्री      	NN      	<fs af='सामग्री,n,f,sg,3,d,0,0' name="सामग्री">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='मिला,v,any,any,any,,कर,kara' head="मिलाकर">     
+4.1      	मिलाकर      	VM      	<fs af='मिला,v,any,any,any,,कर,kara' name="मिलाकर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मिक्सी,unk,,,,,0_में,' vpos="vib1_2" head="मिक्सी" poslcat="NM">     
+5.1      	मिक्सी      	NN      	<fs af='मिक्सी,unk,,,,,,' name="मिक्सी" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='पीस,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="पीस">     
+6.1      	पीस      	VM      	<fs af='पीस,v,any,any,any,,0,0' name="पीस">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ab' is RBP.
+-'hari chutney kii samagri' is a single NP chunk. But 'kii' is not given in the output.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+--------------------------------------
+270
+एक समतल जगह पर एक ब्रेड रखें, उस पर हरी चटनी लगाएं, उस पर दूसरी ब्रेड रखकर आलू का मिश्रण फैलाएं, उस पर तीसरी ब्रेड रखकर टमाटर सॉस लगाकर चौथी ब्रेड से ढंक कर सावधानीपूर्वक उठाकर बेसन के घोल से लपेटें और गरम तेल भूरे होने तक तलें|
+
+no output is given (before page timeout)
+
+--------------------------------------
+271
+अब इसे चार भाग में सैंडविच की तरह काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+2.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+3      	((      	NP      	<fs af='भाग,v,any,any,any,,0_में,0' vpos="vib2_3" head="भाग" poslcat="NM">     
+3.1      	चार      	QC      	<fs af='चार,adj,any,any,,any,,'>     
+3.2      	भाग      	NN      	<fs af='भाग,v,any,any,any,,0,0' name="भाग" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='सैंडविच,unk,,,,,0_का_तरह,' vpos="vib1_2_3" head="सैंडविच" poslcat="NM">     
+4.1      	सैंडविच      	NN      	<fs af='सैंडविच,unk,,,,,,' name="सैंडविच" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+5.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'mein' is not given in the output.
+-'kii' is not given in the output.
+-'le' is not given in the output.
+
+-------------------------------
+272
+
+लजीज तिरंगा सैंडविच को चटनी के साथ सर्व करें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='तिरंगा,n,m,sg,3,d,0,0' head="तिरंगा">     
+1.1      	लजीज      	XC      	<fs af='लजीज,unk,,,,,,' poslcat="NM">     
+1.2      	तिरंगा      	NNP      	<fs af='तिरंगा,n,m,sg,3,d,0,0' name="तिरंगा">     
+      	))      	      	     
+2      	((      	NP      	<fs af='सैंडविच,unk,,,,,0_को,' vpos="vib1_2" head="सैंडविच" poslcat="NM">     
+2.1      	सैंडविच      	NN      	<fs af='सैंडविच,unk,,,,,,' name="सैंडविच" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='साथ,adv,,,,,0_का_साथ,' vpos="2_vib3_3" head="साथ" poslcat="NM">     
+3.1      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0'>     
+      	))      	      	     
+4      	((      	JJP      	<fs af='सर्व,adj,any,any,,any,,' head="सर्व">     
+4.1      	सर्व      	JJ      	<fs af='सर्व,adj,any,any,,any,,' name="सर्व">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+5.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'lajeej'(savoury) is JJ and not XC.
+-'lajeej tiranga sandwich' is a single NP chunk.
+-'ko' is not given in the output.
+-'ke saath' is not given in the output.
+-'serve' is a borrowed word from English in its noun form. It is not JJ.
+
+------------------------
+273
+रीब तीन घंटे तक अलग-अलग दाल और चावल को भिगो दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='रीब,unk,,,,,,' head="रीब" poslcat="NM">     
+1.1      	रीब      	NN      	<fs af='रीब,unk,,,,,,' name="रीब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='घंटा,n,m,pl,3,d,0,0' head="घंटे">     
+2.1      	तीन      	QC      	<fs af='तीन,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	घंटे      	NN      	<fs af='घंटा,n,m,pl,3,d,0,0' name="घंटे">     
+2.3      	तक      	RP      	<fs af='तक,avy,,,,,,'>     
+      	))      	      	     
+3      	((      	NP      	<fs af='दाल,n,f,sg,3,d,0,0' head="दाल">     
+3.1      	अलग      	JJ      	<fs af='अलग,adj,any,any,,any,,'>     
+3.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+3.3      	अलग      	RDP      	<fs af='अलग,adv,,,,,,' poslcat="NM">     
+3.4      	दाल      	NN      	<fs af='दाल,n,f,sg,3,d,0,0' name="दाल">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+5      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="चावल">     
+5.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='भिगो,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="भिगो">     
+6.1      	भिगो      	VM      	<fs af='भिगो,v,any,any,any,,0,0' name="भिगो">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'alag alag daal aur chaawal'************************
+-'ko' is not given in the output.
+-'de' is not f=given in the output.
+-------------------------------------
+274
+मटर, हरी मिर्च और अदरक को महीन पीस लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मटर,n,f,sg,3,d,0,0' head="मटर">     
+1.1      	मटर      	NN      	<fs af='मटर,n,f,sg,3,d,0,0' name="मटर">     
+1.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='मिर्च,n,f,sg,3,d,0,0' head="मिर्च">     
+2.1      	हरी      	JJ      	<fs af='हरी,n,f,sg,3,d,0,0' poslcat="NM">     
+2.2      	मिर्च      	NN      	<fs af='मिर्च,n,f,sg,3,d,0,0' name="मिर्च">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='अदरक,n,f,sg,3,d,0_को,0' vpos="vib1_2" head="अदरक">     
+4.1      	अदरक      	NN      	<fs af='अदरक,n,f,sg,3,d,0,0' name="अदरक">     
+      	))      	      	     
+5      	((      	JJP      	<fs af='महीन,adj,any,any,,any,,' head="महीन">     
+5.1      	महीन      	JJ      	<fs af='महीन,adj,any,any,,any,,' name="महीन">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='पीस,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="पीस">     
+6.1      	पीस      	VM      	<fs af='पीस,v,any,any,any,,0,0' name="पीस">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'maheen' is adverb describing pees. 'maheen pees le' is a single chunk.
+
+----------------------------
+275
+
+मटर को तेल में थोड़ा सेंक कर उसमें नमक मिला दें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मटर,n,f,sg,3,d,0_को,0' vpos="vib1_2" head="मटर">     
+1.1      	मटर      	NN      	<fs af='मटर,n,f,sg,3,d,0,0' name="मटर">     
+      	))      	      	     
+2      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="तेल">     
+2.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सेंक,v,any,any,any,,0,0' head="सेंक" poslcat="NM">     
+3.1      	थोड़ा      	QF      	<fs af='थोड़ा,adj,m,sg,,d,,'>     
+3.2      	सेंक      	NN      	<fs af='सेंक,v,any,any,any,,0,0' name="सेंक" poslcat="NM">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+4.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+5      	((      	NP      	<fs af='उसमें,unk,,,,,,' head="उसमें" poslcat="NM">     
+5.1      	उसमें      	PRP      	<fs af='उसमें,unk,,,,,,' name="उसमें" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+6.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="मिला">     
+7.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'mein' is not given in the output.
+-'thoda' in this context is adverb RBP.
+-'de' is not given in the output.
+
+---------------------
+276
+चावल को मोटा और उड़द दाल को बारीक पीसकर मिला लें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="चावल">     
+1.1      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+2      	((      	NP      	<fs af='मोटा,n,m,sg,3,d,0,0' head="मोटा">     
+2.1      	मोटा      	NN      	<fs af='मोटा,n,m,sg,3,d,0,0' name="मोटा">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+3.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+4      	((      	NP      	<fs af='दाल,n,f,sg,3,d,0_को,0' vpos="vib2_3" head="दाल">     
+4.1      	उड़द      	JJ      	<fs af='उड़द,n,f,sg,3,d,0,0' poslcat="NM">     
+4.2      	दाल      	NN      	<fs af='दाल,n,f,sg,3,d,0,0' name="दाल">     
+      	))      	      	     
+5      	((      	JJP      	<fs af='बारीक,adj,any,any,,any,,' head="बारीक">     
+5.1      	बारीक      	JJ      	<fs af='बारीक,adj,any,any,,any,,' name="बारीक">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='पीस,v,any,any,any,,कर,kara' head="पीसकर">     
+6.1      	पीसकर      	VM      	<fs af='पीस,v,any,any,any,,कर,kara' name="पीसकर">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="मिला">     
+7.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'de' is not given in the output.
+------------------------------
+277
+इसमें नमक, फ्रूट सॉल्ट और पानी भी मिलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+1.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+2      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+2.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='सॉल्ट,unk,,,,,,' head="सॉल्ट" poslcat="NM">     
+3.1      	फ्रूट      	XC      	<fs af='फ्रूट,unk,,,,,,' poslcat="NM">     
+3.2      	सॉल्ट      	NN      	<fs af='सॉल्ट,unk,,,,,,' name="सॉल्ट" poslcat="NM">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+5      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0,0' head="पानी">     
+5.1      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+5.2      	भी      	RP      	<fs af='भी,adv,,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='मिला,v,any,pl,1,,एं,eM' head="मिलाएं">     
+6.1      	मिलाएं      	VM      	<fs af='मिला,v,any,pl,1,,एं,eM' name="मिलाएं">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+----------------------------
+278
+
+चने और मूंग की दाल को एक साथ दानेदार पीस लें|
+
+<Sentence id="1">
+1      	((      	VGF      	<fs af='चना,n,m,pl,3,d,0,0' head="चने" poslcat="NM">     
+1.1      	चने      	VM      	<fs af='चना,n,m,pl,3,d,0,0' name="चने" poslcat="NM">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मूंग,unk,,,,,0_का,' vpos="vib1_2" head="मूंग" poslcat="NM">     
+3.1      	मूंग      	NN      	<fs af='मूंग,unk,,,,,,' name="मूंग" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='दाल,n,f,sg,3,d,0_को,0' vpos="vib1_2" head="दाल">     
+4.1      	दाल      	NN      	<fs af='दाल,n,f,sg,3,d,0,0' name="दाल">     
+      	))      	      	     
+5      	((      	NP      	<fs af='साथ,adv,,,,,,' head="साथ" poslcat="NM">     
+5.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+5.2      	साथ      	NST      	<fs af='साथ,adv,,,,,,' name="साथ" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पीस,v,any,any,any,,0,0' head="पीस" poslcat="NM">     
+6.1      	दानेदार      	JJ      	<fs af='दानेदार,adj,any,any,,any,,'>     
+6.2      	पीस      	NN      	<fs af='पीस,v,any,any,any,,0,0' name="पीस" poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+7.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'moon kii daal' is a single chunk but 'kii' is not given in the output. 'moong' and 'daal' are separated.
+-'ko' is not given in the output.
+-In sentence 276, 'bareek peeskar', both the words are separate chunks but here 'daanedaar pees' is a single chunk.********
+
+--------------------------
+279
+
+इसमें नमक, हल्दी, हींग, फ्रूट सॉल्ट, नींबू का रस और पानी मिलाएं| 	Instructions
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+1.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+2      	((      	NP      	<fs af='नमक,n,m,sg,3,d,0,0' head="नमक">     
+2.1      	नमक      	NN      	<fs af='नमक,n,m,sg,3,d,0,0' name="नमक">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='हल्दी,n,f,sg,3,d,0,0' head="हल्दी">     
+3.1      	हल्दी      	NNP      	<fs af='हल्दी,n,f,sg,3,d,0,0' name="हल्दी">     
+3.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='हींग,unk,,,,,,' head="हींग" poslcat="NM">     
+4.1      	हींग      	NN      	<fs af='हींग,unk,,,,,,' name="हींग" poslcat="NM">     
+4.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='फ्रूट,unk,,,,,,' head="फ्रूट" poslcat="NM">     
+5.1      	फ्रूट      	NN      	<fs af='फ्रूट,unk,,,,,,' name="फ्रूट" poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='सॉल्ट,unk,,,,,,' head="सॉल्ट" poslcat="NM">     
+6.1      	सॉल्ट      	NN      	<fs af='सॉल्ट,unk,,,,,,' name="सॉल्ट" poslcat="NM">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='नींबू,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="नींबू">     
+7.1      	नींबू      	NN      	<fs af='नींबू,n,m,sg,3,d,0,0' name="नींबू">     
+      	))      	      	     
+8      	((      	NP      	<fs af='रस,n,m,sg,3,d,0,0' head="रस">     
+8.1      	रस      	NN      	<fs af='रस,n,m,sg,3,d,0,0' name="रस">     
+      	))      	      	     
+9      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+9.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+10      	((      	NP      	<fs af='पानी,n,m,sg,3,d,0,0' head="पानी">     
+10.1      	पानी      	NN      	<fs af='पानी,n,m,sg,3,d,0,0' name="पानी">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='मिला,v,any,pl,1,,एं,eM' head="मिलाएं">     
+11.1      	मिलाएं      	VM      	<fs af='मिला,v,any,pl,1,,एं,eM' name="मिलाएं">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'fruit salad' is a single NP chunk but they are separated to two different chunks.
+-'nimbu ka ras' is a single chunk but 'ka' is not given in the output and 'nimbu' and 'ras' are separatd to two different chunks.
+
+---------------------
+280
+ढोकले के सांचे में तेल लगाकर मिश्रण की एक इंच मोटी परत लगाकर 5-7 मिनट भाप में पका लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='ढोकले,unk,,,,,0_का,' vpos="vib1_2" head="ढोकले" poslcat="NM">     
+1.1      	ढोकले      	NN      	<fs af='ढोकले,unk,,,,,,' name="ढोकले" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='सांचे,unk,,,,,0_में,' vpos="vib1_2" head="सांचे" poslcat="NM">     
+2.1      	सांचे      	NN      	<fs af='सांचे,unk,,,,,,' name="सांचे" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0,0' head="तेल">     
+3.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+4      	((      	VGNF      	<fs af='लगा,v,any,any,any,,कर,kara' head="लगाकर_2">     
+4.1      	लगाकर      	VM      	<fs af='लगा,v,any,any,any,,कर,kara' name="लगाकर_2">     
+      	))      	      	     
+5      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="मिश्रण">     
+5.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण">     
+      	))      	      	     
+6      	((      	NP      	<fs af='इंच,n,m,sg,3,d,0,0' head="इंच">     
+6.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+6.2      	इंच      	NN      	<fs af='इंच,n,m,sg,3,d,0,0' name="इंच">     
+      	))      	      	     
+7      	((      	NP      	<fs af='परत,n,f,sg,3,d,0,0' head="परत">     
+7.1      	मोटी      	JJ      	<fs af='मोटी,unk,,,,,,' poslcat="NM">     
+7.2      	परत      	NN      	<fs af='परत,n,f,sg,3,d,0,0' name="परत">     
+      	))      	      	     
+8      	((      	VGNF      	<fs af='लगा,v,any,any,any,,कर,kara' head="लगाकर">     
+8.1      	लगाकर      	VM      	<fs af='लगा,v,any,any,any,,कर,kara' name="लगाकर">     
+      	))      	      	     
+9      	((      	NP      	<fs af='मिनट,n,m,sg,3,d,0,0' head="मिनट">     
+9.1      	5      	QC      	<fs af='5,num,,,,,,'>     
+9.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+9.3      	7      	QC      	<fs af='7,num,,,,,,'>     
+9.4      	मिनट      	NN      	<fs af='मिनट,n,m,sg,3,d,0,0' name="मिनट">     
+      	))      	      	     
+10      	((      	NP      	<fs af='भाप,n,f,sg,3,d,0_में,0' vpos="vib1_2" head="भाप">     
+10.1      	भाप      	NN      	<fs af='भाप,n,f,sg,3,d,0,0' name="भाप">     
+      	))      	      	     
+11      	((      	VGF      	<fs af='पका,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="पका">     
+11.1      	पका      	VM      	<fs af='पका,v,any,any,any,,0,0' name="पका">     
+11.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'dokle ke saanche' is a single chunk. But 'ke' is not given in the output.'dokle' and 'saanche' are separated to two different NP chunks.  
+-'mein' is not given in the output.
+-'misran kii' is a chunk. 'kii' is not given in the output.
+-'ek inch moti parat' is a single NP chunk, but "ek inch' and 'moti parat' are separated as two different NP chunks.*******
+-'mein' is not given in the output.
+-'le' is not given in the output.
+
+--------------------------
+281
+इसे उतार कर इसके ऊपर मटर की पीठी फैला दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+1.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+2      	((      	NP      	<fs af='उतार,v,any,any,any,,0,0' head="उतार" poslcat="NM">     
+2.1      	उतार      	NN      	<fs af='उतार,v,any,any,any,,0,0' name="उतार" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+3.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+4      	((      	NP      	<fs af='ऊपर,adv,,,,,0_ऊपर,' vpos="vib2_2" head="ऊपर" poslcat="NM">     
+4.1      	इसके      	PRP      	<fs af='यह,pn,m,pl,3,d,का,kA'>     
+      	))      	      	     
+5      	((      	NP      	<fs af='मटर,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="मटर">     
+5.1      	मटर      	NN      	<fs af='मटर,n,f,sg,3,d,0,0' name="मटर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='पीठी,n,f,sg,3,d,0,0' head="पीठी">     
+6.1      	पीठी      	NN      	<fs af='पीठी,n,f,sg,3,d,0,0' name="पीठी">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='फैला,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="फैला">     
+7.1      	फैला      	VM      	<fs af='फैला,v,any,any,any,,0,0' name="फैला">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'utaar' is a verb but is marked as NN.
+-'upar' is NST but is not given in the output.
+-'matar kii piitii' is a single NP chunk but 'kii' is not given in the output.
+-'de' is not given in the output.
+
+-----------------------------
+282
+इसके ऊपर दाल-चावल के घोल की आधा इंच मोटी परत फैला कर भाप में पका कर ठंडा कर लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='ऊपर,adv,,,,,0_ऊपर,' vpos="vib2_2" head="ऊपर" poslcat="NM">     
+1.1      	इसके      	PRP      	<fs af='यह,pn,m,pl,3,d,का,kA'>     
+      	))      	      	     
+2      	((      	NP      	<fs af='चावल,n,m,sg,3,d,0_का,0' vpos="vib3_4" head="चावल">     
+2.1      	दाल      	XC      	<fs af='दाल,n,f,sg,3,d,0,0' poslcat="NM">     
+2.2      	-      	SYM      	<fs af='-,punc,,,,,,'>     
+2.3      	चावल      	NN      	<fs af='चावल,n,m,sg,3,d,0,0' name="चावल">     
+      	))      	      	     
+3      	((      	NP      	<fs af='घोल,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="घोल">     
+3.1      	घोल      	NN      	<fs af='घोल,n,m,sg,3,d,0,0' name="घोल">     
+      	))      	      	     
+4      	((      	NP      	<fs af='इंच,n,m,sg,3,d,0,0' head="इंच">     
+4.1      	आधा      	JJ      	<fs af='आधा,n,m,sg,3,d,0,0' poslcat="NM">     
+4.2      	इंच      	NN      	<fs af='इंच,n,m,sg,3,d,0,0' name="इंच">     
+      	))      	      	     
+5      	((      	NP      	<fs af='परत,n,f,sg,3,d,0,0' head="परत">     
+5.1      	मोटी      	JJ      	<fs af='मोटी,unk,,,,,,' poslcat="NM">     
+5.2      	परत      	NN      	<fs af='परत,n,f,sg,3,d,0,0' name="परत">     
+      	))      	      	     
+6      	((      	VGNF      	<fs af='फैला,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="फैला">     
+6.1      	फैला      	VM      	<fs af='फैला,v,any,any,any,,0,0' name="फैला">     
+      	))      	      	     
+7      	((      	NP      	<fs af='भाप,n,f,sg,3,d,0_में,0' vpos="vib1_2" head="भाप">     
+7.1      	भाप      	NN      	<fs af='भाप,n,f,sg,3,d,0,0' name="भाप">     
+      	))      	      	     
+8      	((      	VGNF      	<fs af='पका,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="पका">     
+8.1      	पका      	VM      	<fs af='पका,v,any,any,any,,0,0' name="पका">     
+      	))      	      	     
+9      	((      	JJP      	<fs af='ठंडा,adj,m,sg,,d,,' head="ठंडा">     
+9.1      	ठंडा      	JJ      	<fs af='ठंडा,adj,m,sg,,d,,' name="ठंडा">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+10.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'upar' is NST but is not given in the output.
+-'daal-chaawal ke ghol kii adha inch moti parat' ***********************
+-'mein' is not given in the output.
+-'kar' is not given in the output.
+-'le' is not given in the output.
+----------------------------
+283
+अब चौकोर टुकड़ों में काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='टुकडा,n,m,pl,,o,0_में,0' vpos="vib2_3" head="टुकड़ों">     
+2.1      	चौकोर      	NNP      	<fs af='चौकोर,adj,any,any,,any,,' poslcat="NM">     
+2.2      	टुकड़ों      	NN      	<fs af='टुकडा,n,m,pl,,o,0,0' name="टुकड़ों">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+3.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'ab' is RBP.
+-'coukor' is an adjective JJ but is marked as NN.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+
+---------------------------
+284
+तेल में राई, मीठा नीम का छौंक लगाकर ढोकले के ऊपर डाल दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='तेल,n,m,sg,3,d,0_में,0' vpos="vib1_2" head="तेल">     
+1.1      	तेल      	NN      	<fs af='तेल,n,m,sg,3,d,0,0' name="तेल">     
+      	))      	      	     
+2      	((      	NP      	<fs af='राई,n,f,sg,3,d,0,0' head="राई">     
+2.1      	राई      	NN      	<fs af='राई,n,f,sg,3,d,0,0' name="राई">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='नीम,n,m,sg,3,d,0_का,0' vpos="vib2_3" head="नीम">     
+3.1      	मीठा      	JJ      	<fs af='मीठा,adj,m,sg,,d,,'>     
+3.2      	नीम      	NN      	<fs af='नीम,n,m,sg,3,d,0,0' name="नीम">     
+      	))      	      	     
+4      	((      	NP      	<fs af='छौंक,n,m,sg,3,d,0,0' head="छौंक">     
+4.1      	छौंक      	NN      	<fs af='छौंक,n,m,sg,3,d,0,0' name="छौंक">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='लगा,v,any,any,any,,कर,kara' head="लगाकर">     
+5.1      	लगाकर      	VM      	<fs af='लगा,v,any,any,any,,कर,kara' name="लगाकर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='ऊपर,adv,,,,,0_का_ऊपर,' vpos="2_vib3_3" head="ऊपर" poslcat="NM">     
+6.1      	ढोकले      	NN      	<fs af='ढोकले,unk,,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	VGF      	<fs af='डाल,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="डाल">     
+7.1      	डाल      	VM      	<fs af='डाल,v,any,any,any,,0,0' name="डाल">     
+7.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'mein' is not given in the output.
+-'meeta neem ka chounk' is a single NP chunk. But 'ka' is not given in the output. 'meeta neem' and 'chounk' are marked as two different NP chunks.
+
+--------------------
+285
+नारियल और हरे धनिया से सजा कर ढोकला को नारियल चटनी के परोसें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='नारियल,n,m,sg,3,d,0,0' head="नारियल_2">     
+1.1      	नारियल      	NN      	<fs af='नारियल,n,m,sg,3,d,0,0' name="नारियल_2">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='धनिया,n,f,sg,3,d,0_से,0' vpos="vib2_3" head="धनिया">     
+3.1      	हरे      	JJ      	<fs af='हरा,adj,m,sg,,o,,'>     
+3.2      	धनिया      	NN      	<fs af='धनिया,n,f,sg,3,d,0,0' name="धनिया">     
+      	))      	      	     
+4      	((      	NP      	<fs af='सजा,n,f,sg,3,d,0,0' head="सजा">     
+4.1      	सजा      	NN      	<fs af='सजा,n,f,sg,3,d,0,0' name="सजा">     
+      	))      	      	     
+5      	((      	VGNF      	<fs af='कर,v,any,any,any,,0,0' head="कर">     
+5.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+      	))      	      	     
+6      	((      	NP      	<fs af='ढोकला,unk,,,,,0_को,' vpos="vib1_2" head="ढोकला" poslcat="NM">     
+6.1      	ढोकला      	NN      	<fs af='ढोकला,unk,,,,,,' name="ढोकला" poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='नारियल,n,m,sg,3,d,0,0' head="नारियल">     
+7.1      	नारियल      	NN      	<fs af='नारियल,n,m,sg,3,d,0,0' name="नारियल">     
+      	))      	      	     
+8      	((      	NP      	<fs af='चटनी,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="चटनी">     
+8.1      	चटनी      	NN      	<fs af='चटनी,n,f,sg,3,d,0,0' name="चटनी">     
+      	))      	      	     
+9      	((      	NP      	<fs af='परोस,v,any,pl,1,,एं,eM' head="परोसें" poslcat="NM">     
+9.1      	परोसें      	NN      	<fs af='परोस,v,any,pl,1,,एं,eM' name="परोसें" poslcat="NM">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'se' is not given in the output.
+-'saja' is a verb not NN.
+-'ko' is not given in the output.
+-'ke' is not given in the output. (In the input may be it is 'ke saath').
+-------------------------
+286
+
+मावा और पनीर को किसनी से कद्दूकस कर लें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मावा,n,m,sg,3,d,0,0' head="मावा">     
+1.1      	मावा      	NN      	<fs af='मावा,n,m,sg,3,d,0,0' name="मावा">     
+      	))      	      	     
+2      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+2.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+3      	((      	NP      	<fs af='पनीर,n,m,sg,3,d,0_को,0' vpos="vib1_2" head="पनीर">     
+3.1      	पनीर      	NN      	<fs af='पनीर,n,m,sg,3,d,0,0' name="पनीर">     
+      	))      	      	     
+4      	((      	NP      	<fs af='किसनी,unk,,,,,0_से,' vpos="vib1_2" head="किसनी" poslcat="NM">     
+4.1      	किसनी      	NN      	<fs af='किसनी,unk,,,,,,' name="किसनी" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='कद्दूकस,unk,,,,,,' head="कद्दूकस" poslcat="NM">     
+5.1      	कद्दूकस      	NN      	<fs af='कद्दूकस,unk,,,,,,' name="कद्दूकस" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="कर">     
+6.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ko' is not given in the output.
+-'se' is not given in the output.
+-'le' is not given in the output.
+
+------------------
+287
+अब इसमें चीनी मिला दें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,sg,3,o,में,meM' head="इसमें">     
+2.1      	इसमें      	PRP      	<fs af='यह,pn,any,sg,3,o,में,meM' name="इसमें">     
+      	))      	      	     
+3      	((      	NP      	<fs af='चीनी,adj,f,any,,any,,' head="चीनी" poslcat="NM">     
+3.1      	चीनी      	NN      	<fs af='चीनी,adj,f,any,,any,,' name="चीनी" poslcat="NM">     
+      	))      	      	     
+4      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="मिला">     
+4.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+4.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'de' is not given in the output.
+
+----------------------
+288
+
+कड़ाही में मध्यम आंच पर पकने दें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='कड़ाही,n,f,sg,3,d,0_में,0' vpos="vib1_2" head="कड़ाही">     
+1.1      	कड़ाही      	NN      	<fs af='कड़ाही,n,f,sg,3,d,0,0' name="कड़ाही">     
+      	))      	      	     
+2      	((      	NP      	<fs af='आंच,unk,,,,,0_पर,' vpos="vib2_3" head="आंच" poslcat="NM">     
+2.1      	मध्यम      	XC      	<fs af='मध्यम,adj,any,any,,any,,' poslcat="NM">     
+2.2      	आंच      	NN      	<fs af='आंच,unk,,,,,,' name="आंच" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='पक,v,m,pl,1,,ना_दे+एं,nA' vpos="tam1_2" head="पकने">     
+3.1      	पकने      	VM      	<fs af='पक,v,m,pl,any,,ना,nA' name="पकने">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'par' is not given in the output.
+-'de' is not given in the output.
+----------------------
+289
+मिश्रण गाढ़ा होने पर गैस बंद कर दें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0,0' head="मिश्रण">     
+1.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='गाढ़ा,adj,m,sg,,d,,' head="गाढ़ा">     
+2.1      	गाढ़ा      	JJ      	<fs af='गाढ़ा,adj,m,sg,,d,,' name="गाढ़ा">     
+      	))      	      	     
+3      	((      	VGNN      	<fs af='हो,v,m,pl,any,,ना_पर,nA' vpos="tam1_2" head="होने">     
+3.1      	होने      	VM      	<fs af='हो,v,m,pl,any,,ना,nA' name="होने">     
+      	))      	      	     
+4      	((      	NP      	<fs af='गैस,n,f,sg,3,d,0,0' head="गैस">     
+4.1      	गैस      	NN      	<fs af='गैस,n,f,sg,3,d,0,0' name="गैस">     
+      	))      	      	     
+5      	((      	JJP      	<fs af='बंद,adj,any,any,,any,,' head="बंद">     
+5.1      	बंद      	JJ      	<fs af='बंद,adj,any,any,,any,,' name="बंद">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='कर,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="कर">     
+6.1      	कर      	VM      	<fs af='कर,v,any,any,any,,0,0' name="कर">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'par' is not given in the output.
+-'bandh' is verb, not NP.
+-'de' is not given in the output.
+------------------------
+290
+
+अब इसे तीन भागों में बराबर बांट लें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+2.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+3      	((      	NP      	<fs af='भागों,unk,,,,,0_में,' vpos="vib2_3" head="भागों" poslcat="NM">     
+3.1      	तीन      	QC      	<fs af='तीन,n,m,sg,3,d,0,0' poslcat="NM">     
+3.2      	भागों      	NN      	<fs af='भागों,unk,,,,,,' name="भागों" poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='बांट,unk,,,,,,' head="बांट" poslcat="NM">     
+4.1      	बराबर      	JJ      	<fs af='बराबर,adj,any,any,,any,,'>     
+4.2      	बांट      	NN      	<fs af='बांट,unk,,,,,,' name="बांट" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+5.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'ab' is RBP.
+-'mein' is not given in the output.
+-'baraabar baant': In some sentences of similar case, they are marked as different chunks whil in some other, they are marked as in the same chunk.
+
+---------------------------
+291
+
+पहले वाले को सफेद रखें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='पहले,adv,,,,,0_वाला_को,' vpos="vib1_2_3" head="पहले" poslcat="NM">     
+1.1      	पहले      	NST      	<fs af='पहले,adv,,,,,,' name="पहले" poslcat="NM">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='सफेद,n,m,sg,3,d,0,0' head="सफेद" poslcat="NM">     
+2.1      	सफेद      	JJ      	<fs af='सफेद,n,m,sg,3,d,0,0' name="सफेद" poslcat="NM">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+3.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+3.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+-'pehle' in this case is not NST.*******
+-'waale' is not given in the output.
+-'ko' is not given in the output.
+
+---------------
+292
+
+दूसरे भाग में मीठा पीला व तीसरे भाग में हरा रंग मिला लें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='भाग,v,any,any,any,,0_में,0' vpos="vib2_3" head="भाग_2" poslcat="NM">     
+1.1      	दूसरे      	JJ      	<fs af='दूसरा,n,m,pl,3,d,0,0' poslcat="NM">     
+1.2      	भाग      	NN      	<fs af='भाग,v,any,any,any,,0,0' name="भाग_2" poslcat="NM">     
+      	))      	      	     
+2      	((      	JJP      	<fs af='पीला,adj,m,sg,,d,,' head="पीला">     
+2.1      	मीठा      	JJ      	<fs af='मीठा,adj,m,sg,,d,,'>     
+2.2      	पीला      	JJ      	<fs af='पीला,adj,m,sg,,d,,' name="पीला">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='व,avy,,,,,,' head="व">     
+3.1      	व      	CC      	<fs af='व,avy,,,,,,' name="व">     
+      	))      	      	     
+4      	((      	NP      	<fs af='भाग,v,any,any,any,,0_में,0' vpos="vib2_3" head="भाग" poslcat="NM">     
+4.1      	तीसरे      	QO      	<fs af='तीसरा,n,m,pl,3,d,0,0' poslcat="NM">     
+4.2      	भाग      	NN      	<fs af='भाग,v,any,any,any,,0,0' name="भाग" poslcat="NM">     
+      	))      	      	     
+5      	((      	NP      	<fs af='रंग,n,m,sg,3,d,0,0' head="रंग">     
+5.1      	हरा      	JJ      	<fs af='हरा,adj,m,sg,,d,,'>     
+5.2      	रंग      	NN      	<fs af='रंग,n,m,sg,3,d,0,0' name="रंग">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='मिला,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="मिला">     
+6.1      	मिला      	VM      	<fs af='मिला,v,any,any,any,,0,0' name="मिला">     
+6.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'mein' is not given in the output.
+-'le' is not given in the output.
+--------------
+293
+हल्के हाथ से मोटा बेल लें और सबसे नीचे हरा, फिर सफेद और ऊपर पीले रंग की जमा दें और हल्के से हाथ से दबा कर बरक चिपका दें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='हाथ,n,m,sg,3,d,0_से,0' vpos="vib2_3" head="हाथ_2">     
+1.1      	हल्के      	JJ      	<fs af='हल्का,adj,m,sg,,o,,'>     
+1.2      	हाथ      	NN      	<fs af='हाथ,n,m,sg,3,d,0,0' name="हाथ_2">     
+      	))      	      	     
+2      	((      	NP      	<fs af='बेल,n,f,sg,3,d,0,0' head="बेल">     
+2.1      	मोटा      	XC      	<fs af='मोटा,adj,m,sg,,d,,' poslcat="NM">     
+2.2      	बेल      	NNP      	<fs af='बेल,n,f,sg,3,d,0,0' name="बेल">     
+      	))      	      	     
+3      	((      	VGF      	<fs af='ले,v,any,pl,1,,एं,eM' head="लें">     
+3.1      	लें      	VM      	<fs af='ले,v,any,pl,1,,एं,eM' name="लें">     
+      	))      	      	     
+4      	((      	CCP      	<fs af='और,avy,,,,,,' head="और_3">     
+4.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और_3">     
+      	))      	      	     
+5      	((      	NP      	<fs af='नीचे,adv,,,,,,' head="नीचे" poslcat="NM">     
+5.1      	सबसे      	INTF      	<fs af='सबसे,adj,any,any,,any,,' poslcat="NM">     
+5.2      	नीचे      	NST      	<fs af='नीचे,adv,,,,,,' name="नीचे" poslcat="NM">     
+      	))      	      	     
+6      	((      	VGF      	<fs af='हरा,v,any,any,any,,0,0' head="हरा">     
+6.1      	हरा      	VM      	<fs af='हरा,v,any,any,any,,0,0' name="हरा">     
+6.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+7      	((      	RBP      	<fs af='फिर,v,any,any,any,,0,0' head="फिर" poslcat="NM">     
+7.1      	फिर      	RB      	<fs af='फिर,v,any,any,any,,0,0' name="फिर" poslcat="NM">     
+      	))      	      	     
+8      	((      	JJP      	<fs af='सफेद,n,m,sg,3,d,0,0' head="सफेद" poslcat="NM">     
+8.1      	सफेद      	JJ      	<fs af='सफेद,n,m,sg,3,d,0,0' name="सफेद" poslcat="NM">     
+      	))      	      	     
+9      	((      	CCP      	<fs af='और,avy,,,,,,' head="और_2">     
+9.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और_2">     
+      	))      	      	     
+10      	((      	NP      	<fs af='ऊपर,adv,,,,,,' head="ऊपर" poslcat="NM">     
+10.1      	ऊपर      	NST      	<fs af='ऊपर,adv,,,,,,' name="ऊपर" poslcat="NM">     
+      	))      	      	     
+11      	((      	NP      	<fs af='रंग,n,m,sg,3,d,0_का,0' vpos="vib2_3" head="रंग">     
+11.1      	पीले      	JJ      	<fs af='पीला,adj,m,sg,,o,,'>     
+11.2      	रंग      	NN      	<fs af='रंग,n,m,sg,3,d,0,0' name="रंग">     
+      	))      	      	     
+12      	((      	NP      	<fs af='जमा,v,any,any,any,,0,0' head="जमा" poslcat="NM">     
+12.1      	जमा      	NN      	<fs af='जमा,v,any,any,any,,0,0' name="जमा" poslcat="NM">     
+      	))      	      	     
+13      	((      	VGF      	<fs af='दे,v,any,pl,1,,एं,eM' head="दें">     
+13.1      	दें      	VM      	<fs af='दे,v,any,pl,1,,एं,eM' name="दें">     
+      	))      	      	     
+14      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+14.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+15      	((      	NP      	<fs af='हल्का,n,m,pl,3,d,0_से,0' vpos="vib1_2" head="हल्के">     
+15.1      	हल्के      	NN      	<fs af='हल्का,n,m,pl,3,d,0,0' name="हल्के">     
+      	))      	      	     
+16      	((      	NP      	<fs af='हाथ,n,m,sg,3,d,0_से,0' vpos="vib1_2" head="हाथ">     
+16.1      	हाथ      	NN      	<fs af='हाथ,n,m,sg,3,d,0,0' name="हाथ">     
+      	))      	      	     
+17      	((      	VGNF      	<fs af='दबा,v,any,sg,3,,0_कर,0' vpos="tam1_2" head="दबा">     
+17.1      	दबा      	VM      	<fs af='दबा,v,any,any,any,,0,0' name="दबा">     
+      	))      	      	     
+18      	((      	JJP      	<fs af='बरक,unk,,,,,,' head="बरक" poslcat="NM">     
+18.1      	बरक      	JJ      	<fs af='बरक,unk,,,,,,' name="बरक" poslcat="NM">     
+      	))      	      	     
+19      	((      	VGF      	<fs af='चिपका,v,any,pl,1,,0_दे+एं,0' vpos="tam1_2" head="चिपका">     
+19.1      	चिपका      	VM      	<fs af='चिपका,v,any,any,any,,0,0' name="चिपका">     
+19.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'se' is not given in the output.
+-'mota' is not XC, it is JJ.
+-'kii' is not given in the output.
+-'se' is not given in the output.
+-'kar' is not given in the output.
+-'de' is not given in the output.
+
+----------------
+294
+
+तत्पश्चात इसकी चौकोर या तिरछे आकार में बर्फी काटें और गणतंत्र दिवस पर तिरंगी बर्फी पेश करें| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='तत्पश्चात,unk,,,,,,' head="तत्पश्चात" poslcat="NM">     
+1.1      	तत्पश्चात      	NN      	<fs af='तत्पश्चात,unk,,,,,,' name="तत्पश्चात" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='चौकोर,adj,any,any,,any,,' head="चौकोर" poslcat="NM">     
+2.1      	इसकी      	PRP      	<fs af='यह,pn,f,sg,3,d,का,kA'>     
+2.2      	चौकोर      	NN      	<fs af='चौकोर,adj,any,any,,any,,' name="चौकोर" poslcat="NM">     
+      	))      	      	     
+3      	((      	CCP      	<fs af='या,avy,,,,,,' head="या">     
+3.1      	या      	CC      	<fs af='या,avy,,,,,,' name="या">     
+      	))      	      	     
+4      	((      	NP      	<fs af='आकार,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="आकार">     
+4.1      	तिरछे      	JJ      	<fs af='तिरछा,adj,m,sg,,o,,'>     
+4.2      	आकार      	NN      	<fs af='आकार,n,m,sg,3,d,0,0' name="आकार">     
+      	))      	      	     
+5      	((      	NP      	<fs af='काट,v,any,pl,1,,एं,eM' head="काटें" poslcat="NM">     
+5.1      	बर्फी      	JJ      	<fs af='बर्फी,n,f,sg,3,d,0,0' poslcat="NM">     
+5.2      	काटें      	NN      	<fs af='काट,v,any,pl,1,,एं,eM' name="काटें" poslcat="NM">     
+      	))      	      	     
+6      	((      	CCP      	<fs af='और,avy,,,,,,' head="और">     
+6.1      	और      	CC      	<fs af='और,avy,,,,,,' name="और">     
+      	))      	      	     
+7      	((      	NP      	<fs af='दिवस,n,m,sg,3,d,0_पर,0' vpos="vib2_3" head="दिवस">     
+7.1      	गणतंत्र      	JJ      	<fs af='गणतंत्र,n,m,sg,3,d,0,0' poslcat="NM">     
+7.2      	दिवस      	NN      	<fs af='दिवस,n,m,sg,3,d,0,0' name="दिवस">     
+      	))      	      	     
+8      	((      	NP      	<fs af='बर्फी,n,f,sg,3,d,0,0' head="बर्फी">     
+8.1      	तिरंगी      	JJ      	<fs af='तिरंगी,unk,,,,,,' poslcat="NM">     
+8.2      	बर्फी      	NN      	<fs af='बर्फी,n,f,sg,3,d,0,0' name="बर्फी">     
+      	))      	      	     
+9      	((      	JJP      	<fs af='पेश,n,m,sg,3,d,0,0' head="पेश" poslcat="NM">     
+9.1      	पेश      	JJ      	<fs af='पेश,n,m,sg,3,d,0,0' name="पेश" poslcat="NM">     
+      	))      	      	     
+10      	((      	VGF      	<fs af='कर,v,any,pl,1,,एं,eM' head="करें">     
+10.1      	करें      	VM      	<fs af='कर,v,any,pl,1,,एं,eM' name="करें">     
+10.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence>
+
+-'tatpashchaat' is RBP, not NP.
+-'mein' is not given in the output.
+-'par' is not given in the output.
+
+---------------------
+295
+सर्वप्रथम मलाई में आधा कटोरी शक्‍कर व गुलाब जल मिलाकर इसे अच्‍छी तरह फेंटे| 
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='मलाई,n,f,sg,3,d,0_में,0' vpos="vib2_3" head="मलाई">     
+1.1      	सर्वप्रथम      	XC      	<fs af='सर्वप्रथम,unk,,,,,,' poslcat="NM">     
+1.2      	मलाई      	NNP      	<fs af='मलाई,n,f,sg,3,d,0,0' name="मलाई">     
+      	))      	      	     
+2      	((      	NP      	<fs af='कटोरी,n,f,sg,3,d,0,0' head="कटोरी">     
+2.1      	आधा      	QF      	<fs af='आधा,n,m,sg,3,d,0,0' poslcat="NM">     
+2.2      	कटोरी      	NN      	<fs af='कटोरी,n,f,sg,3,d,0,0' name="कटोरी">     
+      	))      	      	     
+
+-The output is not complete for any number of trials.
+
+-------------
+296
+
+बाकी बची हुई शक्‍कर आम में मिलाकर उसे फेंटें|
+<Sentence id="1">
+1      	((      	NP      	<fs af='बाकी,adj,f,any,,any,,' head="बाकी" poslcat="NM">     
+1.1      	बाकी      	NN      	<fs af='बाकी,adj,f,any,,any,,' name="बाकी" poslcat="NM">     
+      	))      	      	     
+2      	((      	VGNF      	<fs af='बच,v,f,sg,any,,या_हो+या,yA' vpos="tam1_2" head="बची">     
+2.1      	बची      	VM      	<fs af='बच,v,f,sg,any,,या,yA' name="बची">     
+      	))      	      	     
+3      	((      	NP      	<fs af='आम,n,m,sg,3,d,0_में,0' vpos="vib2_3" head="आम">     
+-The output is not complete ay time.
+--------------
+297
+अब किसी प्लेट में एक ब्रेड रखें, उस पर आम का मिश्रण फैलाएं, इस पर दूसरी ब्रेड रखकर मलाई का मिश्रण फैलाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='किसी,unk,,,,,,' head="किसी" poslcat="NM">     
+2.1      	किसी      	PRP      	<fs af='किसी,unk,,,,,,' name="किसी" poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='प्लेट,n,f,sg,3,d,0_में,0' vpos="vib1_2" head="प्लेट">     
+3.1      	प्लेट      	NN      	<fs af='प्लेट,n,f,sg,3,d,0,0' name="प्लेट">     
+      	))      	      	     
+4      	((      	NP      	<fs af='ब्रेड,unk,,,,,,' head="ब्रेड_2" poslcat="NM">     
+4.1      	एक      	QC      	<fs af='एक,adj,any,any,,any,,'>     
+4.2      	ब्रेड      	NN      	<fs af='ब्रेड,unk,,,,,,' name="ब्रेड_2" poslcat="NM">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='रख,v,any,pl,1,,एं,eM' head="रखें">     
+5.1      	रखें      	VM      	<fs af='रख,v,any,pl,1,,एं,eM' name="रखें">     
+5.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+6      	((      	NP      	<fs af='उस,unk,,,,,0_पर,' vpos="vib1_2" head="उस" poslcat="NM">     
+6.1      	उस      	PRP      	<fs af='उस,unk,,,,,,' name="उस" poslcat="NM">     
+      	))      	      	     
+7      	((      	NP      	<fs af='आम,n,m,sg,3,d,0_का,0' vpos="vib1_2" head="आम">     
+7.1      	आम      	NN      	<fs af='आम,n,m,sg,3,d,0,0' name="आम">     
+      	))      	      	     
+8      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0,0' head="मिश्रण_2">     
+8.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण_2">     
+      	))      	      	     
+9      	((      	VGF      	<fs af='फैला,v,any,pl,1,,एं,eM' head="फैलाएं_2">     
+9.1      	फैलाएं      	VM      	<fs af='फैला,v,any,pl,1,,एं,eM' name="फैलाएं_2">     
+9.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+10      	((      	NP      	<fs af='यह,pn,any,sg,3,o,0_पर,0' vpos="vib1_2" head="इस">     
+10.1      	इस      	PRP      	<fs af='यह,pn,any,sg,3,o,0,0' name="इस">     
+      	))      	      	     
+11      	((      	NP      	<fs af='ब्रेड,unk,,,,,,' head="ब्रेड" poslcat="NM">     
+11.1      	दूसरी      	QO      	<fs af='दूसरी,unk,,,,,,' poslcat="NM">     
+11.2      	ब्रेड      	NN      	<fs af='ब्रेड,unk,,,,,,' name="ब्रेड" poslcat="NM">     
+      	))      	      	     
+12      	((      	VGNF      	<fs af='रख,v,any,any,any,,कर,kara' head="रखकर">     
+12.1      	रखकर      	VM      	<fs af='रख,v,any,any,any,,कर,kara' name="रखकर">     
+      	))      	      	     
+13      	((      	NP      	<fs af='मलाई,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="मलाई">     
+13.1      	मलाई      	NN      	<fs af='मलाई,n,f,sg,3,d,0,0' name="मलाई">     
+      	))      	      	     
+14      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0,0' head="मिश्रण">     
+14.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण">     
+      	))      	      	     
+15      	((      	VGF      	<fs af='फैला,v,any,pl,1,,एं,eM' head="फैलाएं">     
+15.1      	फैलाएं      	VM      	<fs af='फैला,v,any,pl,1,,एं,eM' name="फैलाएं">     
+15.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'ab' is RBP.
+-'kisi plate' *********88
+-'mein' is not given in the output.
+-'par' is not given in the output.
+-'aam ka misran' is a single NP chunk. But 'ka' is not given in the output. 'aam' and 'misran' ae separated as two NP chunks.
+-'par' is not given in the output.
+-'malayi ka misran' is a single NP chunk. But 'ka' is not given in the output. 'malayi' and 'misran' ae separated as two NP chunks.
+
+------------------------
+298
+
+अब उसके ऊपर ब्रेड की तीसरी स्‍लाइस रखकर उस पर जैम लगाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='अब,adv,,,,,,' head="अब" poslcat="NM">     
+1.1      	अब      	PRP      	<fs af='अब,adv,,,,,,' name="अब" poslcat="NM">     
+      	))      	      	     
+2      	((      	NP      	<fs af='ऊपर,adv,,,,,0_ऊपर,' vpos="vib2_2" head="ऊपर" poslcat="NM">     
+2.1      	उसके      	PRP      	<fs af='उसके,unk,,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='ब्रेड,unk,,,,,0_का,' vpos="vib1_2" head="ब्रेड" poslcat="NM">     
+3.1      	ब्रेड      	NN      	<fs af='ब्रेड,unk,,,,,,' name="ब्रेड" poslcat="NM">     
+      	))      	      	     
+
+-The output is not complete for any number of trials.
+
+------------------------------
+299
+तत्पश्चात चौथी ब्रेड रखकर मलाई का मिश्रण लगाएं|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='ब्रेड,unk,,,,,,' head="ब्रेड" poslcat="NM">     
+1.1      	तत्पश्चात      	JJ      	<fs af='तत्पश्चात,unk,,,,,,' poslcat="NM">     
+1.2      	चौथी      	QO      	<fs af='चौथी,adj,f,any,,any,,'>     
+1.3      	ब्रेड      	NN      	<fs af='ब्रेड,unk,,,,,,' name="ब्रेड" poslcat="NM">     
+      	))      	      	     
+2      	((      	VGNF      	<fs af='रख,v,any,any,any,,कर,kara' head="रखकर">     
+2.1      	रखकर      	VM      	<fs af='रख,v,any,any,any,,कर,kara' name="रखकर">     
+      	))      	      	     
+3      	((      	NP      	<fs af='मलाई,n,f,sg,3,d,0_का,0' vpos="vib1_2" head="मलाई">     
+3.1      	मलाई      	NN      	<fs af='मलाई,n,f,sg,3,d,0,0' name="मलाई">     
+      	))      	      	     
+4      	((      	NP      	<fs af='मिश्रण,n,m,sg,3,d,0,0' head="मिश्रण">     
+4.1      	मिश्रण      	NN      	<fs af='मिश्रण,n,m,sg,3,d,0,0' name="मिश्रण">     
+      	))      	      	     
+5      	((      	VGF      	<fs af='लगा,v,any,pl,1,,एं,eM' head="लगाएं">     
+5.1      	लगाएं      	VM      	<fs af='लगा,v,any,pl,1,,एं,eM' name="लगाएं">     
+5.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'tatpashchaat' is RBP and is a separate chunk. 
+-'malayi ka misran' is a single NP chunk. But 'ka' is not given in the output. 'malayi' and 'misran' ae separated as two NP chunks.
+--------------------------
+300
+तत्पश्चात सजावट हेतु काजू, किशमिश आदि चिपकाएं तथा इसे केक की तरह बीच से दो भागों में काट लें|
+
+<Sentence id="1">
+1      	((      	NP      	<fs af='सजावट,n,f,sg,3,d,0_हेतु,0' vpos="vib2_3" head="सजावट">     
+1.1      	तत्पश्चात      	JJ      	<fs af='तत्पश्चात,unk,,,,,,' poslcat="NM">     
+1.2      	सजावट      	NN      	<fs af='सजावट,n,f,sg,3,d,0,0' name="सजावट">     
+      	))      	      	     
+2      	((      	NP      	<fs af='काजू,n,m,sg,3,d,0,0' head="काजू">     
+2.1      	काजू      	NN      	<fs af='काजू,n,m,sg,3,d,0,0' name="काजू">     
+2.2      	,      	SYM      	<fs af=',,punc,,,,,' poslcat="NM">     
+      	))      	      	     
+3      	((      	NP      	<fs af='किशमिश,n,f,sg,3,d,0,0' head="किशमिश">     
+3.1      	किशमिश      	NN      	<fs af='किशमिश,n,f,sg,3,d,0,0' name="किशमिश">     
+3.2      	आदि      	RP      	<fs af='आदि,n,m,sg,3,d,0,0' poslcat="NM">     
+      	))      	      	     
+4      	((      	NP      	<fs af='चिपका,v,any,pl,1,,एं,eM' head="चिपकाएं" poslcat="NM">     
+4.1      	चिपकाएं      	NN      	<fs af='चिपका,v,any,pl,1,,एं,eM' name="चिपकाएं" poslcat="NM">     
+      	))      	      	     
+5      	((      	CCP      	<fs af='तथा,avy,,,,,,' head="तथा">     
+5.1      	तथा      	CC      	<fs af='तथा,avy,,,,,,' name="तथा">     
+      	))      	      	     
+6      	((      	NP      	<fs af='यह,pn,any,sg,3,o,को,ko' head="इसे">     
+6.1      	इसे      	PRP      	<fs af='यह,pn,any,sg,3,o,को,ko' name="इसे">     
+      	))      	      	     
+7      	((      	NP      	<fs af='बीच,psp,,,,,0_का_तरह_बीच_से,' vpos="2_3_vib4_4_5" head="बीच" poslcat="NM">     
+7.1      	केक      	NN      	<fs af='केक,n,m,sg,3,d,0,0'>     
+      	))      	      	     
+8      	((      	NP      	<fs af='भागों,unk,,,,,0_में,' vpos="vib2_3" head="भागों" poslcat="NM">     
+8.1      	दो      	QC      	<fs af='दो,n,m,sg,3,d,0,0' poslcat="NM">     
+8.2      	भागों      	NN      	<fs af='भागों,unk,,,,,,' name="भागों" poslcat="NM">     
+      	))      	      	     
+9      	((      	VGF      	<fs af='काट,v,any,pl,1,,0_ले+एं,0' vpos="tam1_2" head="काट">     
+9.1      	काट      	VM      	<fs af='काट,v,any,any,any,,0,0' name="काट">     
+9.2      	।      	SYM      	<fs af='.,punc,,,,,,'>     
+      	))      	      	     
+</Sentence> 
+
+-'tatpashchaat' is RBP and is a separate chunk. It is not JJ. And sajavat is thus a separate NP chunk.
+-'hetu' is not given in the output.
+-'aadi' is a particle and is separate. But it is chunked under NP.******
+-'kii tarah beech se' is not given in the output. 'cake kii tarah' should b one chunk and 'beech se' is another chunk.
+-'mein' is not given in the output.
+-'le' is not given in the output.
+-----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

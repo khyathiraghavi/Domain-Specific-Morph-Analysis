@@ -1,0 +1,17 @@
+kara
+KA
+KAkara
+kara
+karake
+le
+lekara
+ho
+hokara
+pI
+pIkara
+CU
+CUkara
+uTa
+uTakara
+so
+sokara

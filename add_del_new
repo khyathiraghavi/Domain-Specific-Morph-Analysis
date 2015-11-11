@@ -1,0 +1,712 @@
+*Adj_const
+$amIra&Adj_const
+0 0
+
+*Adj_m_s
+$bAlaka&Adj_m_s
+0 0
+
+*Adj_m
+$kAlA&Adj_m
+0 0
+A	e
+A	e
+A	e
+
+*hE
+$hE&hE
+E Uz
+0 0       
+0 0
+0	M
+E	o
+0	M
+
+*kara
+$KA&kara
+0 kara
+
+$kara&kara
+0 ke
+
+$le&kara
+0 kara 
+
+$ho&kara
+0 kara 
+
+$pI&kara
+0 kara 
+
+$CU&kara
+0 kara 
+
+$uTa&kara
+0 kara 
+
+$so&kara
+0 kara 
+
+*Noun_m
+$Gara&Noun_m
+0 0 
+0 0 
+0 0 
+a oM 
+
+$Karca&Noun_m
+0 0 
+a e 
+0 0 
+0 oM 
+
+$kroXa&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+$ladakA&Noun_m
+0 0 
+A e 
+A e 
+A oM 
+
+$rAjA&Noun_m
+0 0 
+0 0 
+0 0 
+0 oM	
+
+$lohA&Noun_m
+0 0 
+A e 
+A e 
+A e 
+
+$viXAwA&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+$kavi&Noun_m
+0 0
+0 0
+0 0
+0 yoM
+
+$AxamI&Noun_m
+0 0 
+0 0 
+0 0 
+I iyoM
+
+$pAnI&Noun_m
+0 0
+0 0 
+0 0 
+0 0 
+
+$Sawru&Noun_m
+0 0
+0 0
+0 0
+0 oM
+
+$katu&Noun_m
+0 0
+0 0
+0 0
+0 0
+
+$AlU&Noun_m
+0 0
+0 0
+0 0
+U uoM 
+
+$lahU&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+$kuAz&Noun_m
+0 0 
+Az ez 
+Az ez 	
+Az oM 
+
+$redio&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+$gehUz&Noun_m
+0 0 
+0 0 
+0 0 
+Uz uzoM 
+
+$BARAvix&Noun_m
+0 0
+0 0
+0 0
+0 oM
+
+$jO&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+$pUne&Noun_m
+0 0 
+0 0 
+0 0 
+0 0 
+
+*Parsarg
+$aba&Parsarg
+0 0
+
+*subj
+$KA&subj
+0 Uz
+0 ye/0 e
+0 iye/0 ie
+0 ye/0 e
+0 yeM/0 ez
+0 o
+0 iye/0 ie
+0 yeM/0 ez
+
+$kara&subj
+ka Uz
+a e
+a ie/ara Ijiye
+a e
+a eM
+a o
+a eM
+a ie/ara Ijiye
+
+$le&subj
+0 Uz
+0 0
+0 Ijie/0 Ijiye
+0 0
+0 M
+0 o
+0 Ijie/0 Ijiye
+0 M
+
+$ho&subj
+0 Uz
+0 0
+0 ie/0 iye
+0 0
+0 yeM/0 ez
+0 o
+0 ie/0 iye
+0 yeM/0 ez
+
+$pI&subj
+I iUz
+I iye/I ie
+0 jiye/0 jie
+I ye/I e
+I yeM/I ez
+I o
+0 jiye/0 jie
+I iyeM/I iez
+
+$CU&subj
+U uUz
+U uye/U ue
+U uiye/U uie
+U uye/U ue
+U uyeM/U uez
+U uo
+U uiye/U uie
+U uyeM/U uez
+
+$uTa&subj
+a Uz
+a e
+a ie/a iye
+a e
+a eM
+a o
+a ie/a iye
+a eM
+
+$so&subj
+0 Uz
+0 0
+0 ie/0 iye
+0 e
+0 yeM/0 ez
+0 o
+0 ie/0 iye
+0 yeM/0 ez
+
+*wA_nA
+$KA&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$kara&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$le&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$ho&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$pI&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$CU&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$uTa&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+$so&wA_nA
+0 nA
+0 ne
+0 nI
+0 nIM
+0 wA
+0 we
+0 wI
+0 wIM
+
+*yA1
+$jA&yA1
+jA gayA
+jA gaye
+jA gayI/jA gaI
+jA gayIM/jA gaIM
+
+*RaRTI_u
+$mEM&RaRTI_u
+EM erA
+EM ere
+EM ere
+EM ere
+EM erI
+EM erI
+EM erI
+EM erI
+
+$hamArA&RaRTI_u
+A e
+A e
+A e
+A I
+A I
+A I
+A I
+
+*yA
+$yA&yA
+0 0
+
+$KA&yA
+0 yA
+0 ye/0 e
+0 I/0 yI
+0 IM/0 yIM
+
+$kara&yA
+0 0
+ara iyA
+ara iye/ ara kie
+
+$kI&yA
+0 0
+0 M
+
+$le&yA
+0 0 
+e iyA
+e iye/e lie
+
+$lI&yA
+0 0 
+0 M
+
+$ho&yA
+0 0 
+o uA
+o ue/o uye
+o uI/o uyI
+o uIM/o uyIM
+
+$pI&yA
+0 0
+I iya
+I iye/I ie
+0 0
+0 M
+
+$CU&yA
+0 0
+U uA
+U ue/U uye
+U uI/U uyI
+U uIM/U uyIM
+
+$uTa&yA
+0 0
+a A
+a e
+a I
+a IM
+
+$so&yA
+0 0 
+0 yA
+0 e/0 ye
+0 I/0 yI
+0 IM/0 yIM
+
+*Adj_case
+$aneka&Adj_case
+0 0
+a oM
+
+*Adj_f_s
+$bAlikA&Adj_f_s
+0 0
+
+*Adj_f
+$kAlI&Adj_f
+0 0
+
+*Advrb
+$aba&Advrb
+0 0
+
+*Future
+$KA&Future
+0 UzgA
+0 egA/0 yegA
+0 iegA/0 iyegA
+0 egA/0 yegA
+0 ezge/0 yeMge
+0 oge
+0 iegA/0 iyegA
+0 ezge/0 yeMge
+0 UzgI
+0 egI/0 yegI
+0 iegA/0 iyegA
+0 egI/0 yegI
+0 ezgI/0 yeMgI
+0 ogI
+0 iegA/0 iyegA
+0 ezgI/0 yeMgI
+
+$kara&Future
+a UzgA
+a egA
+ara IjiyegA/a iegA
+a egA
+a eMge
+a oge
+ara IjiyegA/a iegA
+a eMge
+a UzgI
+a egI
+ara IjiyegA/a iegA
+a egI
+a eMgI
+a ogI
+ara IjiyegA/a iegA
+a eMgI
+
+$le&Future
+e UzgA
+0 gA
+e IjiyegA/e IjiegA
+0 gA
+0 Mge
+e oge
+e IjiyegA/e IjiegA
+0 Mge
+e UzgI
+0 gI
+e IjiyegA/e IjiegA
+0 gI
+0 MgI
+e ogI
+e IjiyegA/e IjiegA
+0 MgI
+
+$ho&Future
+0 UzgA
+0 gA
+0 iyegA/0 iegA
+0 gA
+0 Mge
+0 ge
+0 iyegA/0 iegA
+0 Mge
+0 UzgI
+0 gI
+0 iyegA/0 iegA
+0 gI
+0 MgI
+0 ogI
+0 iyegA/0 iegA
+0 MgI
+
+$pI&Future
+I iUzgA/I iyUzgA
+I egA/I iyegA
+0 pIjiegA/0 pIjiyegA
+I iegA/I iyeMgA
+I iezge/I iyeMge
+I ioge
+0 pIjiegA/0 pIjiyegA
+I iezge/I iyeMge
+I iUzgI/I iyUzgI
+I iyegI/I iegI
+0 pIjiegA/0 pIjiyegA
+I iyegI/I iegI
+I iezgI/I iyeMgI
+I iogI
+0 pIjiegA/0 pIjiyegA
+I iezgI/I iyeMgI
+
+$CU&Future
+U uUzgA
+U uegA/U uyegA
+U uiegA/U uiyegA
+U uegA/U uyegA
+U uezge/U uyeMge
+U uoge
+U uiegA/U uiyegA
+U uezge/U uyeMge
+U uUzgI
+U uegI/U uyegI
+U uiegA/U uiyegA
+U uegI/U uyegI
+U uezgI/U uyeMgI
+U uogI
+U uiegA/U uiyegA
+U uezgI/U uyeMgI
+
+$uTa&Future
+a UzgA
+a egA
+a iegA/a iyegA
+a egA
+a eMge
+a oge
+a eMge
+a iegA/a iyegA
+a UzgI
+a egI
+a iegA/a iyegA
+a egI
+a eMgI
+a ogI
+a iegA/a iyegA
+a eMgI
+
+$so&Future
+0 UzgA
+0 egA/0 yegA
+0 iegA/0 iyegA
+0 egA/0 yegA
+0 yeMge
+0 oge
+0 iegA/0 iyegA
+0 yeMge
+0 UzgI
+0 yegI
+0 iegA/0 iyegA
+0 yegI
+0 yeMgI
+0 ogI
+0 iegA/0 iyegA
+0 yeMgI
+
+*Intrjctn
+$aba&Intrjctn
+0 0
+
+*Noun_f
+$rAwa&Noun_f
+0 0
+a eM
+0 0
+0 oM
+
+$BIda&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$ASA&Noun_f
+0 0
+0 yeM/0 ez
+0 0
+0 oM
+
+$gudiyA&Noun_f
+0 0
+0 z
+0 0
+A oM
+
+$IrRyA&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$Apawwi&Noun_f
+0 0
+0 yAz
+0 0
+0 yoM
+
+$SAnwi&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$ladakI&Noun_f
+0 0
+I iyAz
+0 0
+I iyoM
+
+$AjAxI&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$qwu&Noun_f
+0 0
+0 ez
+0 0
+0 oM
+
+$vAyu&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$bahU&Noun_f
+0 0
+U uez/U uyeM
+0 0
+U uoM
+
+$bAlU&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$lO&Noun_f
+0 0
+0 ez
+0 0
+0 voM
+
+$sarasoM&Noun_f
+0 0
+0 0
+0 0
+0 0
+
+$mAz&Noun_f
+0 0
+0 yeM
+0 0
+0 oM
+
+*Noun_sh
+$kA&Noun_sh
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+
+*Noun_sh
+$kA&Noun_sh
+0 0
+A e
+0 e
+0 e
+0 I
+0 I
+0 I
+0 I
+
+

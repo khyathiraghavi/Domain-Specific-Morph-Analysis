@@ -1,0 +1,944 @@
+ 1016  vimdiff rout rout1
+ 1017  vi rout1
+ 1018  cc kser.c
+ 1019  ./a.out
+ 1020  cc kser.c
+ 1021  ./a.out
+ 1022  cc kser.c
+ 1023  ./a.out
+ 1024  cc kser.c
+ 1025  ./a.out
+ 1026  clear
+ 1027  cc kser.c
+ 1028  clear
+ 1029  cc kser.c
+ 1030  ./a.out
+ 1031  clear
+ 1032  cc kser.c
+ 1033  ./a.out
+ 1034  cc kser.c
+ 1035  ./a.out
+ 1036  cc kser.c
+ 1037  ./a.out
+ 1038  cc kser.c
+ 1039  ./a.out
+ 1040  cc kser.c
+ 1041  ./a.out
+ 1042  clear
+ 1043  ./a.out
+ 1044  cc kser.c
+ 1045  ./a.out
+ 1046  cc kser.c
+ 1047  ./a.out
+ 1048  cc kser.c
+ 1049  ./a.out
+ 1050  cc kser.c
+ 1051  ./a.out
+ 1052  cc kser.c
+ 1053  ./a.out
+ 1054  cc kser.c
+ 1055  ./a.out
+ 1056  cc kser.c
+ 1057  ./a.out
+ 1058  cc kser.c
+ 1059  ./a.out
+ 1060  cc kser.c
+ 1061  ./a.out
+ 1062  cc kser.c
+ 1063  ./a.out
+ 1064  cc kser.c
+ 1065  ./a.out
+ 1066  cc kser.c
+ 1067  ./a.out
+ 1068  cc kser.c
+ 1069  ./a.out
+ 1070  cc kser.c
+ 1071  ./a.out
+ 1072  cc kser.c
+ 1073  ./a.out
+ 1074  cc kser.c
+ 1075  ./a.out
+ 1076  cc kser.c
+ 1077  ./a.out
+ 1078  cc kser.c
+ 1079  ./a.out
+ 1080  cc kser.c
+ 1081  ./a.out
+ 1082  cc kser.c
+ 1083  ./a.out
+ 1084  cc kser.c
+ 1085  ./a.out
+ 1086  cc kser.c
+ 1087  ./a.out
+ 1088  cc kser.c
+ 1089  ./a.out
+ 1090  cc kser.c
+ 1091  ./a.out
+ 1092  cc kser.c
+ 1093  ./a.out
+ 1094  cc kser.c
+ 1095  ./a.out
+ 1096  cc kser.c
+ 1097  ./a.out
+ 1098  cc kser.c
+ 1099  ./a.out
+ 1100  cc kser.c
+ 1101  ./a.out
+ 1102  cc kser.c
+ 1103  ./a.out
+ 1104  cc kser.c
+ 1105  ./a.out
+ 1106  cc kser.c
+ 1107  ./a.out
+ 1108  cc kser.c
+ 1109  ./a.out
+ 1110  cc kser.c
+ 1111  ./a.out
+ 1112  cc udpserver.c 
+ 1113  ./a.out
+ 1114  cc kser.c
+ 1115  ./a.out
+ 1116  cc s6.c
+ 1117  ./a.out
+ 1118  cc kcli.c
+ 1119  cc kser.c
+ 1120  ./a.out
+ 1121  cc aser.c
+ 1122  ./a.out
+ 1123  cc aser.c
+ 1124  ./a.out
+ 1125  clear
+ 1126  cc aser.c
+ 1127  ./a.out
+ 1128  clear
+ 1129  cc aser.c
+ 1130  ./a.out
+ 1131  cc aser.c
+ 1132  ./a.out
+ 1133  cc aser.c
+ 1134  ./a.out
+ 1135  clear
+ 1136  cc aser.c
+ 1137  ./a.out
+ 1138  cc aser.c
+ 1139  ./a.out
+ 1140  clear
+ 1141  cc aser.c
+ 1142  ./a.out
+ 1143  clear
+ 1144  cc aser.c
+ 1145  ./a.out
+ 1146  clear
+ 1147  cc aser.c
+ 1148  ./a.out
+ 1149  cc aser.c
+ 1150  ./a.out
+ 1151  cc s6.c
+ 1152  ./a.out
+ 1153  cc aser.c
+ 1154  ./a.out
+ 1155  cc aser1.c
+ 1156  ./a.out
+ 1157  clear
+ 1158  cc aser1.c
+ 1159  ./a.out
+ 1160  cc aser.c
+ 1161  ./a.out
+ 1162  cc s6.c
+ 1163  ./a.out
+ 1164  clear
+ 1165  cc s6.c
+ 1166  ./a.out
+ 1167  cc s6.c
+ 1168  ./a.out
+ 1169  cc s6.c
+ 1170  ./a.out
+ 1171  cc s6.c
+ 1172  ./a.out
+ 1173  cc s6.c
+ 1174  ./a.out
+ 1175  cc s6.c
+ 1176  ./a.out
+ 1177  cc s6.c
+ 1178  ./a.out
+ 1179  clear
+ 1180  cc s6.c
+ 1181  ./a.out
+ 1182  cc s6.c
+ 1183  ./a.out
+ 1184  clear
+ 1185  cc s6.c
+ 1186  ./a.out
+ 1187  cc s6.c
+ 1188  ./a.out
+ 1189  vi sout
+ 1190  vi sout1
+ 1191  cc s6.c
+ 1192  ./a.out
+ 1193  cc s6.c
+ 1194  ./a.out
+ 1195  cc s6.c
+ 1196  ./a.out
+ 1197  cc s6.c
+ 1198  ./a.out
+ 1199  cc s6.c
+ 1200  ./a.out
+ 1201  cc s6.c
+ 1202  ./a.out
+ 1203  cc s6.c
+ 1204  ./a.out
+ 1205  cc s6.c
+ 1206  ./a.out
+ 1207  cc s6.c
+ 1208  ./a.out
+ 1209  clear
+ 1210  cc aser.c
+ 1211  ./a.out
+ 1212  cc aser.c
+ 1213  ./a.out
+ 1214  cc s6.c
+ 1215  ./a.out
+ 1216  cc s6.c
+ 1217  ./a.out
+ 1218  cc s6.c
+ 1219  ./a.out
+ 1220  cc s6.c
+ 1221  ./a.out
+ 1222  cc s6.c
+ 1223  ./a.out
+ 1224  cc s6.c
+ 1225  ./a.out
+ 1226  cc s6.c
+ 1227  ./a.out
+ 1228  cc s6.c
+ 1229  ./a.out
+ 1230  cc s6.c
+ 1231  ./a.out
+ 1232  cc s6.c
+ 1233  ./a.out
+ 1234  cc s6.c
+ 1235  ./a.out
+ 1236  cc s6.c
+ 1237  ./a.out
+ 1238  cc s6.c
+ 1239  ./a.out
+ 1240  cc aser.c
+ 1241  ./a.out
+ 1242  cc aser.c
+ 1243  ./a.out
+ 1244  cc s6.c
+ 1245  ./a.out
+ 1246  cc s6.c
+ 1247  ./a.out
+ 1248  cc s6.c
+ 1249  ./a.out
+ 1250  cc s6.c
+ 1251  ./a.out
+ 1252  cc s6.c
+ 1253  ./a.out
+ 1254  cc s6.c
+ 1255  ./a.out
+ 1256  cc s6.c
+ 1257  ./a.out
+ 1258  cc s6.c
+ 1259  ./a.out
+ 1260  cc s6.c
+ 1261  ./a.out
+ 1262  cc s6.c
+ 1263  ./a.out
+ 1264  cc s6.c
+ 1265  ./a.out
+ 1266  cc s6.c
+ 1267  ./a.out
+ 1268  cc s6.c
+ 1269  ./a.out
+ 1270  cc s6.c
+ 1271  ./a.out
+ 1272  cc s6.c
+ 1273  ./a.out
+ 1274  cc s6.c
+ 1275  ./a.out
+ 1276  cc s6.c
+ 1277  ./a.out
+ 1278  cc s6.c
+ 1279  ./a.out
+ 1280  cc s6.c
+ 1281  ./a.out
+ 1282  cc s6.c
+ 1283  ./a.out
+ 1284  cc s6.c
+ 1285  ./a.out
+ 1286  cc s6.c
+ 1287  ./a.out
+ 1288  cc s6.c
+ 1289  ./a.out
+ 1290  cd
+ 1291  cd t
+ 1292  cc -o s client2.c -lcrypto -lssl
+ 1293  ./s
+ 1294  cd rrr
+ 1295  cc kcli.c
+ 1296  ./a.out
+ 1297  cc kcli.c
+ 1298  ./a.out
+ 1299  cc kcli.c
+ 1300  ./a.out > rout
+ 1301  cc kcli.c
+ 1302  ./a.out > rout1
+ 1303  cc kcli.c
+ 1304  ./a.out
+ 1305  cc kcli.c
+ 1306  ./a.out
+ 1307  vi rout
+ 1308  cc kcli.c
+ 1309  vi rout
+ 1310  cc kcli.c
+ 1311  ./a.out
+ 1312  clear
+ 1313  cc kcli.c
+ 1314  ./a.out
+ 1315  cc kcli.c
+ 1316  ./a.out
+ 1317  cc kcli.c
+ 1318  ./a.out
+ 1319  cc kcli.c
+ 1320  ./a.out
+ 1321  cc kcli.c
+ 1322  ./a.out
+ 1323  cc kcli.c
+ 1324  ./a.out
+ 1325  cc kcli.c
+ 1326  ./a.out
+ 1327  cc kcli.c
+ 1328  ./a.out
+ 1329  cc kcli.c
+ 1330  ./a.out
+ 1331  cc kcli.c
+ 1332  ./a.out
+ 1333  cc kcli.c
+ 1334  ./a.out
+ 1335  cc kcli.c
+ 1336  ./a.out
+ 1337  cc kcli.c
+ 1338  ./a.out
+ 1339  cc kcli.c
+ 1340  ./a.out
+ 1341  cc kcli.c
+ 1342  ./a.out
+ 1343  cc kcli.c
+ 1344  ./a.out
+ 1345  cc kcli.c
+ 1346  ./a.out
+ 1347  cc kcli.c
+ 1348  ./a.out
+ 1349  cc kcli.c
+ 1350  ./a.out
+ 1351  cc kcli.c
+ 1352  ./a.out
+ 1353  cc kcli.c
+ 1354  ./a.out
+ 1355  cc kcli.c
+ 1356  ./a.out
+ 1357  cc kcli.c
+ 1358  ./a.out
+ 1359  cc kcli.c
+ 1360  ./a.out
+ 1361  cc kcli.c
+ 1362  ./a.out
+ 1363  cc kcli.c
+ 1364  ./a.out
+ 1365  cc kcli.c
+ 1366  ./a.out
+ 1367  cc kcli.c
+ 1368  ./a.out
+ 1369  cc kcli.c
+ 1370  ./a.out
+ 1371  cc kcli.c
+ 1372  ./a.out
+ 1373  cc kcli.c
+ 1374  ./a.out
+ 1375  cc kcli.c
+ 1376  ./a.out
+ 1377  cc kcli.c
+ 1378  ./a.out
+ 1379  cc kcli.c
+ 1380  ./a.out
+ 1381  cc kcli.c
+ 1382  ./a.out
+ 1383  clear
+ 1384  cc kcli.c
+ 1385  clear
+ 1386  cc kcli.c
+ 1387  ./a.out
+ 1388  cc kcli.c
+ 1389  ./a.out
+ 1390  cc udpclient.c 
+ 1391  ./a.out
+ 1392  cc kcli.c
+ 1393  ./a.out
+ 1394  cc c5.c
+ 1395  ./a.out
+ 1396  cc kcli.c
+ 1397  ./a.out
+ 1398  cc kcli.c
+ 1399  ./a.out
+ 1400  cc kcli.c
+ 1401  ./a.out
+ 1402  cc kcli.c
+ 1403  ./a.out
+ 1404  clear
+ 1405  cc kcli.c
+ 1406  ./a.out
+ 1407  cc kcli.c
+ 1408  ./a.out
+ 1409  clear
+ 1410  cc kcli.c
+ 1411  ./a.out
+ 1412  clear
+ 1413  cc c5.c
+ 1414  ./a.out
+ 1415  cc c5.c
+ 1416  ./a.out
+ 1417  cc c5.c
+ 1418  ./a.out
+ 1419  cc c5.
+ 1420  cc c5.c
+ 1421  ./a.out
+ 1422  cc c5.c
+ 1423  ./a.out
+ 1424  cc c5.c
+ 1425  ./a.out
+ 1426  clear
+ 1427  cc c5.c
+ 1428  ./a.out
+ 1429  cc c5.c
+ 1430  ./a.out
+ 1431  cc c5.c
+ 1432  ./a.out
+ 1433  cc c5.c
+ 1434  ./a.out
+ 1435  cc c5.c
+ 1436  ./a.out
+ 1437  cc c5.c
+ 1438  ./a.out
+ 1439  cc c5.c
+ 1440  ./a.out
+ 1441  cc c5.c
+ 1442  ./a.out
+ 1443  cc c5.c
+ 1444  ./a.out
+ 1445  cc c5.c
+ 1446  ./a.out
+ 1447  cc c5.c
+ 1448  ./a.out
+ 1449  cc c5.c
+ 1450  ./a.out
+ 1451  cc c5.c
+ 1452  ./a.out
+ 1453  cc c5.c
+ 1454  ./a.out
+ 1455  cc c5.c
+ 1456  ./a.out
+ 1457  cc c5.c
+ 1458  ./a.out
+ 1459  cc c5.c
+ 1460  ./a.out
+ 1461  cc c5.c
+ 1462  ./a.out
+ 1463  cc c5.c
+ 1464  ./a.out
+ 1465  cc c5.c
+ 1466  ./a.out
+ 1467  cc c5.c
+ 1468  ./a.out
+ 1469  cc c5.c
+ 1470  ./a.out
+ 1471  cc c5.c
+ 1472  ./a.out
+ 1473  cc c5.c
+ 1474  ./a.out
+ 1475  cc c5.c
+ 1476  ./a.out
+ 1477  cc c5.c
+ 1478  ./a.out
+ 1479  cc c5.c
+ 1480  ./a.out
+ 1481  cc c5.c
+ 1482  ./a.out
+ 1483  cc c5.c
+ 1484  ./a.out
+ 1485  cc c5.c
+ 1486  ./a.out
+ 1487  cc c5.c
+ 1488  ./a.out
+ 1489  cc c5.c
+ 1490  ./a.out
+ 1491  cc c5.c
+ 1492  ./a.out
+ 1493  cc c5.c
+ 1494  ./a.out
+ 1495  cc c5.c
+ 1496  ./a.out
+ 1497  cc c5.c
+ 1498  ./a.out
+ 1499  cc c5.c
+ 1500  ./a.out
+ 1501  cc c5.c
+ 1502  ./a.out
+ 1503  cc c5.c
+ 1504  ./a.out
+ 1505  cc c5.c
+ 1506  ./a.out
+ 1507  cc c5.c
+ 1508  ./a.out
+ 1509  cc c5.c
+ 1510  ./a.out
+ 1511  cc c5.c
+ 1512  ./a.out
+ 1513  cc c5.c
+ 1514  ./a.out
+ 1515  cc c5.c
+ 1516  ./a.out
+ 1517  cc c5.c
+ 1518  ./a.out
+ 1519  cc c5.c
+ 1520  ./a.out
+ 1521  cd
+ 1522  cd divya/
+ 1523  cd 
+ 1524  cd Downloads/
+ 1525  cd divya/
+ 1526  ./
+ 1527  cd divya
+ 1528  cd ..
+ 1529  cd 201101209_201125188/
+ 1530  cd divya
+ 1531  ls
+ 1532  cc -o c client1.c -lcrypto -lssl
+ 1533  ./c
+ 1534  sudo su -
+ 1535  sudo su -
+ 1536  sudo su-
+ 1537  sudo su -
+ 1538  cd Desktop/assignment4/
+ 1539  make
+ 1540  ./g
+ 1541  ls
+ 1542  ./ga
+ 1543  exit
+ 1544  cd 4/
+ 1545  ls
+ 1546  g++ -lglut -lGL -lGLU -lm -lalut -lopenal -g -fpermissive -Wdeprecated-declarations assignment4.cpp imageloader.cpp md2model.cpp vec3f.cpp
+ 1547  ./a.out
+ 1548  g++ -lglut -lGL -lGLU -lm -lalut -lopenal -g -fpermissive -Wdeprecated-declarations imageloader.cpp md2model.cpp vec3f.cpp assignment4without.cpp
+ 1549  ./a.out
+ 1550  cd 4
+ 1551  g++ -lglut -lGL -lGLU -lm -lalut -lopenal -g -fpermissive -Wdeprecated-declarations imageloader.cpp md2model.cpp vec3f.cpp assignment4without.cpp
+ 1552  ./a.out
+ 1553  g++ -lglut -lGL -lGLU -lm -lalut -lopenal -g -fpermissive -Wdeprecated-declarations imageloader.cpp md2model.cpp vec3f.cpp assignment4without.cpp
+ 1554  ./a.out
+ 1555  cd Downloads/divya
+ 1556  cd divya/
+ 1557  ls
+ 1558  vi tcpclient.c 
+ 1559  cd ..
+ 1560  cc client1.c -lcrypto
+ 1561  ./client1
+ 1562  ./a.out 
+ 1563  vim client1.c
+ 1564  cc client1.c -lcrypto
+ 1565  ./a.out 
+ 1566  cd 201101209_201125188/
+ 1567  ls
+ 1568  cd t
+ 1569  ls
+ 1570  vi tcpclient.c
+ 1571  vi client2.c
+ 1572  vi ../client1.c
+ 1573  cc client2.c
+ 1574  cc client2.c -lcrypto 
+ 1575  clear
+ 1576  ./client2
+ 1577  ./a.out 
+ 1578  cd 201101209_201125188/
+ 1579  ls
+ 1580  cc client2.c -lcrypto 
+ 1581  cc client1.c -lcrypto 
+ 1582  ./a.out
+ 1583  cc client1.c -lcrypto 
+ 1584  ./a.out
+ 1585  top
+ 1586  ps
+ 1587  clear
+ 1588  ./a.out
+ 1589  vim client1.c
+ 1590  cd
+ 1591  cd Desktop/201101209_201125188/
+ 1592  cc client1.c -lcrypto 
+ 1593  ./a.out
+ 1594  cc clie
+ 1595  ./a.out
+ 1596  cd
+ 1597  cd divya/
+ 1598  cc tcpserver.c -lcrypto 
+ 1599  ./a.out
+ 1600  vi tcpserver.c
+ 1601  cc tcpserver.c -lcrypto 
+ 1602  ./a.out
+ 1603  cc tcpserver.c -lcrypto 
+ 1604  ./a.out
+ 1605  cd
+ 1606  cd 201101209_201125188/
+ 1607  cc -o client1 client1.c -lcrypto -lssl
+ 1608  ./client1
+ 1609  cc -o client1 client1.c -lcrypto -lssl
+ 1610  ./client1
+ 1611  cc -o client1 client1.c -lcrypto -lssl
+ 1612  ./client
+ 1613  ./client1
+ 1614  ./client11
+ 1615  ./client1
+ 1616  vim client1.c
+ 1617  cd t
+ 1618  cc client2.c -lcrypto 
+ 1619  ./a.out 
+ 1620  cd
+ 1621  cd Desktop/201101209_201125188/t
+ 1622  cc client2.c -lcrypto 
+ 1623  ./a.out 
+ 1624  cc client2.c -lcrypto 
+ 1625  ./a.out 
+ 1626  cd
+ 1627  cd divya/
+ 1628  cd t
+ 1629  cc tcpclient.c -lcrypto 
+ 1630  ./a.out
+ 1631  vim tcpclient.c
+ 1632  cc tcpclient.c -lcrypto 
+ 1633  ./a.out
+ 1634  cc tcpclient.c -lcrypto 
+ 1635  ./a.out
+ 1636  cc tcpclient.c -lcrypto 
+ 1637  ./a.out
+ 1638  cd
+ 1639  cd 201101209_201125188/
+ 1640  cd t
+ 1641  cc -o client2 client2.c -lcrypto -lssl
+ 1642  ./client2
+ 1643  cc -o client2 client2.c -lcrypto -lssl
+ 1644  ./client2
+ 1645  cc -o client2 client2.c -lcrypto -lssl
+ 1646  ./client2
+ 1647  q
+ 1648  ./client2
+ 1649  vim client2.c
+ 1650  vi b.c
+ 1651  cc b.c
+ 1652  ./a.out
+ 1653  vi b.c
+ 1654  ./a.out
+ 1655  vi b.c
+ 1656  cc b.c
+ 1657  ./a.out
+ 1658  vi b.c
+ 1659  cc b.c
+ 1660  ./a.out
+ 1661  vi b.c
+ 1662  cc b.c
+ 1663  ./a.out
+ 1664  vi b.c
+ 1665  cc b.c
+ 1666  ./a.out
+ 1667  vi bin
+ 1668  cc b.c
+ 1669  ./a.out <bin
+ 1670  vi b.c
+ 1671  cc b.c
+ 1672  ./a.out <bin
+ 1673  vi b.c
+ 1674  cc b.c
+ 1675  ./a.out
+ 1676  vi b.c
+ 1677  cd 201125188_Assignment3/
+ 1678  ls
+ 1679  vi readme.txt
+ 1680  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1681  ./a.out
+ 1682  vi readme.txt
+ 1683  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1684  cd 201125188_Assignment3/
+ 1685  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1686  ./a.out
+ 1687  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1688  ./a.out
+ 1689  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1690  ./a.out
+ 1691  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1692  ./a.out
+ 1693  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1694  ./a.out
+ 1695  cd
+ 1696  ls
+ 1697  cd Documents/
+ 1698  cd 201125188_Assignment3/
+ 1699  ls
+ 1700  g++ -lglut -lGLU -lGL -c sgl.cpp
+ 1701  g++ -lglut -lGLU -lGL -c sglll.cpp
+ 1702  cd
+ 1703  cd sem4/
+ 1704  ls
+ 1705  cd graphics/
+ 1706  ls
+ 1707  cd ddd/
+ 1708  g++ -lglut -lGLU -lGL -c sglll.cpp
+ 1709  ./a.out
+ 1710  g++ -lglut -lGLU -lGL -c sglll.cpp
+ 1711  ./a.out
+ 1712  g++ -lglut -lGLU -lGL -c sglll.cpp
+ 1713  ./a.out
+ 1714  g++ -lglut -lGLU -lGL -c sglll.cpp
+ 1715  ./a.out
+ 1716  make
+ 1717  ./sglll
+ 1718  ./sgl
+ 1719  cd 
+ 1720  cd ddd
+ 1721  cd 201125188_
+ 1722  cd 201125188_Assignment3/
+ 1723  ls
+ 1724  cd
+ 1725  cd ddd
+ 1726  ls
+ 1727  cd
+ 1728  cd 201125188_Assignment3/
+ 1729  ls
+ 1730  make
+ 1731  ./sgl
+ 1732  make
+ 1733  ./sgl
+ 1734  make
+ 1735  ./sgl
+ 1736  make
+ 1737  ./sgl
+ 1738  make
+ 1739  ./sgl
+ 1740  make
+ 1741  ./sgl
+ 1742  make
+ 1743  ./sgl
+ 1744  make
+ 1745  ./sgl
+ 1746  make
+ 1747  ./sgl
+ 1748  make
+ 1749  ./sgl
+ 1750  make
+ 1751  ./sgl
+ 1752  make
+ 1753  ./sgl
+ 1754  make
+ 1755  ./sgl
+ 1756  make
+ 1757  ./sgl
+ 1758  make
+ 1759  ./sgl
+ 1760  cd 201125188_Assignment3/
+ 1761  ls
+ 1762  make
+ 1763  cd
+ 1764  cd dddd/
+ 1765  make
+ 1766  cd
+ 1767  cd 201125188_Assignment3/
+ 1768  make
+ 1769  g++  -lglut -lGL -lGLU -lm mainAssignment3.cpp 
+ 1770  ./a.out
+ 1771  g++  -lglut -lGL -lGLU -lm mainAssignment3.cpp 
+ 1772  ./a.out
+ 1773  cd 4
+ 1774  make
+ 1775  ./assignment4 
+ 1776  make
+ 1777  ./assignment4 
+ 1778  sudo su -
+ 1779  sudo su -
+ 1780  vi cso1/c
+ 1781  vi cso1.c
+ 1782  cc cso1.c 
+ 1783  vi cso1.c
+ 1784  cc cso1.c 
+ 1785  ./a.out
+ 1786  clear
+ 1787  vi cso1.c 
+ 1788  vi cso2.c
+ 1789  cc cso2.c 
+ 1790  ./a.out
+ 1791  vi lebe.c
+ 1792  cc lebe.c
+ 1793  ./a.ou
+ 1794  ./a.out
+ 1795  sudo su -
+ 1796  sudo su -
+ 1797  passwd
+ 1798  sudo su -
+ 1799  vi fee
+ 1800  sudo su 
+ 1801  sudo su -
+ 1802  sudo su -
+ 1803  cd cl2_project
+ 1804  ls
+ 1805  vi Recipe_data_1ksentences 
+ 1806  cd shallow-parser-hin-3.0
+ 1807  cd shallow-parser-hin-3.0.fc8
+ 1808  tar -xvzf shallow-parser-hin-3.0.tgz
+ 1809  cd shallow-parser-hin-3.0.fc8
+ 1810  echo "export SHALLOW_PARSER_HIN=~/sampark/shallow_parser_hin" >> ~/.bashrc
+ 1811  echo "export PATH=\$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
+ 1812  source ~/.bashrc
+ 1813  make install
+ 1814  shallow_parser_hin < shallowparser_hin_utf.rin  > myout
+ 1815  make install
+ 1816  echo "export SHALLOW_PARSER_HIN=~/sampark/shallow_parser_hin" >> ~/.bashrc
+ 1817  echo "export PATH=\$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
+ 1818  source ~/.bashrc
+ 1819  make install
+ 1820  cd
+ 1821  tar -xvzf shallow-parser-hin-3.0.tgz
+ 1822  cd  shallow-parser-hin-3.0
+ 1823  cd  shallow-parser-hin-3.0.fc8/
+ 1824  echo "export SHALLOW_PARSER_HIN=~/sampark/shallow_parser_hin" >> ~/.bashrc
+ 1825  echo "export PATH=\$PATH:\$SHALLOW_PARSER_HIN/bin/sys/hin/" >> ~/.bashrc
+ 1826  source ~/.bashrc
+ 1827  make install
+ 1828  sudo su -
+ 1829  sudo su -
+ 1830  ls
+ 1831  echo $setu
+ 1832  cd
+ 1833  pwd
+ 1834  vi .bashrc
+ 1835  source .bashrc
+ 1836  echo $setu
+ 1837  ls
+ 1838  cd shallow-parser-hin-3.0.fc8/
+ 1839  ls
+ 1840  vi INSTALL 
+ 1841  make install 
+ 1842  vi bin/sl/CRF++-0.51/node.cpp 
+ 1843  make install 
+ 1844  sudo apt-get install dos2unix 
+ 1845  make install 
+ 1846  sudo apt-get install dos2unix 
+ 1847  make install 
+ 1848  vi README-
+ 1849  vi INSTALL 
+ 1850  cd
+ 1851  cd $setu
+ 1852  ls
+ 1853  cd shallow_parser_hin/
+ 1854  ls
+ 1855  shallow_parser_hin INPFILE 
+ 1856  vi /home/kyathi/sampark/shallow_parser_hin/bin/sl/pruning//src/prune_on_pos.pl
+ 1857  shallow_parser_hin INPFILE 
+ 1858  shallow_parser_hin ls
+ 1859  cd 
+ 1860  cd $set
+ 1861  ls
+ 1862  cd $setu
+ 1863  ls
+ 1864  cd shallow_parser_hin/
+ 1865  ls
+ 1866  c
+ 1867  clear
+ 1868  ls
+ 1869  cd bin/
+ 1870  ls
+ 1871  cd sl/
+ 1872  ls
+ 1873  cd morph/
+ 1874  ls
+ 1875  cd hin/
+ 1876  ls
+ 1877  vi morph.sh 
+ 1878  cd ..
+ 1879  ls
+ 1880  cd
+ 1881  uname -a
+ 1882  cd
+ 1883  cd /usr/lib/
+ 1884  ls
+ 1885  ls libgd*
+ 1886  cd i386-linux-gnu/
+ 1887  ls
+ 1888  ls libgd*
+ 1889  sudo cp libgdbm.so.3 libgdbm.so.2
+ 1890  sudo cp libgdbm.so.3.0.0 libgdbm.so.2.0.0 
+ 1891  cd cl2_project/
+ 1892  cd sent
+ 1893  ls
+ 1894  cp 201-400_error_analysis count
+ 1895  vi count
+ 1896  grep unk count
+ 1897  grep unk count > count_unk
+ 1898  vi count_unk 
+ 1899  grep . count_unk > 1
+ 1900  vi 1
+ 1901  grep (( count_unk > 1
+ 1902  grep "((" count_unk > 1
+ 1903  vi 1
+ 1904  man grep
+ 1905  grep -v "((" count_unk > 1
+ 1906  vi 1
+ 1907  vi count_unk 
+ 1908  cp 201-400_error_analysis 1
+ 1909  grep unk 1 > 1
+ 1910  grep unk 1 > a1
+ 1911  vi a1
+ 1912  vi 1
+ 1913  cp 201-400_error_analysis 1
+ 1914  grep unk 1 > a1
+ 1915  vi a1
+ 1916  grep unk, 1 > a1
+ 1917  vi a1
+ 1918  grep -v chunk a1 > a2
+ 1919  vi a2
+ 1920  grep -v "((" a2 > a1
+ 1921  vi a1
+ 1922  cp a1 a2
+ 1923  man grep
+ 1924  grep -c "@" a1
+ 1925  wc -l a1
+ 1926  cd kovida
+ 1927  cd ..
+ 1928  cd kovida
+ 1929  ls
+ 1930  grep unk, analysis  > a1
+ 1931  vi a1
+ 1932  cp e_analysis..docx analysis 
+ 1933  grep unk, analysis  > a1
+ 1934  vi a1
+ 1935  vi analysis 
+ 1936  vi e_analysis.docx 
+ 1937  cp a1 a2
+ 1938  grep unk, analysis  > a3
+ 1939  vi a3
+ 1940  vi a1
+ 1941  grep unk, a2  > a3
+ 1942  vi a3
+ 1943  vi a2
+ 1944  grep -v "head" a3  > a4
+ 1945  vi a4
+ 1946  cd ..
+ 1947  ls
+ 1948  cd sent
+ 1949  ls
+ 1950  vi 1
+ 1951  grep chunk 1 > b1
+ 1952  vi b1
+ 1953  grep -c b1
+ 1954  wc -l b1
+ 1955  vi b1
+ 1956  cd ..
+ 1957  ls
+ 1958  wc -l myindata
+
